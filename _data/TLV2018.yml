@@ -140,4 +140,14 @@ mentors:
   rockstar: true
   thumbnailUrl: Ilya.png
 
+- id: 33
+  name: "Oshri"
+  surname: "Moyal"
+  title: "CTO"
+  company: "Atera.com and as consultant"
+  social:
+  bio: "Innovative person and a quick learner, love to teach and mentor young developers and would love to promote females in the industry "
+  rockstar: true
+  thumbnailUrl: Oshri.png
+
 
