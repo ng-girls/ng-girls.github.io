@@ -1,10 +1,12 @@
-eventDate: "August 8th, 2018 - Kharkiv, Ukraine"
-date: "Wednesday, August 8th, 2018"
+eventDate: "August 8-9th, 2018 - Kharkiv, Ukraine"
+date: "Wednesday & Thursday, August 8-9th, 2018"
 location: "Kharkiv, Ukraine"
 deadline: "July 22nd, 2018"
 applicationForm: "https://goo.gl/forms/3CCU8PH09L1bdtNn1"
 mentorsForm: "https://goo.gl/forms/D1UXeJHA85CBpxd72"
-confMessage: 'We are happy to be part of the <a href="https://ngtalks.io/" target="blank">NgTalks conference</a> and offer a free one-day workshop in Kharkiv, Ukraine!'
+confMessage: "<b>For the first time we're presenting a 2-day ngGirls workshop!</b> The first day will be all about Angular,
+the second day will feature different topics from the Web and development world.
+We are happy to be part of the <a href='https://ngtalks.io/' target='blank'>NgTalks conference</a> in Kharkiv, Ukraine!"
 descriptionTitle: "ngGirls @ NgTalks"
 descriptionBlock:
  - {title: "Who is it for?", template: "NgTalks/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
