@@ -1,0 +1,121 @@
+eventDate: "July 14th, 2018, Karachi, Pakistan"
+applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSfoXUkZc8spsn1qvbouyUAaGW6Pu5Iiq0_JKWjyR5H3_9b5OA/viewform"
+mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSdV_ijJIeeDi9LQjMv99Veo1NvRbLv1qfUWgNjUE35v44R2ew/viewform"
+descriptionTitle: "ngGirls @ Road to Angular"
+workshopDetail: "<b>For the first time we're presenting a 3 part ngGirls series to get started with Angular !</b> Our first workshop will cover HTML and CSS
+ following the set up and installation for the upcoming workshops. In the second workshop we will cover Javascript fundamentals.
+ And finally the third workshop will help you kickstart the Angular Framework."
+descriptionBlock:
+ - {title: "Who is it for?", template: "karachi2018/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "karachi2018/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+ - {title: "Schedule", template: "karachi2018/schedule.html", link: "/#schedule", linkTitle: "schedule", text: "Check out the Schedule. "}
+
+
+posts:
+- title: "Announcing ngGirls @ Road to Angular!"
+- content: "
+  <p class='post-body'>
+    <b>Excited to announce an ngGirls workshop in Karachi, Pakistan!</b>
+    <br>The workshop will be held on Saturday, July 14th, 2018. Application and Call for Mentors are open!
+  </p>
+"
+
+partners:
+
+-
+   group: "With support of"
+   elements:
+   - {name: "National Incubation Center", description: "National Incubation Center, Karachi", link: "https://www.facebook.com/NICKarachi/", imageUrl: "nic-karachi.jpg"}
+   - {name: "GDG Kolachi", description: "GDG Kolachi", link: "https://www.facebook.com/GDGKolachi/", imageUrl: "gdg-kolachi.png"}
+
+team:
+- id: 1
+  name: 'Zainab'
+  surname: 'Saleem'
+  thumbnailUrl: zainab.jpg
+  role: "Organizer"
+  bio: "<p>&nbsp;</p>"
+  link: https://www.twitter.com/zenabSaleemKhan
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/zenabSaleemKhan"}
+
+- id: 2
+  name: 'Robert'
+  surname: 'Willemelis'
+  thumbnailUrl: robert.png
+  role: "Organizer"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/robertSPD
+  social:
+  - {name: "twitter", link: "https://twitter.com/robertSPD"}
+
+- id: 3
+  name: 'Javeria'
+  surname: 'Nisar'
+  thumbnailUrl: javeria.jpg
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/JavaEria1
+  social:
+  - {name: "facebook", link: "https://twitter.com/JavaEria1"}
+
+- id: 4
+  name: 'Talia'
+  surname: 'Asghar'
+  thumbnailUrl: talia.jpg
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/taleyamirza
+  social:
+  - {name: "twitter", link: "https://twitter.com/taleyamirza"}
+
+mentors:
+- id: 3
+  name: 'Sarah'
+  surname: 'Ahmed'
+  thumbnailUrl: sarah.jpeg
+  role: "Speaker"
+  bio: "<p>&nbsp;</p>"
+  link: https://www.facebook.com/profile.php?id=100012491862049
+  social:
+  - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100012491862049"}
+
+- id: 4
+  name: 'Sohaib'
+  surname: 'Nehal'
+  thumbnailUrl: sohaib.jpeg
+  role: "Speaker"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/Sohaib_Nehal
+  social:
+  - {name: "twitter", link: "https://twitter.com/Sohaib_Nehal"}
+
+# - id: 5
+#   name: 'Mashhood'
+#   surname: 'Rastgar'
+#   thumbnailUrl: mashhood.jpg
+#   role: "Mentor"
+#   bio: "<p>&nbsp;</p>"
+#   link: https://twitter.com/mashhoodr
+#   social:
+#   - {name: "twitter", link: "https://twitter.com/mashhoodr"}
+
+# - id: 8
+#   name: 'Ahsan'
+#   surname: 'Ayaz'
+#   thumbnailUrl: ahsan.jpeg
+#   role: "Mentor"
+#   bio: "<p>&nbsp;</p>"
+#   link:  https://twitter.com/Ahsan_ayz
+#   social:
+#   - {name: "twitter", link: "https://twitter.com/Ahsan_ayz"}
+
+# - id: 13
+#   name: 'Narain'
+#   surname: 'Sagar'
+#   thumbnailUrl: narain.jpeg
+#   role: "Mentor"
+#   bio: "<p>&nbsp;</p>"
+#   link:  https://twitter.com/narainsagar
+#   social:
+#   - {name: "twitter", link: "https://twitter.com/narainsagar"}
