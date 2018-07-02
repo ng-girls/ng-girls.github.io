@@ -1,5 +1,5 @@
 # Plugins
-gems:
+plugins:
 - jekyll-sitemap
 safe: false
 plugins_dir:
@@ -74,6 +74,7 @@ bottomNavigationLinks:
 # - {permalink: "/angular_hq/", text: "ngGirls @ Angular HQ"}
 # - {permalink: "/berlin2018/", text: "ngGirls @ Berlin"}
  - {permalink: "/TLV2018/", text: "ngGirls @ TLV"}
+ - {permalink: "/karachi2018/", text: "ngGirls @  Road to Angular"}
  - {permalink: "/NgTalks/", text: "ngGirls @ NgTalks"}
  - {permalink: "/angular-connect2018/", text: "ngGirls @ AngularConnect"}
 rightNavigationButtons:
@@ -105,6 +106,7 @@ upcomingEvents:
 # - {permalink: "/angular_hq/", date: "May 11th", location: "Mountain View, California", name: "ngGirls @ Angular HQ"}
 # - {permalink: "/berlin2018/", date: "May 27th", location: "Berlin", name: "ngGirls @ Berlin"}
  - {permalink: "/TLV2018/", date: "June 22nd", location: "Tel-Aviv", name: "ngGirls @ TLV"}
+ - {permalink: "/karachi2018/", date: "July 14th", location: "Karachi, Pakistan", name: "ngGirls @ Road to Angular"}
  - {permalink: "/NgTalks/", date: "August 8-9th", location: "Kharkiv", name: "ngGirls @ NgTalks"}
  - {permalink: "/angular-connect2018/", date: "November 5th, 2018", location: "London", name: "ngGirls @ AngularConnect"}
 heroButtons:
@@ -128,6 +130,7 @@ heroButtons:
 #  - {permalink: "/ng-conf/", text: "ngGirls @ ng-conf"}
 # - {permalink: "/berlin2018/", text: "ngGirls @ Berlin"}
  - {permalink: "/TLV 2018/", text: "ngGirls @ TLV"}
+ - {permalink: "/karachi2018/", text: "ngGirls @  Road to Angular"}
  - {permalink: "/NgTalks/", text: "ngGirls @ NgTalks"}
 # - {permalink: "/angular_hq/", text: "ngGirls @ Angular HQ"}
  - {permalink: "/angular-connect2018/", text: "ngGirls @ Angular Connect"}
