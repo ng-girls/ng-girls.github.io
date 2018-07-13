@@ -25,11 +25,25 @@ posts:
 partners:
 
 -
-   group: "With support of"
+   group: "Gold Sponsor"
    elements:
-   - {name: "National Incubation Center", description: "National Incubation Center, Karachi", link: "https://www.facebook.com/NICKarachi/", imageUrl: "nic-karachi.jpg"}
-   - {name: "GDG Kolachi", description: "GDG Kolachi", link: "https://www.facebook.com/GDGKolachi/", imageUrl: "gdg-kolachi.png"}
+   - {name: "Koderslab", description: "KoderLabs", link: "https://www.koderlabs.com/", imageUrl: "koderlabs-karachi.svg", width: 350px, margin-top: -50px}
 
+-
+   group: "Silver Sponsor"
+   elements:
+   - {name: "Iomechs", description: "Iomechs", link: "http://iomechs.com/", imageUrl: "iomechs-karachi.png", width: 250px, margin-top: 0px}
+-
+   group: "And with support of"
+   elements:
+   - {name: "National Incubation Center", description: "National Incubation Center, Karachi", link: "https://www.facebook.com/NICKarachi/", imageUrl: "nic-karachi.png" , width: 120px, height: 120px}
+   - {name: "GDG Kolachi", description: "GDG Kolachi", link: "https://www.facebook.com/GDGKolachi/", imageUrl: "gdg-kolachi.png" , width: 120px, height: 120px}
+   - {name: "WomenInTechPK", description: "WomenInTechPK", link: "https://www.facebook.com/WomenInTechPK-284741715429508/", imageUrl: "womenintech.png" , width: 250px, height: 120px}
+   - {name: "Recurship", description: "Recurship", link: "https://www.facebook.com/recurship/", imageUrl: "recurship.png" , width: 120px, height: 120px}
+   - {name: "DevnCode", description: "DevnCode", link: "https://www.facebook.com/devncode17/", imageUrl: "devncode-karachi.svg" , width: 100px, height: 120px}
+  #  - {name: "DSWeekends", description: "DSWeekends", link: "https://www.facebook.com/GDGKolachi/", imageUrl: "gdg-kolachi.png" , width: 120px, height: 120px}
+  #  - {name: "Karachi.AI", description: "Karachi.AI", link: "https://www.facebook.com/GDGKolachi/", imageUrl: "gdg-kolachi.png" , width: 120px, height: 120px}
+  #  - {name: "Telemart", description: "Telemart", link: "https://www.facebook.com/GDGKolachi/", imageUrl: "gdg-kolachi.png" , width: 120px, height: 120px}
 team:
 - id: 1
   name: 'Zainab'
