@@ -74,7 +74,7 @@ bottomNavigationLinks:
 # - {permalink: "/angular_hq/", text: "ngGirls @ Angular HQ"}
 # - {permalink: "/berlin2018/", text: "ngGirls @ Berlin"}
 # - {permalink: "/TLV2018/", text: "ngGirls @ TLV"}
- - {permalink: "/karachi2018/", text: "ngGirls @  Road to Angular"}
+ - {permalink: "/karachi2018/", text: "ngGirls @ Road to Angular"}
  - {permalink: "/NgTalks/", text: "ngGirls @ NgTalks"}
  - {permalink: "/angular-connect2018/", text: "ngGirls @ AngularConnect"}
 rightNavigationButtons:
@@ -130,7 +130,7 @@ heroButtons:
 #  - {permalink: "/ng-conf/", text: "ngGirls @ ng-conf"}
 # - {permalink: "/berlin2018/", text: "ngGirls @ Berlin"}
 # - {permalink: "/TLV 2018/", text: "ngGirls @ TLV"}
- - {permalink: "/karachi2018/", text: "ngGirls @  Road to Angular"}
+ - {permalink: "/karachi2018/", text: "ngGirls @ Road to Angular"}
  - {permalink: "/NgTalks/", text: "ngGirls @ NgTalks"}
 # - {permalink: "/angular_hq/", text: "ngGirls @ Angular HQ"}
  - {permalink: "/angular-connect2018/", text: "ngGirls @ Angular Connect"}
