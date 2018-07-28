@@ -1,10 +1,9 @@
-eventDate: "July 14th, 2018, Karachi, Pakistan"
+eventDate: "July 29th, 2018, Karachi, Pakistan"
 applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSfoXUkZc8spsn1qvbouyUAaGW6Pu5Iiq0_JKWjyR5H3_9b5OA/viewform"
 mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLScWwBRrJtkIwAacS_Rzb9LTrYm-8mHziKG8X5FEo_75FO-Jqg/viewform"
-descriptionTitle: "ngGirls @ Road to Angular"
-workshopDetail: "<b>For the first time we're presenting a 3 part ngGirls series to get started with Angular !</b> Our first workshop will cover HTML and CSS
- following the set up and installation for the upcoming workshops. In the second workshop we will cover Javascript fundamentals.
- And finally the third workshop will help you kickstart the Angular Framework."
+descriptionTitle: "ngGirls: Road to Angular @ Google I/O Extended"
+workshopDetail: "<b>For the first time we're presenting a 3 part ngGirls series to get started with Angular !</b> Our third workshop will cover basic
+ concepts of Angular. we have already covered HTML, CSS, and Javascript fundamentals in our previous workshops."
 descriptionBlock:
  - {title: "Who is it for?", template: "karachi2018/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
  - {title: "Can I help?", template: "karachi2018/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
@@ -14,7 +13,7 @@ descriptionBlock:
 
 
 posts:
-- title: "Announcing ngGirls @ Road to Angular!"
+- title: "Announcing ngGirls: Road to Angular @ Google I/O Extended!"
 - content: "
   <p class='post-body'>
     <b>Excited to announce an ngGirls workshop in Karachi, Pakistan!</b>
@@ -27,23 +26,25 @@ partners:
 -
    group: "Gold Sponsor"
    elements:
-   - {name: "Koderslab", description: "KoderLabs", link: "https://www.koderlabs.com/", imageUrl: "koderlabs-karachi.svg", width: 350px, margin-top: -50px}
+   - {name: "Koderlabs", description: "KoderLabs", link: "https://www.koderlabs.com/", imageUrl: "koderlabs-karachi.png", width: 300px, margin-top: 10px}
+   - {name: "Folio3", description: "Folio3", link: "http://www.folio3.com/", imageUrl: "folio3-logo.png", width: 170px, margin-top: -10px}
 
 -
    group: "Silver Sponsor"
    elements:
-   - {name: "Iomechs", description: "Iomechs", link: "http://iomechs.com/", imageUrl: "iomechs-karachi.png", width: 250px, margin-top: 0px}
+   - {name: "Iomechs", description: "Iomechs", link: "http://iomechs.com/", imageUrl: "iomechs-karachi.png", width: 170px, margin-top: 0px}
 -
    group: "And with support of"
    elements:
-   - {name: "National Incubation Center", description: "National Incubation Center, Karachi", link: "https://www.facebook.com/NICKarachi/", imageUrl: "nic-karachi.png" , width: 120px, height: 120px}
+   - {name: "National Incubation Center", description: "National Incubation Center, Karachi", link: "https://www.facebook.com/NICKarachi/", imageUrl: "nic-karachi.png" , width: 100px, height: 120px}
    - {name: "GDG Kolachi", description: "GDG Kolachi", link: "https://www.facebook.com/GDGKolachi/", imageUrl: "gdg-kolachi.png" , width: 120px, height: 120px}
    - {name: "WomenInTechPK", description: "WomenInTechPK", link: "https://www.facebook.com/WomenInTechPK-284741715429508/", imageUrl: "womenintech.png" , width: 250px, height: 120px}
    - {name: "Recurship", description: "Recurship", link: "https://www.facebook.com/recurship/", imageUrl: "recurship.png" , width: 120px, height: 120px}
-   - {name: "DevnCode", description: "DevnCode", link: "https://www.facebook.com/devncode17/", imageUrl: "devncode-karachi.svg" , width: 100px, height: 120px}
-  #  - {name: "DSWeekends", description: "DSWeekends", link: "https://www.facebook.com/GDGKolachi/", imageUrl: "gdg-kolachi.png" , width: 120px, height: 120px}
-  #  - {name: "Karachi.AI", description: "Karachi.AI", link: "https://www.facebook.com/GDGKolachi/", imageUrl: "gdg-kolachi.png" , width: 120px, height: 120px}
-  #  - {name: "Telemart", description: "Telemart", link: "https://www.facebook.com/GDGKolachi/", imageUrl: "gdg-kolachi.png" , width: 120px, height: 120px}
+   - {name: "DevnCode", description: "DevnCode", link: "https://www.facebook.com/devncode17/", imageUrl: "devncode-karachi.svg" , width: 85px, height: 120px}
+   - {name: "Loops Digital", description: "Loops Digital", link: "https://twitter.com/loopsdigital", imageUrl: "loops-logo.png" , width: 100px, height: 120px}
+   - {name: "DSWeekends", description: "DSWeekends", link: "https://www.facebook.com/events/848091002054636/", imageUrl: "ds-weekends-logo.png" , width: 250px, height: 120px}
+   - {name: "Karachi.AI", description: "Karachi.AI", link: "https://www.facebook.com/KarachiDotAi/", imageUrl: "karachiai-logo.png" , width: 250px, height: 120px}
+   - {name: "Telemart", description: "Telemart", link: "https://www.telemart.pk/", imageUrl: "telemart-logo.png" , width: 200px, height: 120px}
 team:
 - id: 1
   name: 'Zainab'
