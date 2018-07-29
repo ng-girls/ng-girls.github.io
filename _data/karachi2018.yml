@@ -45,11 +45,11 @@ partners:
    - {name: "DSWeekends", description: "DSWeekends", link: "https://www.facebook.com/events/848091002054636/", imageUrl: "ds-weekends-logo.png" , width: 250px, height: 120px}
    - {name: "Karachi.AI", description: "Karachi.AI", link: "https://www.facebook.com/KarachiDotAi/", imageUrl: "karachiai-logo.png" , width: 250px, height: 120px}
    - {name: "Telemart", description: "Telemart", link: "https://www.telemart.pk/", imageUrl: "telemart-logo.png" , width: 200px, height: 120px}
-team:
+mentors:
 - id: 1
   name: 'Zainab'
   surname: 'Saleem'
-  thumbnailUrl: zainab.jpg
+  thumbnailUrl: zainab.png
   role: "Organizer"
   bio: "<p>&nbsp;</p>"
   link: https://www.twitter.com/zenabSaleemKhan
@@ -70,67 +70,328 @@ team:
   name: 'Javeria'
   surname: 'Nisar'
   thumbnailUrl: javeria.jpg
+  role: "Co-Organizer"
   bio: "<p>&nbsp;</p>"
   link: https://twitter.com/JavaEria1
   social:
   - {name: "facebook", link: "https://twitter.com/JavaEria1"}
 
 - id: 4
-  name: 'Talia'
-  surname: 'Asghar'
-  thumbnailUrl: talia.jpg
+  name: 'Mashhood'
+  surname: 'Rastgar'
+  thumbnailUrl: mashhood.jpg
+  role: "Event Advisor / Mentor"
   bio: "<p>&nbsp;</p>"
-  link: https://twitter.com/taleyamirza
+  link: https://twitter.com/mashhoodr
   social:
-  - {name: "twitter", link: "https://twitter.com/taleyamirza"}
+  - {name: "twitter", link: "https://twitter.com/mashhoodr"}
 
-mentors:
-- id: 3
+- id: 5
   name: 'Sarah'
   surname: 'Ahmed'
   thumbnailUrl: sarah.jpeg
-  role: "Speaker"
+  role: "Tech Trainer / Mentor"
   bio: "<p>&nbsp;</p>"
   link: https://www.facebook.com/profile.php?id=100012491862049
   social:
   - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100012491862049"}
 
-- id: 4
+- id: 6
   name: 'Sohaib'
   surname: 'Nehal'
   thumbnailUrl: sohaib.jpeg
-  role: "Speaker"
+  role: "Tech Trainer / Mentor"
   bio: "<p>&nbsp;</p>"
   link: https://twitter.com/Sohaib_Nehal
   social:
   - {name: "twitter", link: "https://twitter.com/Sohaib_Nehal"}
 
-# - id: 5
-#   name: 'Mashhood'
-#   surname: 'Rastgar'
-#   thumbnailUrl: mashhood.jpg
-#   role: "Mentor"
-#   bio: "<p>&nbsp;</p>"
-#   link: https://twitter.com/mashhoodr
-#   social:
-#   - {name: "twitter", link: "https://twitter.com/mashhoodr"}
+- id: 7
+  name: 'Sana'
+  surname: 'Amin'
+  thumbnailUrl: sana-amin.jpg
+  role: "Tech Trainer"
+  bio: "<p>&nbsp;</p>"
+  link: https://www.facebook.com/sana.aminn
+  social:
+  - {name: "facebook", link: "https://www.facebook.com/sana.aminn"}
 
-# - id: 8
-#   name: 'Ahsan'
-#   surname: 'Ayaz'
-#   thumbnailUrl: ahsan.jpeg
-#   role: "Mentor"
-#   bio: "<p>&nbsp;</p>"
-#   link:  https://twitter.com/Ahsan_ayz
-#   social:
-#   - {name: "twitter", link: "https://twitter.com/Ahsan_ayz"}
+- id: 8
+  name: 'Maria'
+  surname: 'Jamshed'
+  thumbnailUrl: maria-jamshed.jpg
+  role: "Guest speaker"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/Mariyakhan07
+  social:
+  - {name: "twitter", link: "https://twitter.com/Mariyakhan07"}
 
-# - id: 13
-#   name: 'Narain'
-#   surname: 'Sagar'
-#   thumbnailUrl: narain.jpeg
-#   role: "Mentor"
-#   bio: "<p>&nbsp;</p>"
-#   link:  https://twitter.com/narainsagar
-#   social:
-#   - {name: "twitter", link: "https://twitter.com/narainsagar"}
+- id: 9
+  name: 'Shamim'
+  surname: 'Rajani'
+  thumbnailUrl: shamim.jpg
+  role: "Guest speaker"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/shamimrajani
+  social:
+  - {name: "twitter", link: "https://twitter.com/shamimrajani"}
+
+- id: 10
+  name: 'Talia'
+  surname: 'Asghar'
+  thumbnailUrl: talia.jpg
+  role: "Guest speaker / Mentor"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/taleyamirza
+  social:
+  - {name: "twitter", link: "https://twitter.com/taleyamirza"}
+
+- id: 11
+  name: 'Faiza'
+  surname: 'Yousuf'
+  thumbnailUrl: Faiza-Yousuf.jpg
+  role: "Guest speaker"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/FaizaYousuf
+  social:
+  - {name: "twitter", link: "https://twitter.com/FaizaYousuf"}
+
+- id: 12
+  name: 'Ahsan'
+  surname: 'Ayaz'
+  thumbnailUrl: ahsan.jpeg
+  role: "Guest Speaker / Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/Ahsan_ayz
+  social:
+  - {name: "twitter", link: "https://twitter.com/Ahsan_ayz"}
+
+- id: 13
+  name: 'Narain'
+  surname: 'Sagar'
+  thumbnailUrl: narain.jpeg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/narainsagar
+  social:
+  - {name: "twitter", link: "https://twitter.com/narainsagar"}
+
+- id: 14
+  name: 'Muhammad'
+  surname: 'Ibrahim'
+  thumbnailUrl: ibrahim.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://www.facebook.com/ibrahimswalle/
+  social:
+  - {name: "facebook", link: "https://www.facebook.com/ibrahimswalle/"}
+
+- id: 15
+  name: 'Tuba'
+  surname: 'Mohsin'
+  thumbnailUrl: tuba-mohsin.jpeg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/Tubaa_Khan
+  social:
+  - {name: "twitter", link: "https://twitter.com/Tubaa_Khan"}
+
+- id: 16
+  name: 'Muneeba'
+  surname: 'Anwar'
+  thumbnailUrl: muneeba.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/MuneebaAnwar
+  social:
+  - {name: "twitter", link: "https://twitter.com/MuneebaAnwar"}
+
+- id: 17
+  name: 'Dua'
+  surname: 'Alsaidy'
+  thumbnailUrl: dua.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://www.facebook.com/nggirlskhi/photos/a.646565399033705.1073741831.558343044522608/646570965699815/?type=3&theater
+  social:
+  - {name: "facebook", link: "https://www.facebook.com/nggirlskhi/photos/a.646565399033705.1073741831.558343044522608/646570965699815/?type=3&theater"}
+
+- id: 18
+  name: 'Ahmed'
+  surname: 'Khan'
+  thumbnailUrl: ahmed.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/50shadeofkhan
+  social:
+  - {name: "twitter", link: "https://twitter.com/50shadeofkhan"}
+
+- id: 19
+  name: 'Owais'
+  surname: 'Ahmed Qureshi'
+  thumbnailUrl: owais.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://www.facebook.com/nggirlskhi/photos/a.646610499029195.1073741832.558343044522608/646612032362375/?type=3&theater
+  social:
+  - {name: "facebook", link: "https://www.facebook.com/nggirlskhi/photos/a.646610499029195.1073741832.558343044522608/646612032362375/?type=3&theater"}
+
+- id: 20
+  name: 'Muhammad'
+  surname: 'Shaharyar'
+  thumbnailUrl: shahry.jpeg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/shairy123
+  social:
+  - {name: "twitter", link: "https://twitter.com/shairy123"}
+
+- id: 21
+  name: 'Usman'
+  surname: 'Hussain'
+  thumbnailUrl: usman.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://www.facebook.com/usman.hussain.568
+  social:
+  - {name: "facebook", link: "https://www.facebook.com/usman.hussain.568"}
+
+- id: 22
+  name: 'Aamir'
+  surname: 'Saleem'
+  thumbnailUrl: aamir.jpeg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/aamirsaleem167
+  social:
+  - {name: "twitter", link: "https://twitter.com/aamirsaleem167"}
+
+- id: 23
+  name: 'Syed Sabih'
+  surname: 'Ur Rehman'
+  thumbnailUrl: sabih.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/Sabih811
+  social:
+  - {name: "twitter", link: "https://twitter.com/Sabih811"}
+
+- id: 24
+  name: 'Abdul Sami'
+  surname: 'Haroon'
+  thumbnailUrl: sami.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/_sami_khan
+  social:
+  - {name: "twitter", link: "https://twitter.com/_sami_khan"}
+
+- id: 25
+  name: 'Syed Muhammad'
+  surname: 'Taha'
+  thumbnailUrl: taha.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://www.facebook.com/nggirlskhi/photos/a.646610499029195.1073741832.558343044522608/648030855553826/?type=3&theater
+  social:
+  - {name: "facebook", link: "https://www.facebook.com/nggirlskhi/photos/a.646610499029195.1073741832.558343044522608/648030855553826/?type=3&theater"}
+
+- id: 26
+  name: 'Bilal'
+  surname: 'Alam'
+  thumbnailUrl: bilal.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/Bilal1alam
+  social:
+  - {name: "twitter", link: "https://twitter.com/Bilal1alam"}
+
+- id: 27
+  name: 'Saad'
+  surname: 'Abbasi'
+  thumbnailUrl: saad.jpeg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://www.facebook.com/saadi.dev
+  social:
+  - {name: "facebook", link: "https://www.facebook.com/saadi.dev"}
+
+- id: 28
+  name: 'Qaseem'
+  surname: 'Lodhi'
+  thumbnailUrl: qaseemlodhi.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://www.facebook.com/qaseem.wakeel
+  social:
+  - {name: "facebook", link: "https://www.facebook.com/qaseem.wakeel"}
+
+- id: 29
+  name: 'Zohra'
+  surname: 'Jabeen'
+  thumbnailUrl: zohra.png
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://www.facebook.com/nggirlskhi/photos/a.646610499029195.1073741832.558343044522608/646613649028880/?type=3&theater
+  social:
+  - {name: "facebook", link: "https://www.facebook.com/nggirlskhi/photos/a.646610499029195.1073741832.558343044522608/646613649028880/?type=3&theater"}
+
+- id: 30
+  name: 'Talha Abdul'
+  surname: 'Qadir Khatri'
+  thumbnailUrl: talha.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/DekhKhatri
+  social:
+  - {name: "twitter", link: "https://twitter.com/DekhKhatri"}
+
+- id: 31
+  name: 'Aarish'
+  surname: 'Khan'
+  thumbnailUrl: aarish.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/Ak_632
+  social:
+  - {name: "twitter", link: "https://twitter.com/Ak_632"}
+
+- id: 32
+  name: 'Madeeha'
+  surname: 'Hasan'
+  thumbnailUrl: madeeha.gif
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/h96_madeeha
+  social:
+  - {name: "twitter", link: "https://twitter.com/h96_madeeha"}
+
+- id: 33
+  name: 'Muhammad Junaid'
+  surname: 'Aziz'
+  thumbnailUrl: junaid.jpeg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/azizijunaid
+  social:
+  - {name: "twitter", link: "https://twitter.com/azizijunaid"}
+
+- id: 34
+  name: 'Abdul'
+  surname: 'Qadir'
+  thumbnailUrl: qadir.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://www.facebook.com/abdulqadir.xp
+  social:
+  - {name: "twitter", link: "https://www.facebook.com/abdulqadir.xp"}
+
+- id: 35
+  name: 'Nawazish'
+  surname: 'Ali'
+  thumbnailUrl: nawazish.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link:  https://www.facebook.com/nawazishaliejaz
+  social:
+  - {name: "facebook", link: "https://www.facebook.com/nawazishaliejaz"}

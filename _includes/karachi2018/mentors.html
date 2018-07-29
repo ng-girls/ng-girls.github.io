@@ -8,7 +8,7 @@
 
       {% assign animationDelay = 0 %}
       {% for member in site.data.karachi2018.mentors %}
-        {% assign colWidth = 6 %}
+        {% assign colWidth = 2  %}
       {% assign memberImage = site.baseurl | append: '/img/karachi-mentors/' | append: member.thumbnailUrl %}
       <div class="col-md-{{ colWidth }} col-xs-6 rockstar-speakers-item animated hiding"
            data-animation="fadeInUp"
@@ -32,35 +32,6 @@
       {% assign check = forloop.index | modulo:2 %}
       {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
       {% endfor %}
-
-      <h4 id="organizing-team-title">Meet the Team</h4>
-      {% assign animationDelay = 0 %}
-      {% for member in site.data.karachi2018.team %}
-        {% assign colWidth = 3 %}
-      {% assign memberImage = site.baseurl | append: '/img/karachi-mentors/' | append: member.thumbnailUrl %}
-      <div class="col-md-{{ colWidth }} col-xs-6 rockstar-speakers-item animated hiding"
-           data-animation="fadeInUp"
-           data-delay="{{ animationDelay }}">
-        <div class="lily-head" data-toggle="modal" data-target="#mentorDetailFrontendCon-{{ member.id }}">
-          <div class="rockstar-speaker">
-            {% if member.link %}
-              <a href="{{ member.link }}" target="_blank">
-            {% else %}
-              <a href="#">
-            {% endif %}
-            <div class="flow-img img-circle rockstar-speaker-img" style="background-image: url({{ memberImage }})"></div>
-            <div style="font-size:20px;">{{ member.name }} {{ member.surname }}</div>
-            <p>{{ member.role }}</p>
-          </a>
-          <br />
-          </div>
-        </div>
-      </div>
-      {% assign animationDelay = animationDelay | plus:50 %}
-      {% assign check = forloop.index | modulo:2 %}
-      {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
-      {% endfor %}
-
     </div>
   </div>
 </section>
