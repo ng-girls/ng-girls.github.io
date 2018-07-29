@@ -5,20 +5,21 @@
             <h3>{{ site.partnersTitle }}</h3>
             {% for partner in site.data.karachi2018.partners %}
             <h5>{{ partner.group }}</h5>
-            <ul class="list-inline">
-                {% for element in partner.elements %}
-                <li {% if element.width != null || element.margin-top != null %} style="width: {{ element.width }}; margin-top: {{element.margin-top || 0}};"
-                    {% endif %}>
-                    <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
-                    </a>
-                </li>
-                {% endfor %}
-            </ul>
+            <div class="row">
+                <ul class="list-inline col-lg-10 col-lg-offset-1">
+                    {% for element in partner.elements %}
+                    <li {% if element.width != null || element.margin-top != null %} style="width: {{ element.width }}; margin-top: {{element.margin-top || 0}};"
+                        {% endif %}>
+                        <a href="{{ element.link }}" target="_blank">
+                            <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                        </a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
             {% endfor %}
-
-            <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" target="_blank" class="karachi-btn btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
         </div>
+        <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" target="_blank" class="karachi-btn btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
     </div>
 </section>
 <!-- End Partners Section -->
