@@ -1,0 +1,36 @@
+eventDate: "October 20th, 2018, Seattle, WA"
+applicationForm: "#"
+mentorsForm: "#"
+ngconfSite: "#"
+descriptionTitle: "ngGirls @ Seattle 2018"
+descriptionBlock:
+ - {title: "Who is it for?", template: "seattle-2018/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "seattle-2018/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+
+
+partners:
+
+-
+   group: "With support of"
+   elements:
+     - {name: "Cat", description: "Some Cat", link: "cat", imageUrl: "angular.svg"}
+
+
+
+mentors:
+
+
+- id: 1
+  name: 'Nicole'
+  surname: 'Oliver'
+  thumbnailUrl: nicole_oliver.jpg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>I'm a full-stack web developer currently working at Nintendo. I use my background in design and amateur game development to create fun and intuitive application interfaces. I love exploring code with other developers, and am always thrilled to share what I know!
+</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/nixallover"}
+
+
