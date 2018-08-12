@@ -1,0 +1,34 @@
+eventDate: "October 20th, 2018, Hamburg, Germany"
+applicationForm: "#"
+mentorsForm: "#"
+ngconfSite: "#"
+descriptionTitle: "ngGirls @ Hamburg 2018"
+descriptionBlock:
+ - {title: "Who is it for?", template: "hamburg-2018/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "hamburg-2018/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+
+
+partners:
+
+-
+   group: "With support of"
+   elements:
+     - {name: "Cat", description: "Some Cat", link: "cat", imageUrl: "angular.svg"}
+
+
+
+mentors:
+
+- id: 1
+  name: "And You?"
+  surname: ""
+  company: "&nbsp;"
+  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
+  thumbnailUrl: you.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/xxx"}
+
+
