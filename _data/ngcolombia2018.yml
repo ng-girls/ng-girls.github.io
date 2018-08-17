@@ -1,0 +1,72 @@
+eventDate: "Septiembre 1, 2018, Medellín"
+applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSdj6sf5OydOrLyhZ1RbOgcXUWVhSRjLb7lo5tSHlLmClisXEQ/viewform"
+mentorsForm: "#"
+descriptionTitle: "ngGirls Colombia 2018"
+descriptionBlock:
+ - {title: "¿Para quién es?", template: "ngcolombia-2018/description-who-is-it-for.html", link: "/#faq", linkTitle: "Échale un vistazo a las preguntas frecuentes"}
+#  - {title: "Agenda", template: "colombia/description-schedule.html", link: "/#faq", linkTitle: "Échale un vistazo a las preguntas frecuentes"}
+ - {title: "¿Puedo ayudar?", template: "ngcolombia-2018/description-can-i-help.html", link: "/#help", linkTitle: "contáctanos", text: "¡Por supuesto! Hay varias maneras en que puedes ayudar
+: <br/>
+                  <ul><li><b>Sponsors</b> -¡Con tu ayuda podemos hacer que nuestros eventos sean verdaderamente increíbles!
+                  Desde las oportunidades de entradas a las Conferencias de Angular, hasta el suministro de grandiosas sorpresas para las chicas, muchas oportunidades para ayudar. "}
+
+partners:
+
+-
+   group: "Con apoyo de"
+   elements:
+     - {name: "Yuxi Global", description: " Efficient, clean and user-centric solutions. We build software that looks good, feels good and works greats",
+        link: "http://yuxiglobal.com/", imageUrl: "YuxiGlobal.jpeg", style: "transform: scale(1.0)"}
+     - {name: "Ng Colombia", description: "Latam first Angular Conference",
+        link: "http://ng-colombia.org/", imageUrl: "ngcolombia.svg", style: "transform: scale(0.8)"}
+     - {name: "Angular Medelín", description: "Colombia's largest Angular Meetup",
+        link: "http://angularmedellin.com/", imageUrl: "AngularMed.jpg", style: "transform: scale(1.2)"}
+     
+     
+
+
+mentors:
+
+
+- id: 1
+  name: "Laura"
+  surname: "Ciro"
+  bio: "<p>Full-Stack developer: Amo programar y la comunidad entorno a la programación y el OSS, organizadora de Pioneras Dev y Rails Girls Medellin y Pereira </p>"
+  thumbnailUrl: laura.jpeg
+  company: "organizador"
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ltciro"}
+    - {name: "github", link: "https://github.com/ltciro"}
+
+- id: 2
+  name: "Manuela"
+  surname: "Castrillón"
+  bio: "<p>Estudiante de Ingeniería de Sistemas de la Universidad de Antioquia 💚, amo el desarrollo web, especialmente frontend. Fan de la pizza, la música y los algoritmos 🤘 </p>"
+  thumbnailUrl: manuelacastrillon.jpg
+  company: "organizador"
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ManuCastrillonM"}
+    - {name: "github", link: "https://github.com/ManuCastrillonM"}
+
+- id: 3
+  name: "Maria Alejandra"
+  surname: " Giraldo Blandon"
+  bio: "<p>&nbsp;</p>"
+  thumbnailUrl: maria.jpg
+  company: "organizador"
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/maleja111"}
+
+- id: 4
+  name: "Vanessa"
+  surname: "Marely"
+  bio: "<p>&nbsp;</p>"
+  thumbnailUrl: vanessa.jpg
+  company: "organizador"
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/vanessamarely"}
+
