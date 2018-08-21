@@ -1,0 +1,34 @@
+heroImage: "warsaw.jpg"
+eventDate: "November 17th, 2018 - Warsaw, Poland"
+date: "Saturday, November 17th, 2018"
+location: "7N Warsaw Office, ul. Puławska 182, 12 piętro, Warsaw"
+deadline: "October 21st, 2018"
+applicationForm: "https://goo.gl/forms/3uILpxKjp7Qhy4ZU2"
+mentorsForm: "https://goo.gl/forms/VpFdKUUXFANsLcmI2"
+confMessage: "We are happy to be part of the <a href='http://ng-poland.pl/' target='blank'>ngPoland</a> & <a href='http://www.js-poland.pl/' target='blank'>JSPoland conferences</a> in Warsaw, Poland!"
+descriptionTitle: "ngGirls @ ngPoland"
+descriptionBlock:
+ - {title: "Who is it for?", template: "ngPoland2018/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "ngPoland2018/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+partners:
+
+-  group: "Hosted by"
+   elements:
+     - {name: "JSPoland", description: "JSPoland", link: "http://www.js-poland.pl/", imageUrl: "js-poland-logo.png", width: "100px"}
+     - {name: "ngPoland", description: "ngPoland", link: "http://ng-poland.pl/", imageUrl: "ng-poland-logo.svg"}
+     - {name: "7N Warsaw", description: "7N - Agent for High-End IT Professionals", link: "https://www.7n.com/", imageUrl: "7NWarsaw.jpeg", width: "initial"}
+
+
+mentors:
+
+- id: 1
+  name: 'Mashhood'
+  surname: 'Rastgar'
+  title: 'Technical Lead'
+  company: 'Recurship'
+  social:
+  - {name: 'twitter', link: "https://www.twitter.com/mashhoodr"}
+  thumbnailUrl: "Mashhood.jpg"
+  bio: "Mashhood is the principal technical consultant at Recurship and a Google Developer Expert. He  works with different startups in US and EU to helps them crawl through the technical maze and quickly build amazing products focused around the problems they are trying to solve. He enjoys mentoring and helping people learn about latest web technologies."
