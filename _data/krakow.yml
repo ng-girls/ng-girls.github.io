@@ -1,0 +1,32 @@
+heroImage: "krakow.jpg"
+eventDate: "October 20th, 2018 - Krakow, Poland"
+date: "Saturday, October 20th, 2018"
+location: "Codewise Office, Krakow"
+deadline: "September 23rd, 2018"
+applicationForm: "https://goo.gl/forms/6XOx5AmR4slNntKq1"
+mentorsForm: "https://goo.gl/forms/vJxjFXLNRBdBNvAP2"
+confMessage: "We are happy to be hosted by <a href='https://codewise.com/' target='blank'>Codewise</a> in its headquarters in Krakow, Poland!"
+descriptionTitle: "ngGirls @ Krakow"
+descriptionBlock:
+ - {title: "Who is it for?", template: "krakow/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "krakow/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+partners:
+
+-  group: "Hosted by"
+   elements:
+     - {name: "Codewise", description: "Codewise", link: "https://codewise.com/", imageUrl: "CODEWISE_Logo.jpg"}
+
+
+mentors:
+
+- id: 1
+  name: 'Mashhood'
+  surname: 'Rastgar'
+  title: 'Technical Lead'
+  company: 'Recurship'
+  social:
+  - {name: 'twitter', link: "https://www.twitter.com/mashhoodr"}
+  thumbnailUrl: "Mashhood.jpg"
+  bio: "Mashhood is the principal technical consultant at Recurship and a Google Developer Expert. He  works with different startups in US and EU to helps them crawl through the technical maze and quickly build amazing products focused around the problems they are trying to solve. He enjoys mentoring and helping people learn about latest web technologies."
