@@ -1,4 +1,4 @@
-heroImage: "warsaw.jpg"
+heroImage: "warsaw-small.jpg"
 eventDate: "November 17th, 2018 - Warsaw, Poland"
 date: "Saturday, November 17th, 2018"
 location: "7N Warsaw Office, ul. Puławska 182, 12 piętro, Warsaw"
@@ -16,9 +16,9 @@ partners:
 
 -  group: "Hosted by"
    elements:
-     - {name: "JSPoland", description: "JSPoland", link: "http://www.js-poland.pl/", imageUrl: "js-poland-logo.png", width: "100px"}
-     - {name: "ngPoland", description: "ngPoland", link: "http://ng-poland.pl/", imageUrl: "ng-poland-logo.svg"}
-     - {name: "7N Warsaw", description: "7N - Agent for High-End IT Professionals", link: "https://www.7n.com/", imageUrl: "7NWarsaw.jpeg", width: "initial"}
+     - {name: "JSPoland", description: "JSPoland", link: "http://www.js-poland.pl/", imageUrl: "js-poland-logo.png"}
+     - {name: "ngPoland", description: "ngPoland", link: "http://ng-poland.pl/", imageUrl: "ngPoland.png"}
+     - {name: "7N Warsaw", description: "7N - Agent for High-End IT Professionals", link: "https://www.7n.com/", imageUrl: "7N_logo.png"}
 
 
 mentors:
