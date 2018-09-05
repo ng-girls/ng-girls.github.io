@@ -1,8 +1,12 @@
+heroImage: "seattle.png"
 eventDate: "October 20th, 2018, Seattle, WA"
-applicationForm: "#"
-mentorsForm: "#"
-ngconfSite: "#"
-descriptionTitle: "ngGirls @ Seattle 2018"
+date: "Saturday, October 20th, 2018, between 8:30AM - 5PM,"
+location: " at Google offices, Kirkland, WA"
+deadline: "September 23rd, 2018"
+applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSfBd0BI1AiQUVy67KV5o0WL_f8QoGcHEBf5R38DU543ksRELQ/viewform"
+mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSdCSQoxbeg6zcRlEWp7-HxkwXx2P2b2BosvbAGeckGiJResxA/viewform"
+confMessage: "We are happy to be part of the <a href='http://ng-poland.pl/' target='blank'>ngPoland</a> & <a href='http://www.js-poland.pl/' target='blank'>JSPoland conferences</a> in Warsaw, Poland!"
+descriptionTitle: "ngGirls @ Seattle"
 descriptionBlock:
  - {title: "Who is it for?", template: "seattle-2018/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
  - {title: "Can I help?", template: "seattle-2018/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
@@ -11,13 +15,25 @@ descriptionBlock:
 
 
 partners:
-
--
-   group: "With support of"
+ - group: "With support of"
    elements:
-     - {name: "Cat", description: "Some Cat", link: "cat", imageUrl: "angular.svg"}
+     - {name: "Google", description: "Google", link: "https://www.google.com/", imageUrl: "Google_logo.jpg"}
+     - {name: "Google Open Source", description: "Google Open Source", link: "https://opensource.google.com/", imageUrl: "Google_Open_Source_logo.png"}
 
 
+organizingTeamTitle: "ngGirls @ Seattle Team"
+team:
+  - id: 1
+    name: 'Craig'
+    surname: 'Nishina'
+    thumbnailUrl: Craig.jpg
+    title: "Software Engineer Tools and Infrastructure"
+    company: "Google"
+    bio: "<p>Craig works as a Software Engineer in Tools and Infrastructure at Google and a former
+    member of the Protractor team. Before Craig became a developer,
+    he had a previous career as a civil engineer.</p>"
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/cnishina"}
 
 mentors:
 
