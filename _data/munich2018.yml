@@ -1,8 +1,11 @@
+heroImage: "munich.jpg"
 eventDate: "November 24th, 2018, Munich, Germany"
-applicationForm: "#"
-mentorsForm: "#"
-ngconfSite: "#"
-descriptionTitle: "ngGirls @ Munich 2018"
+date: "Saturday, November 24th, 2018"
+location: " at Virtual Identity AG, Munich, Germany"
+deadline: "October 26th, 2018"
+applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLScMH1xX7n1rmBenjqV1BbQOEyQhTXBPexchkHP4X1KPAFXHaw/viewform"
+mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSc5pn-wdWdONyRLHwlbJ__1EUY-pVB_5yZ9yArbhQ3Kn201KA/viewform"
+descriptionTitle: "ngGirls @ Munich"
 descriptionBlock:
  - {title: "Who is it for?", template: "munich-2018/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
  - {title: "Can I help?", template: "munich-2018/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
@@ -15,7 +18,7 @@ partners:
 -
    group: "With support of"
    elements:
-     - {name: "Cat", description: "Some Cat", link: "cat", imageUrl: "angular.svg"}
+     - {name: "Virtual Identity AG", description: "Virtual Identity AG. All Digital. Since 1995.", link: "https://www.virtual-identity.com/", imageUrl: "VI_Munich.png", width: "100px"}
 
 
 
