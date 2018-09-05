@@ -1,8 +1,11 @@
+heroImage: "hamburg.png"
+date: "Saturday, October 20th, 2018"
+location: " in Hamburg, Germany"
+deadline: "September 23rd, 2018"
 eventDate: "October 20th, 2018, Hamburg, Germany"
-applicationForm: "#"
-mentorsForm: "#"
-ngconfSite: "#"
-descriptionTitle: "ngGirls @ Hamburg 2018"
+applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSfAWJFcdPnMM_bmbq9IVJBWVWb83KmCXY6xsbLj9_my6mdNXQ/viewform?usp=sf_link"
+mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSf3OBnHfe5ZVSKxbEvb3BbSZV-73NYw3CL4o-5qvTrISwj8OQ/viewform?usp=sf_link"
+descriptionTitle: "ngGirls @ Hamburg"
 descriptionBlock:
  - {title: "Who is it for?", template: "hamburg-2018/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
  - {title: "Can I help?", template: "hamburg-2018/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
