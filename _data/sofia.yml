@@ -1,0 +1,37 @@
+heroImage: "sofia.jpg"
+date: "Monday, November 12th, 2018 between 9:00 - 12:00"
+location: " in Sofia, Bulgaria"
+deadline: "October 14th, 2018"
+eventDate: "November 12th, 2018, Sofia, Bulgaria"
+applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSfqmdIM177SJ-R56U9TzexVoQ714YehX6FsaprS9ot87KIpwA/viewform?usp=sf_link"
+mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLScjCJNO6MoUKBiJXsmwzsbkdxv5lC49fZTOymS88AkQzwor3Q/viewform?usp=sf_link"
+descriptionTitle: "ngGirls @ Sofia"
+descriptionBlock:
+ - {title: "Who is it for?", template: "sofia/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "sofia/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+
+
+partners:
+
+-
+   group: "With support of"
+   elements:
+     - {name: "Cat", description: "Some Cat", link: "cat", imageUrl: "angular.svg"}
+
+
+
+mentors:
+
+- id: 1
+  name: "And You?"
+  surname: ""
+  company: "&nbsp;"
+  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
+  thumbnailUrl: you.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/xxx"}
+
+
