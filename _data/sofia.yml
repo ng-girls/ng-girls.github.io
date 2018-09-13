@@ -19,6 +19,7 @@ partners:
    group: "With support of"
    elements:
      - {name: "Cat", description: "Some Cat", link: "cat", imageUrl: "angular.svg"}
+     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
 
 
 

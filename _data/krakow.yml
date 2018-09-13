@@ -17,7 +17,9 @@ partners:
 -  group: "Hosted by"
    elements:
      - {name: "Codewise", description: "Codewise", link: "https://codewise.com/", imageUrl: "CODEWISE_Logo.jpg"}
-
+-  group: "With support of"
+   elements:
+     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
 
 mentors:
 

@@ -16,10 +16,12 @@ partners:
 
 -  group: "Hosted by"
    elements:
-     - {name: "JSPoland", description: "JSPoland", link: "http://www.js-poland.pl/", imageUrl: "js-poland-logo.png"}
-     - {name: "ngPoland", description: "ngPoland", link: "http://ng-poland.pl/", imageUrl: "ngPoland.png"}
-     - {name: "7N Warsaw", description: "7N - Agent for High-End IT Professionals", link: "https://www.7n.com/", imageUrl: "7N_logo.png"}
-
+     - {name: "JSPoland", description: "JSPoland", link: "http://www.js-poland.pl/", imageUrl: "js-poland-logo.png", width: "100px"}
+     - {name: "ngPoland", description: "ngPoland", link: "http://ng-poland.pl/", imageUrl: "ngPoland.png", width: "100px"}
+     - {name: "7N Warsaw", description: "7N - Agent for High-End IT Professionals", link: "https://www.7n.com/", imageUrl: "7N_logo.png", width: "100px"}
+-  group: "With support of"
+   elements:
+     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
 
 mentors:
 

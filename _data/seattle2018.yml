@@ -19,6 +19,7 @@ partners:
    elements:
      - {name: "Google", description: "Google", link: "https://www.google.com/", imageUrl: "Google_logo.jpg"}
      - {name: "Google Open Source", description: "Google Open Source", link: "https://opensource.google.com/", imageUrl: "Google_Open_Source_logo.png"}
+     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
 
 
 organizingTeamTitle: "ngGirls @ Seattle Team"
