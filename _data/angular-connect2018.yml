@@ -1,7 +1,7 @@
 eventDate: "November 5th, 2018, London"
 applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSfFHrqpCugyTNwpBR9mlf5s1z7RmlybG_pmavstZBEEB9TJVw/viewform"
 mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSeiU7EIXp2hKYD7HpIT6mRMOzGE6PaVXBI-wJbtyeWrAo5OMw/viewform"
-descriptionTitle: "ngGirls @ AngularConnect 2018"
+descriptionTitle: "ngGirls @ AngularConnect"
 descriptionBlock:
  - {title: "Who is it for?", template: "angular-connect2018/angular-connect2018-description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
 # - {title: "Schedule", template: "angular-connect2018/angular-connect2018-description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
