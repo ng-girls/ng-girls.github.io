@@ -18,9 +18,44 @@ partners:
 -
    group: "With support of"
    elements:
-     - {name: "Cat", description: "Some Cat", link: "cat", imageUrl: "angular.svg"}
+     - {name: "DevReach", description: "The premier developer conference in Central and Eastern Europe.", link: "http://devreach.com", imageUrl: "devreach-log.jpeg"}
+     - {name: "Progress", description: "Progress offers the leading platform for developing and deploying mission-critical,
+     cognitive-first business applications for competitive advantage.", link: "https://www.progress.com/", imageUrl: "progress-logo.png"}
      - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
 
+organizingTeamTitle: "ngGirls @ Sofia Team"
+team:
+  - id: 1
+    name: 'Jen'
+    surname: 'Peleva'
+    thumbnailUrl: jen.png
+    bio: "<p>Jen Peleva is a frontend developer for the Sitefinity CMS.
+    Lately she's being working on the new Sitefinity UI, built with Angular.
+    Her passions include drawing, human rights and psychology.</p>"
+    social:
+      - {name: "twitter", link: "https://twitter.com/JenPeleva"}
+      - {name: "site", link: "https://www.instagram.com/rougesprit/"}
+
+  - id: 2
+    name: 'Vasil'
+    surname: 'Chimev'
+    thumbnailUrl: vasil.png
+    bio: "<p>Vasil is a software engineer on the NativeScript core team working mainly on the cross-platform modules
+    and application framework. He is enthusiastic about how people build software and enjoys going to
+    live concert performances whenever possible.</p>"
+    social:
+      - {name: "twitter", link: "https://twitter.com/vchimev"}
+
+  - id: 3
+    name: 'Stanimira'
+    surname: 'Vlaeva'
+    thumbnailUrl: mira.png
+    bio: "<p>Stanimira is a software engineer on the NativeScript core team focused on the the integration
+    with Angular and performance optimizations. Lately, she’s been working on providing an official way for
+    sharing code between web and mobile Angular via NativeScript schematics and webpack.</p>"
+    social:
+      - {name: "twitter", link: "https://twitter.com/StanimiraVlaeva"}
+      - {name: "github", link: "https://github.com/sis0k0"}
 
 
 mentors:
