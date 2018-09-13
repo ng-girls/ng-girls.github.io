@@ -24,6 +24,22 @@ partners:
 organizingTeamTitle: "ngGirls @ Seattle Team"
 team:
   - id: 1
+    name: 'Nicole'
+    surname: 'Oliver'
+    thumbnailUrl: nicole-oliver.jpg
+    title: "Web Developer"
+    company: "Nintendo"
+    bio: '<p>Nicole is a web developer working at Nintendo. After earning a degree in Studio Art,
+    she stepped away from the canvas to try her hand at web design and user experience,
+    and eventually hit it off with web development.
+    She has since traversed a number of front and back-end web technologies,
+    becoming particularly familiar with vanilla JavaScript, Node.js, Sass, and of course, Angular.
+    She is a co-organizer of <a href="https://www.meetup.com/angular-seattle/" target="_blank">Angular Seattle</a>,
+    and still proudly rocks a paint brush when time allows.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/nixallover"}
+
+  - id: 2
     name: 'Craig'
     surname: 'Nishina'
     thumbnailUrl: Craig.jpg
