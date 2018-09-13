@@ -77,8 +77,9 @@ bottomNavigationLinks:
 # - {permalink: "/TLV2018/", text: "ngGirls @ TLV"}
 #  - {permalink: "/karachi2018/", text: "ngGirls @ Google I/O extended"}
 #  - {permalink: "/NgTalks/", text: "ngGirls @ NgTalks"}
- - {permalink: "/ngcolombia-2018/", text: "ngGirls @ ngColombia"}
+# - {permalink: "/ngcolombia-2018/", text: "ngGirls @ ngColombia"}
  - {permalink: "/krakow/", text: "ngGirls @ Krakow"}
+ - {permalink: "/seattle-2018/", text: "ngGirls @ Seattle"}
  - {permalink: "/AngularConnect-2018/", text: "ngGirls @ AngularConnect"}
  - {permalink: "/ngPoland-2018/", text: "ngGirls @ ngPoland"}
 rightNavigationButtons:
@@ -112,8 +113,9 @@ upcomingEvents:
 # - {permalink: "/TLV2018/", date: "June 22nd", location: "Tel-Aviv", name: "ngGirls @ TLV"}
 #  - {permalink: "/karachi2018/", date: "July 29th", location: "Karachi, Pakistan", name: "ngGirls @ Google I/O extended"}
 #  - {permalink: "/NgTalks/", date: "August 8-9th", location: "Kharkiv", name: "ngGirls @ NgTalks"}
- - {permalink: "/ngcolombia-2018/", date: "September 1st, 2018", location: "Medellín", name: "ngGirls @ ngColombia"}
+# - {permalink: "/ngcolombia-2018/", date: "September 1st, 2018", location: "Medellín", name: "ngGirls @ ngColombia"}
  - {permalink: "/krakow/", date: "October 20th, 2018", location: "Krakow", name: "ngGirls @ Krakow"}
+ - {permalink: "/seattle-2018/", date: "October 20th, 2018", location: "Seattle", name: "ngGirls @ Seattle"}
  - {permalink: "/AngularConnect-2018/", date: "November 5th, 2018", location: "London", name: "ngGirls @ AngularConnect"}
  - {permalink: "/ngPoland-2018/", date: "November 17th", location: "Warsaw", name: "ngGirls @ ngPoland"}
 heroButtons:
@@ -140,8 +142,9 @@ heroButtons:
 #  - {permalink: "/karachi2018/", text: "ngGirls @ Google I/O extended"}
 #  - {permalink: "/NgTalks/", text: "ngGirls @ NgTalks"}
 # - {permalink: "/angular_hq/", text: "ngGirls @ Angular HQ"}
- - {permalink: "/ngcolombia-2018/", text: "ngGirls @ ngColombia"}
+# - {permalink: "/ngcolombia-2018/", text: "ngGirls @ ngColombia"}
  - {permalink: "/krakow/", text: "ngGirls @ Krakow"}
+ - {permalink: "/seattle-2018/", text: "ngGirls @ Seattle"}
  - {permalink: "/AngularConnect-2018/", text: "ngGirls @ AngularConnect"}
  - {permalink: "/ngPoland-2018/", text: "ngGirls @ ngPoland"}
 # - {permalink: "/ng-conf/", text: "ngGirls @ ng-conf UT"}
