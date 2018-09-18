@@ -80,6 +80,7 @@ bottomNavigationLinks:
 # - {permalink: "/ngcolombia-2018/", text: "ngGirls @ ngColombia"}
  - {permalink: "/krakow/", text: "ngGirls @ Krakow"}
  - {permalink: "/seattle-2018/", text: "ngGirls @ Seattle"}
+ - {permalink: "/vienna/", text: "ngGirls @ Vienna"}
  - {permalink: "/AngularConnect-2018/", text: "ngGirls @ AngularConnect"}
  - {permalink: "/sofia/", text: "ngGirls @ Sofia"}
  - {permalink: "/ngPoland-2018/", text: "ngGirls @ ngPoland"}
@@ -117,6 +118,7 @@ upcomingEvents:
 # - {permalink: "/ngcolombia-2018/", date: "September 1st, 2018", location: "Medellín", name: "ngGirls @ ngColombia"}
  - {permalink: "/krakow/", date: "October 20th, 2018", location: "Krakow", name: "ngGirls @ Krakow"}
  - {permalink: "/seattle-2018/", date: "October 20th, 2018", location: "Seattle", name: "ngGirls @ Seattle"}
+ - {permalink: "/vienna/", date: "October 27th, 2018", location: "Vienna", name: "ngGirls @ Vienna"}
  - {permalink: "/AngularConnect-2018/", date: "November 5th, 2018", location: "London", name: "ngGirls @ AngularConnect"}
  - {permalink: "/sofia/", date: "November 12th, 2018", location: "Sofia", name: "ngGirls @ Sofia"}
  - {permalink: "/ngPoland-2018/", date: "November 17th", location: "Warsaw", name: "ngGirls @ ngPoland"}
@@ -147,6 +149,7 @@ heroButtons:
 # - {permalink: "/ngcolombia-2018/", text: "ngGirls @ ngColombia"}
  - {permalink: "/krakow/", text: "ngGirls @ Krakow"}
  - {permalink: "/seattle-2018/", text: "ngGirls @ Seattle"}
+ - {permalink: "/vienna/", text: "ngGirls @ Vienna"}
  - {permalink: "/AngularConnect-2018/", text: "ngGirls @ AngularConnect"}
  - {permalink: "/sofia/", text: "ngGirls @ Sofia"}
  - {permalink: "/ngPoland-2018/", text: "ngGirls @ ngPoland"}
