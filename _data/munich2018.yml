@@ -22,6 +22,27 @@ partners:
      - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
 
 
+organizingTeamTitle: "ngGirls @ Munich Team"
+team:
+  - id: 1
+    name: 'Maria'
+    surname: 'Lienhard'
+    thumbnailUrl: Maria_Lienhard.png
+    title: "Human Resources"
+    company: "Virtual Identity"
+    bio: ''
+    social:
+      - {name: "twitter", link: "https://de.linkedin.com/in/maria-lienhard-1b3a9b87"}
+  - id: 2
+    name: 'Marc'
+    surname: 'Emmanuel'
+    thumbnailUrl: Marc_Emmanuel.png
+    title: "Creative Developer"
+    company: "Virtual Identity"
+    bio: ''
+    social:
+      - {name: "twitter", link: "https://twitter.com/sheepfromheaven"}
+
 
 mentors:
 
