@@ -18,18 +18,30 @@
             <div class="logo logo-name"></div>
             <!--{% assign heroText = site.heroTitle %}-->
             <!--<h1>{{ heroText }}<span class="hidden-xs"></span></h1>-->
-            <p style="line-height: 38px;">
+            <p style="line-height: 20px; font-size: 20px; margin-bottom: 0;">
                 Upcoming Events:
-                <div style="font-size: 22px; line-height: 50px">
-                    {% for event in site.upcomingEvents %}
-                    <div style="display: inline-block; width: 400px;"
-                       {% if event.link != null or event.newTab == true %}target="_blank"{% endif %}
-                       title="{{event.name}}">
-                        <a href="{% if event.permalink != null %} {{ event.permalink | prepend: site.baseurl }} {% else %} {{ event.link }} {% endif %}">{{ event.date }}, {{event.location}}</a></div>
-                    {% endfor %}
-                </div>
             </p>
-
+            <div class="row-container" style="max-height: 100%; overflow: visible;">
+                <div class="row">
+                    <div class="col-md-10 col-md-offset-1 col-xs-12">
+                        <div class="row">
+                            {% for event in site.upcomingEvents %}
+                            <a href="{% if event.permalink != null %} {{ event.permalink | prepend: site.baseurl }} {% else %} {{ event.link }} {% endif %}">
+                                <div class="col-Xmd-2 events col-xs-4">
+                                    <div class="col-xs-11 col-xs-offset-1 col-md-10 col-md-offset-1 events__image" style="background-image: url(/img/sections-background/{{event.location | downcase}}.jpg)">
+                                        <div class="events__overlay">
+                                            <p class="events__city">{{event.location}}</p>
+                                            <span class="events__date">{{ event.date }}</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <p>&nbsp;</p>
         </div>
     </div>
     <a href="#about" class="explore">

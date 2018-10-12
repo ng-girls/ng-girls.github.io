@@ -120,15 +120,15 @@ upcomingEvents:
 #  - {permalink: "/karachi2018/", date: "July 29th", location: "Karachi, Pakistan", name: "ngGirls @ Google I/O extended"}
 #  - {permalink: "/NgTalks/", date: "August 8-9th", location: "Kharkiv", name: "ngGirls @ NgTalks"}
 # - {permalink: "/ngcolombia-2018/", date: "September 1st, 2018", location: "Medellín", name: "ngGirls @ ngColombia"}
- - {permalink: "/karlsruhe2018/", date: "October 17th, 2018", location: "Karlsruhe", name: "ngGirls @ Karlsruhe"}
- - {permalink: "https://moinworld.de/java-script-angular/", date: "October 20th, 2018", location: "Hamburg", name: "ngGirls @ Hamburg"}
- - {permalink: "/krakow/", date: "October 20th, 2018", location: "Krakow", name: "ngGirls @ Krakow"}
- - {permalink: "/seattle-2018/", date: "October 20th, 2018", location: "Seattle", name: "ngGirls @ Seattle"}
- - {permalink: "/vienna/", date: "October 27th, 2018", location: "Vienna", name: "ngGirls @ Vienna"}
- - {permalink: "/AngularConnect-2018/", date: "November 5th, 2018", location: "London", name: "ngGirls @ AngularConnect"}
- - {permalink: "/sofia/", date: "November 12th, 2018", location: "Sofia", name: "ngGirls @ Sofia"}
- - {permalink: "/ngPoland-2018/", date: "November 17th", location: "Warsaw", name: "ngGirls @ ngPoland"}
- - {permalink: "/munich-2018/", date: "November 24th", location: "Munich", name: "ngGirls @ Munich"}
+ - {permalink: "/karlsruhe2018/", date: "October 17th<br /> 2018", location: "Karlsruhe", name: "ngGirls @ Karlsruhe"}
+ - {permalink: "https://moinworld.de/java-script-angular/", date: "October 20th<br /> 2018", location: "Hamburg", name: "ngGirls @ Hamburg"}
+ - {permalink: "/krakow/", date: "October 20th<br /> 2018", location: "Krakow", name: "ngGirls @ Krakow"}
+ - {permalink: "/seattle-2018/", date: "October 20th<br /> 2018", location: "Seattle", name: "ngGirls @ Seattle"}
+ - {permalink: "/vienna/", date: "October 27th<br /> 2018", location: "Vienna", name: "ngGirls @ Vienna"}
+ - {permalink: "/AngularConnect-2018/", date: "November 5th<br /> 2018", location: "London", name: "ngGirls @ AngularConnect"}
+ - {permalink: "/sofia/", date: "November 12th<br /> 2018", location: "Sofia", name: "ngGirls @ Sofia"}
+ - {permalink: "/ngPoland-2018/", date: "November 17th<br /> 2018", location: "Warsaw", name: "ngGirls @ ngPoland"}
+ - {permalink: "/munich-2018/", date: "November 24th<br /> 2018", location: "Munich", name: "ngGirls @ Munich"}
 heroButtons:
 # - {permalink: "/JS-Poland/", text: "ngGirls @ JS-Poland"}
 # - {permalink: "/TLV-June-2017/", text: "ngGirls TLV"}
