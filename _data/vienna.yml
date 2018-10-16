@@ -22,9 +22,8 @@ partners:
          link: "https://angular-austria.at/", imageUrl: "Angular-Austria.png"}
      - {name: "Angular Vienna Meetup", description: "Angular Vienna Meetup", link: "https://www.meetup.com/Angular-Vienna", imageUrl: "angular_vienna.jpeg", width: "100px"}
      - {name: "ebcont", description: "ebcont -IT solutions with handshake quality", link: "https://www.ebcont.com/", imageUrl: "ebcont-group.png"}
-     - {name: "Progress", description: "Progress offers the leading platform for developing and deploying mission-critical,
-     cognitive-first business applications for competitive advantage.", link: "https://www.progress.com/", imageUrl: "progress-logo.png"}
      - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
+     - {name: "JetBrains", description: "JetBrains -  intelligent development tools", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png", width: "130px"}
 
 organizingTeamTitle: "ngGirls @ Sofia Team"
 team:
