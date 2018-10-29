@@ -1,0 +1,27 @@
+heroImage: "bolivia.jpg"
+eventDate: "Sábado 24 de Noviembre, 2018. Cochabamba, Bolivia"
+location: "Universidad UCATEC, Cochabamba, Bolivia"
+applicationForm: "https://goo.gl/XC6HdL"
+mentorsForm: "https://goo.gl/9xZRZQ"
+descriptionTitle: "ngGirls @ Bolivia"
+descriptionBlock:
+ - {title: "¿Para quién es?", template: "bolivia/description-who-is-it-for.html", link: "/#faq", linkTitle: "Échale un vistazo a las preguntas frecuentes"}
+ - {title: "¿Puedo ayudar?", template: "bolivia/description-can-i-help.html", link: "/#help", linkTitle: "contáctanos"}
+
+partners:
+
+-  group: "Organizado por"
+   elements:
+     - {name: "Angular Bolivia", description: "Community of Angular developers in Bolivia",
+        link: "https://www.meetup.com/Angular-Bolivia/", imageUrl: "angular-bolivia.png", style: "transform: scale(0.8)"}
+
+-
+   group: "Con el apoyo de"
+   elements:
+     - {name: "Universidad UCATEC", description: "Universidad UCATEC",
+        link: "https://ucatec.edu.bo/", imageUrl: "universidad-ucatec.png", style: "transform: scale(1.0)"}
+     
+     
+
+
+
