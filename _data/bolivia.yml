@@ -7,6 +7,7 @@ descriptionTitle: "ngGirls @ Bolivia"
 descriptionBlock:
  - {title: "¿Para quién es?", template: "bolivia/description-who-is-it-for.html", link: "/#faq", linkTitle: "Échale un vistazo a las preguntas frecuentes"}
  - {title: "¿Puedo ayudar?", template: "bolivia/description-can-i-help.html", link: "/#help", linkTitle: "contáctanos"}
+ - {title: "Código de Conducta", template: "bolivia/code-of-conduct.html"}
 
 partners:
 
