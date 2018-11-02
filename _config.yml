@@ -79,10 +79,10 @@ bottomNavigationLinks:
 #  - {permalink: "/NgTalks/", text: "ngGirls @ NgTalks"}
 # - {permalink: "/ngcolombia-2018/", text: "ngGirls @ ngColombia"}
 # - {permalink: "/karlsruhe2018/", text: "ngGirls @ Karlsruhe"}
- - {permalink: "https://moinworld.de/java-script-angular/", text: "ngGirls @ Hamburg"}
- - {permalink: "/krakow/", text: "ngGirls @ Krakow"}
- - {permalink: "/seattle-2018/", text: "ngGirls @ Seattle"}
- - {permalink: "/vienna/", text: "ngGirls @ Vienna"}
+# - {permalink: "https://moinworld.de/java-script-angular/", text: "ngGirls @ Hamburg"}
+# - {permalink: "/krakow/", text: "ngGirls @ Krakow"}
+# - {permalink: "/seattle-2018/", text: "ngGirls @ Seattle"}
+# - {permalink: "/vienna/", text: "ngGirls @ Vienna"}
  - {permalink: "/AngularConnect-2018/", text: "ngGirls @ AngularConnect"}
  - {permalink: "/sofia/", text: "ngGirls @ Sofia"}
  - {permalink: "/ngPoland-2018/", text: "ngGirls @ ngPoland"}
@@ -122,10 +122,10 @@ upcomingEvents:
 #  - {permalink: "/NgTalks/", date: "August 8-9th", location: "Kharkiv", name: "ngGirls @ NgTalks"}
 # - {permalink: "/ngcolombia-2018/", date: "September 1st, 2018", location: "Medellín", name: "ngGirls @ ngColombia"}
 # - {permalink: "/karlsruhe2018/", date: "October 17th<br /> 2018", location: "Karlsruhe", name: "ngGirls @ Karlsruhe"}
- - {permalink: "https://moinworld.de/java-script-angular/", date: "October 20th<br /> 2018", location: "Hamburg", name: "ngGirls @ Hamburg"}
- - {permalink: "/krakow/", date: "October 20th<br /> 2018", location: "Krakow", name: "ngGirls @ Krakow"}
- - {permalink: "/seattle-2018/", date: "October 20th<br /> 2018", location: "Seattle", name: "ngGirls @ Seattle"}
- - {permalink: "/vienna/", date: "October 27th<br /> 2018", location: "Vienna", name: "ngGirls @ Vienna"}
+# - {permalink: "https://moinworld.de/java-script-angular/", date: "October 20th<br /> 2018", location: "Hamburg", name: "ngGirls @ Hamburg"}
+# - {permalink: "/krakow/", date: "October 20th<br /> 2018", location: "Krakow", name: "ngGirls @ Krakow"}
+# - {permalink: "/seattle-2018/", date: "October 20th<br /> 2018", location: "Seattle", name: "ngGirls @ Seattle"}
+# - {permalink: "/vienna/", date: "October 27th<br /> 2018", location: "Vienna", name: "ngGirls @ Vienna"}
  - {permalink: "/AngularConnect-2018/", date: "November 5th<br /> 2018", location: "London", name: "ngGirls @ AngularConnect"}
  - {permalink: "/sofia/", date: "November 12th<br /> 2018", location: "Sofia", name: "ngGirls @ Sofia"}
  - {permalink: "/ngPoland-2018/", date: "November 17th<br /> 2018", location: "Warsaw", name: "ngGirls @ ngPoland"}
@@ -157,10 +157,10 @@ heroButtons:
 # - {permalink: "/angular_hq/", text: "ngGirls @ Angular HQ"}
 # - {permalink: "/ngcolombia-2018/", text: "ngGirls @ ngColombia"}
 # - {permalink: "/karlsruhe2018/", text: "ngGirls @ Karlsruhe"}
- - {permalink: "https://moinworld.de/java-script-angular/", text: "ngGirls @ Hamburg"}
- - {permalink: "/krakow/", text: "ngGirls @ Krakow"}
- - {permalink: "/seattle-2018/", text: "ngGirls @ Seattle"}
- - {permalink: "/vienna/", text: "ngGirls @ Vienna"}
+# - {permalink: "https://moinworld.de/java-script-angular/", text: "ngGirls @ Hamburg"}
+# - {permalink: "/krakow/", text: "ngGirls @ Krakow"}
+# - {permalink: "/seattle-2018/", text: "ngGirls @ Seattle"}
+# - {permalink: "/vienna/", text: "ngGirls @ Vienna"}
  - {permalink: "/AngularConnect-2018/", text: "ngGirls @ AngularConnect"}
  - {permalink: "/sofia/", text: "ngGirls @ Sofia"}
  - {permalink: "/ngPoland-2018/", text: "ngGirls @ ngPoland"}
