@@ -23,6 +23,7 @@ partners:
 -  group: "With support of"
    elements:
      - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
+     - {name: "Google", description: "Google", link: "https://www.google.com/", imageUrl: "google.png"}
 
 mentors:
 
