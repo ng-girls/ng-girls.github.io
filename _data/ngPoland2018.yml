@@ -28,11 +28,207 @@ partners:
 mentors:
 
 - id: 1
-  name: 'Mashhood'
-  surname: 'Rastgar'
-  title: 'Technical Lead'
-  company: 'Recurship'
+  name: 'Natalia'
+  surname: 'Kędziora'
+  title: 'TITLE'
+  company: 'organizer'
   social:
-  - {name: 'twitter', link: "https://www.twitter.com/mashhoodr"}
-  thumbnailUrl: "Mashhood.jpg"
-  bio: "Mashhood is the principal technical consultant at Recurship and a Google Developer Expert. He  works with different startups in US and EU to helps them crawl through the technical maze and quickly build amazing products focused around the problems they are trying to solve. He enjoys mentoring and helping people learn about latest web technologies."
+    - {name: 'twitter', link: "https://www.twitter.com/xxx"}
+  thumbnailUrl: "natalia.png"
+  bio: "zzz"
+
+- id: 2
+  name: "Shmuela"
+  surname: "Jacobs"
+  company: "ngGirls founder"
+  title: "Web Developer and Consultant, Founder"
+  description: "In July 2014 I've been chosen to participate in Django Girls Berlin, as part of Europe's PyConf. I had just finished my M.Sc. and was thinking about the future. Although I've had programming experience, this event inspired me to explore the world of development, and especially Web development, even deeper, and join the Tech industry. Today I am ready to give back. So not with Django, but with Angular, which I really love."
+  bio: "Shmuela Jacobs is a front-end developer and consultant mastering Angular. During her academic studies (M.Sc. in Information Management Engineering and B.Sc. in Physics) she has combined her passions of coding and teaching as a software developer, teaching assistant, science museum guide, and researcher. Today she continues to enjoy these activities as a full-time developer, sharing her knowledge and experience in meetups and conferences around the world."
+  thumbnailUrl: Shmuela_AC.png
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/shmool"}
+    - {name: "linkedin", link: "https://il.linkedin.com/in/shmuelaj"}
+    - {name: "twitter", link: "https://twitter.com/ShmuelaJ"}
+
+
+
+
+- id: 3
+  name: "Robert"
+  surname: "Willemelis"
+  title: "web developer"
+  company: "ngGirls team"
+  social:
+    - {name: "twitter", link: "https://twitter.com/robertSPD"}
+  message: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
+          (like jsunconf and craft conf). I met a lot of clever female developer and speaker from which know-how I was
+          impressed and learned. And I think there are a lot more outside and a lot more who have the talent.
+          So it is important to support them.</p>
+          <p>As Shmuela asked for that, I decided within in 30s that it would be an honor to do that.</p>
+          <p>There are several projects with an impressive diversity support and very good material.<p>
+          <p>And last but not least I’m still reading the book of Software craftsmanship by Sandro Mancuso
+          in which he shows how important and good it can be to give something back to the community and how important
+          it is to learn from other developers. And I think I could also learn as a mentor from the participants.</p>
+       "
+  rockstar: true
+  thumbnailUrl: robert.png
+
+- id: 4
+  name: 'Svitlana'
+  surname: 'Kutsenko'
+  title: 'TITLE'
+  company: 'mentor'
+  social:
+    - {name: 'twitter', link: "https://www.twitter.com/sunnylana_"}
+  thumbnailUrl: "svitlana.png"
+  bio: "I am Ukrainian and currently working as the front-end developer at Scalac. My passion is programming also I like traveling. I'm very glad to meet new people and visit different countries and dive into its culture. Also, I'm a mother of three lovely kids. I am convinced that being a good mother and having a successful career is possible and necessary at the same time. I would like to help other people to start a programming career to defeat their fears and to become successful developers. That's why I would like to became NgGirls mentor"
+
+- id: 5
+  name: 'Łukasz'
+  surname: 'Stankiewicz'
+  title: 'TITLE'
+  company: 'mentor'
+  social:
+    - {name: 'twitter', link: "https://www.twitter.com/UStankiewicz"}
+  thumbnailUrl: "you.png"
+  bio: "I have started programming around 15 years ago and the journey continues till now. Graduated from University Of The Internet with highest honors. In these days working at Instapage as Senior Full Stack Developer. Beside that fun of Real Madrid, amateur football and whisky."
+
+- id: 6
+  name: 'Nataliya'
+  surname: 'Pasichnyk'
+  title: 'TITLE'
+  company: 'mentor'
+  social:
+    - {name: 'twitter', link: "https://www.twitter.com/xxx"}
+  thumbnailUrl: "nataliya.png"
+  bio: ""
+
+- id: 7
+  name: 'Michal'
+  surname: 'Makowski'
+  title: 'TITLE'
+  company: 'mentor'
+  social:
+    - {name: 'twitter', link: "https://www.twitter.com/webeferen"}
+  thumbnailUrl: "michal.png"
+  bio: "I'm here to inspire some of the people which will want to start the beautifull (in my opinion) binary world. As the young person I will be able to target youngests part of the view."
+
+- id: 8
+  name: 'Eliza'
+  surname: 'Krajewska'
+  title: 'TITLE'
+  company: 'mentor'
+  social:
+    - {name: 'twitter', link: "https://www.twitter.com/lizz_ka"}
+  thumbnailUrl: "eliza.png"
+  bio: "Being engaged in activities which proves engineers are not only focused on self-development, but also want to help other people who share the same passion to software development, and exploring new technologies has value for me."
+
+- id: 9
+  name: 'Rafał'
+  surname: 'Sosnowski'
+  title: 'TITLE'
+  company: 'mentor'
+  social:
+    - {name: 'twitter', link: "https://www.twitter.com/xxx"}
+  thumbnailUrl: "you.png"
+  bio: ""
+
+- id: 10
+  name: 'Anna'
+  surname: 'Guz'
+  title: 'TITLE'
+  company: 'mentor'
+  social:
+    - {name: 'twitter', link: "https://www.twitter.com/fronthacker"}
+  thumbnailUrl: "anna.png"
+  bio: "I'm Anna Guz, frontend developer in CyberVadis and front-end trainer in CodersLab in Warsaw. I'm crossfit fanatic, fond of painting, tennis and DIY creation. I'm programming over 10 years. I gathered my first experience as a freelancer. I began during studying. I was doing websites for my friends and clients. I prepared UX, UI, I was coding websites (FE/BE) and improved SEO. Since a couple of years I'm doing mostly frontend in corporations. I was working among others at gazeta.pl and gazetapraca.pl in Agora. Currently I work in CyberVadis. I was also a mentor in program Maker Teens: Girl Power organised by Girls Code Fun Fundation this year. I like to help other to learn new technologies and share the knowledge so that's why I decided to participate in ngGirls as a mentor.
+I am interested in machine learning, blockchain technologies, self development and interior design. I love traveling, Ferrero Roche, nice pens and notebooks ;)"
+
+- id: 11
+  name: 'Oskar'
+  surname: 'Kamiński'
+  title: 'TITLE'
+  company: 'mentor'
+  social:
+    - {name: 'twitter', link: "https://www.twitter.com/xxx"}
+  thumbnailUrl: "oskar.png"
+  bio: "The passionate of XP and clean code. The software craftsmanship evangelist. Currently the Tech Lead at Procter & Gamble building the Dream Team - ACE. His mission is to make things simple both coding and sharing the knowledge. And being a good leader of course :-)"
+
+- id: 12
+  name: 'Beata'
+  surname: 'Piwowarczyk'
+  title: 'TITLE'
+  company: 'mentor'
+  social:
+    - {name: 'twitter', link: "https://www.twitter.com/xxx"}
+  thumbnailUrl: "beata.png"
+  bio: "I'm a frontend developer. I fell in love with coding at first sight. For me, it's not only a work but also a big part of life. My motto is: 'Do it with passion or not at all' and that's how I treat it. I chose the frontend path because I'm also an artist. I like to combine this two aspects of life. I like creating something beautiful but also useful. 
+I want to break the stereotypes of being a programmer. Programming is for anyone who loves to create, who loves to get out of their comfort zone, and for anyone who loves to improve themselves."
+
+- id: 13
+  name: 'Ruslan'
+  surname: 'Rakhmanov'
+  title: 'TITLE'
+  company: 'mentor'
+  social:
+    - {name: 'twitter', link: "https://www.twitter.com/tramwayfromdepo"}
+  thumbnailUrl: "ruslan.png"
+  bio: "zzz"
+
+- id: 14
+  name: 'Michał'
+  surname: 'Rybnik'
+  title: 'TITLE'
+  company: 'mentor'
+  social:
+    - {name: 'twitter', link: "https://www.twitter.com/xxx"}
+  thumbnailUrl: "michal_2.png"
+  bio: "I'm a 32 year old guy from Warsaw, being the 3rd generation in my family that professionally deals with IT. I have over 10 years of experience as a commercial full-stack developer and a few years as architect, entrepreneur and manager. One of the girls that I work with found info about ngGirls on the web and I tried to encourage all the girls to attend and wanted to show support by applying as a mentor. Not to mention that it seems as a great opportunity to meet some new people and help them make first steps as developers by sharing my knowledge and experience."
+
+- id: 15
+  name: 'Piotr'
+  surname: 'Michałowski'
+  title: 'TITLE'
+  company: 'mentor'
+  social:
+    - {name: 'twitter', link: "https://www.twitter.com/xxx"}
+  thumbnailUrl: "you.png"
+  bio: ""
+
+- id: 16
+  name: 'Tomek'
+  surname: 'Sułkowski'
+  title: 'TITLE'
+  company: 'mentor'
+  social:
+    - {name: 'twitter', link: "https://www.twitter.com/sulco"}
+  thumbnailUrl: "tomek.png"
+  bio: "Tomek started as full-stack developer but then he focused on front-end technologies - especially the ecosystem around the Angular framework. He is most passionate about making development experience comfortable and fun. He's been working with startups from UK, USA, Germany and Denmark.
+
+Several years ago Tomek run his first programming workshop and discovered a passion for sharing the knowledge. Since then he conducted over 2000 hours of trainings for both beginners and experienced developers and almost never missed a chance to excite people about front-end."
+
+- id: 17
+  name: 'Łuaksz'
+  surname: 'Pawełczak'
+  title: 'TITLE'
+  company: 'mentor'
+  social:
+    - {name: 'twitter', link: "https://www.twitter.com/lpawelczak_dev"}
+  thumbnailUrl: "lukasz.png"
+  bio: "I'm a fun guy, passionate about Angular. 
+I work for SoftwarePlant since 2016. 
+I decided to mentor during ngGirls, because I greatly value self improvement and would like to support community. 
+In my spare time I work on my pet projects."
+
+- id: 18
+  name: 'Maciej'
+  surname: 'Sasinowski'
+  title: 'TITLE'
+  company: 'mentor'
+  social:
+    - {name: 'twitter', link: "https://www.twitter.com/xxx"}
+  thumbnailUrl: "maciej.png"
+  bio: "I am a frontend developer who mainly deals with creating and maintaining applications written in Angular. It has always been my passion to show something new to people, that's why I decided to take part in ng-girls "
+
+
