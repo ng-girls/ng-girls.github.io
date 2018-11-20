@@ -23,6 +23,9 @@ partners:
         link: "https://ucatec.edu.bo/", imageUrl: "universidad-ucatec.png", style: "transform: scale(1.0)"}
      - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
      - {name: "JetBrains", description: "JetBrains -  intelligent development tools", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png", width: "130px"}
+     - {name: "AssureSoft", description: "AssureSoft - Software Company", link: "https://www.assuresoft.com/", imageUrl: "assuresoft-logo.png", width: "130px"}
+     - {name: "EDteam", description: "EDteam - Tu futuro te está esperando", link: "https://ed.team/", imageUrl: "EDteam-logo.png", width: "130px"}
+
 
      
      
