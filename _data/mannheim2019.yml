@@ -1,0 +1,64 @@
+eventDate: "January, 19th, 2019, Mannheim<br /> <small style='font-size:60%'> LivePerson Germany GmbH P3 1-3, 68161 Mannheim</small>"
+applicationForm: "-"
+mentorsForm: "-"
+descriptionTitle: "ngGirls @ Mannheim"
+descriptionBlock:
+ - {title: "Who is it for?", template: "mannheim2019/mannheim2019-description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Schedule", template: "mannheim2019/mannheim2019-description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "mannheim2019/mannheim2019-description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular Conferences, through supplying cool ngGirls goodies - lots of opportunities to help. "}
+
+partners:
+
+-
+   group: "With support of"
+   elements:
+     - {name: "LivePerson", description: "LivePerson", link: "https://www.liveperson.com/", imageUrl: "livePerson.png"}
+
+
+mentors:
+
+
+
+- id: 1
+  name: "Martina"
+  surname: "Kraus"
+  company: "Organizer"
+  bio: "<p>I'm a full stack developer and JavaScript Enthusiast. I love teaching (i'm a PD at university Mannheim) and coffee <3</p>"
+  thumbnailUrl: martina.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/MartinaKraus11"}
+
+- id: 2
+  name: "Simon"
+  surname: "Pelczer"
+  company: "LivePerson Germany GmbH"
+  bio: '<p></p>'
+  thumbnailUrl: simon.png
+  rockstar: true
+
+- id: 3
+  name: "Gregor"
+  surname: "Trefs"
+  company: "LivePerson Germany GmbH"
+  bio: '<p>Always happy to help</p>'
+  thumbnailUrl: gregor.png
+  rockstar: true
+
+- id: 4
+  name: "Jan"
+  surname: "Mollner"
+  company: "LivePerson Germany GmbH"
+  bio: '<p>Master of JavaScript and TypeScript</p>'
+  thumbnailUrl: jan.png
+  rockstar: true
+
+- id: 5
+  name: "And You?"
+  surname: ""
+  company: "&nbsp;"
+  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
+  thumbnailUrl: you.png
+  rockstar: true
