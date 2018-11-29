@@ -24,6 +24,7 @@ partners:
 
 
 organizingTeamTitle: "ngGirls @ Munich Team"
+
 team:
   - id: 1
     name: 'Maria'
@@ -43,15 +44,15 @@ team:
     bio: ''
     social:
       - {name: "twitter", link: "https://twitter.com/sheepfromheaven"}
- - id: 3
-   name: "Robert"
-   surname: "Willemelis"
-   bio: ""
-   thumbnailUrl: robert.png
-   rockstar: true
-   company: "ngGirls team"
-   social:
-     - {name: "twitter", link: "https://twitter.com/robertSPD"}
+  - id: 3
+    name: "Robert"
+    surname: "Willemelis"
+    bio: ""
+    thumbnailUrl: robert.png
+    rockstar: true
+    company: "ngGirls team"
+    social:
+      - {name: "twitter", link: "https://twitter.com/robertSPD"}
 
 
 mentors:
