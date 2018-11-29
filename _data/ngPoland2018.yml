@@ -175,7 +175,7 @@ I want to break the stereotypes of being a programmer. Programming is for anyone
   company: 'mentor'
   social:
     - {name: 'twitter', link: "https://www.twitter.com/xxx"}
-  thumbnailUrl: "michal_2.png"
+  thumbnailUrl: "michal.png"
   bio: "I'm a 32 year old guy from Warsaw, being the 3rd generation in my family that professionally deals with IT. I have over 10 years of experience as a commercial full-stack developer and a few years as architect, entrepreneur and manager. One of the girls that I work with found info about ngGirls on the web and I tried to encourage all the girls to attend and wanted to show support by applying as a mentor. Not to mention that it seems as a great opportunity to meet some new people and help them make first steps as developers by sharing my knowledge and experience."
 
 - id: 14
@@ -185,7 +185,7 @@ I want to break the stereotypes of being a programmer. Programming is for anyone
   company: 'mentor'
   social:
     - {name: 'twitter', link: "https://www.twitter.com/xxx"}
-  thumbnailUrl: "piotr.png"
+  thumbnailUrl: "piotr.jpg"
   bio: ""
 
 - id: 15
