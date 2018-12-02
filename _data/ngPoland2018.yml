@@ -223,4 +223,15 @@ In my spare time I work on my pet projects."
   thumbnailUrl: "maciej.png"
   bio: "I am a frontend developer who mainly deals with creating and maintaining applications written in Angular. It has always been my passion to show something new to people, that's why I decided to take part in ng-girls "
 
+- id: 18
+  name: 'Chris'
+  surname: 'Trześniewski'
+  title: ''
+  company: 'mentor'
+  social:
+    - {name: 'twitter', link: "https://www.twitter.com/ktrz__"}
+  thumbnailUrl: "chris.jpg"
+  bio: "Chris is a frontend developer at Scalac. He’s been working with Angular since the first beta came out and loved it. He's joined ngGirls as a mentor cause he loves sharing his knowledge and helping others grow.
+In his free time he likes to go climbing or jogging."
+
 
