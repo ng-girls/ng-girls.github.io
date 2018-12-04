@@ -32,7 +32,7 @@ mentors:
   name: "Simon"
   surname: "Pelczer"
   company: "LivePerson Germany GmbH"
-  bio: '<p></p>'
+  bio: '<p>Runs every function as a service</p>'
   thumbnailUrl: simon.png
   rockstar: true
 
@@ -40,7 +40,7 @@ mentors:
   name: "Gregor"
   surname: "Trefs"
   company: "LivePerson Germany GmbH"
-  bio: '<p>Always happy to help</p>'
+  bio: '<p>Gregor is one of the organizers of the Java User Group in Mannheim and founded the Softwerkskammer Rhein-Neckar. He is a team lead in LivePerson and his first Implementation was a text adventure written in BASIC</p>'
   thumbnailUrl: gregor.png
   rockstar: true
 
