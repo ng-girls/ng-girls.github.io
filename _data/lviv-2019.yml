@@ -1,6 +1,6 @@
 eventDate: "February 16th, 2019, Lviv"
-applicationForm: "#"
-mentorsForm: "#"
+applicationForm: "https://2event.com/uk/events/1626199"
+mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSeMHTEPXt4lHeekolnHGK73KewF7rcy5xJLL12dZigpJqBtQg/viewform"
 descriptionTitle: "ngGirls @ Lviv 2019"
 descriptionBlock:
  - {title: "Who is it for?", template: "lviv-2019/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
@@ -14,12 +14,12 @@ partners:
 -
    group: "With support of"
    elements:
-     - {name: "GDG DevFest Ukraine", description: "The biggest Google tech conference in CEE",
-        link: "https://devfest.gdg.org.ua/", imageUrl: "DevFest-Ukraine.svg"}
+     - {name: "Women Techmakers Lviv", description: "Women Techmakers Lviv",
+        link: "https://www.facebook.com/wtmlviv/", imageUrl: "woman-techmakers.png"}
      - {name: "Angular Lviv", description: "Angular Lviv Meetup Group",
         link: "https://www.meetup.com/Angular-Lviv/", imageUrl: "AngularLviv.png", style: "transform: scale(0.7)"}
-     - {name: "TechMagic", description: "The Best Mobile & JavaScript Stack Ninjas In One Place",
-        link: "http://www.techmagic.co/", imageUrl: "logo-techmagic.svg", style: "transform: scale(1.2)"}
+     - {name: "DataArt, Lviv", description: "DataArt, Lviv",
+        link: "http://www.techmagic.co/", imageUrl: "data-art-lviv.png"}
 
 
 mentors:
