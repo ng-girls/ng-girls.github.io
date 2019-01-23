@@ -1,6 +1,6 @@
 eventDate: "May 26th, 2019 - Copenhagen, Denmark"
-applicationForm: "#"
-mentorsForm: "#"
+applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSensGP_h5hpDLROiI8lh-MR-oESuRLsQJJLDgJmb-BO4EEBaw/viewform"
+mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSfQ8kFUcRQ8yxzirz0dUJF-t6NRcxkORnMuYmbPXr36ymbGTg/viewform"
 descriptionTitle: "ngGirls @ ngVikings"
 descriptionBlock:
  - {title: "Who is it for?", template: "ngVikings2019/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
