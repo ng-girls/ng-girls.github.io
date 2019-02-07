@@ -19,7 +19,7 @@ partners:
      - {name: "Angular Lviv", description: "Angular Lviv Meetup Group",
         link: "https://www.meetup.com/Angular-Lviv/", imageUrl: "AngularLviv.png", style: "transform: scale(0.7)"}
      - {name: "DataArt, Lviv", description: "DataArt, Lviv",
-        link: "http://www.techmagic.co/", imageUrl: "data-art-lviv.png"}
+        link: "https://www.dataart.com", imageUrl: "data-art-lviv.png"}
 
 
 mentors:
