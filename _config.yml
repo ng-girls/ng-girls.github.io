@@ -136,7 +136,7 @@ upcomingEvents:
 #  - {permalink: "/bolivia-2018/", date: "November 24th<br /> 2018", location: "Bolivia", name: "ngGirls @ Bolivia"}
 # - {permalink: "/mannheim-2019/", text: "ngGirls @ Mannheim", date: "January 19th<br /> 2019", location: "Mannheim", name: "ngGirls @ Mannheim"}
 # - {permalink: "/lviv-2019/", text: "ngGirls @ Lviv 2019", date: "February 16th<br /> 2019", location: "Lviv", name: "ngGirls @ Lviv 2019"}
- - {permalink: "/ng-conf/", text: "ngGirls @ ngConf 2019", date: "April 30th<br /> 2019", location: "Salt Lake City", name: "ngGirls @ ngConf 2019"}
+ - {permalink: "/ng-conf/", text: "ngGirls @ ngConf 2019", date: "April 30th<br /> 2019", location: "Salt Lake City", name: "ngGirls @ ngConf 2019", image: "salt-lake-city.jpg"}
  - {permalink: "/ngVikings-2019/", text: "ngGirls @ ngVikings 2019", date: "May 26th<br /> 2019", location: "Copenhagen", name: "ngGirls @ ngVikings 2019"}
 heroButtons:
 # - {permalink: "/JS-Poland/", text: "ngGirls @ JS-Poland"}
