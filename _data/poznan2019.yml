@@ -16,7 +16,7 @@ partners:
 
 -  group: "Hosted by"
    elements:
-#     - {name: "Poznan", description: "Poznan", link: "http://www.poznan.pl/", imageUrl: "poznan.png", width: "100px"}
+     - {name: "Capgemini", description: "Capgemini", link: "https://www.capgemini.com/pl-pl/", imageUrl: "Capgemini_Logo_Color_RGB.png", width: "100px"}
 -  group: "With support of"
    elements:
      - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg", width: "250px"}
