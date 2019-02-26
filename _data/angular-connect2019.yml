@@ -1,0 +1,89 @@
+eventDate: "September 18th, 2019, London"
+applicationForm: "#"
+mentorsForm: "#"
+descriptionTitle: "ngGirls @ AngularConnect"
+descriptionBlock:
+ - {title: "Who is it for?", template: "angular-connect2019/angular-connect2019-description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+# - {title: "Schedule", template: "angular-connect2019/angular-connect2019-description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "angular-connect2019/angular-connect2019-description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular Conferences, through supplying cool ngGirls goodies - lots of opportunities to help. "}
+
+partners:
+
+-
+   group: "With support of"
+   elements:
+     - {name: "AngularConnect", description: "AngularConnect 2019 conference",
+        link: "https://www.angularconnect.com/?utm_source=ng-girls.org&utm_medium=referral&utm_content=ng-girls&utm_campaign=workshops",
+        imageUrl: "angularconnect2019.svg"}
+     - {name: "Angular London", description: "Angular London is the largest Angular meetup in Europe.", link: "https://www.meetup.com/Angular-London/", imageUrl: "angular_london.jpeg"}
+     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
+     - {name: "JetBrains", description: "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools.", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png"}
+
+posts:
+
+mentors:
+
+-
+  id: 1
+  name: "Revital"
+  surname: "Friedman"
+  title: "&nbsp;"
+  company: "Organizer"
+  description: "I've always wanted to combine my love for advance technologies with my willing to help other girls in the Tech world.
+  I have volunteered as a mentor in the first ngGirls workshop, and there I found my way to share my knowledge and help other girls to join the wonderful family of Angular."
+  bio: "Revital Friedman is a passionate Full-stack developer.
+               In the army she has served in the special intelligence technology unit, called Unit 8200.
+               Revital has been a software developer for the last seven years, currently working at Hibob as a front end developer, using Angular as the main platform.
+               In her spare time, she likes to go wall climbing, play volleyball, snowboard and take care of her two cats."
+  thumbnailUrl: Revital_Friedman.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://il.linkedin.com/in/revital-friedman-16b79488"}
+
+- id: 2
+  name: "Robert"
+  surname: "Willemelis"
+  title: "&nbsp;"
+  company: "Organizer"
+  bio: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
+   (like jsunconf and craft conf). I met a lot of clever female developer and speaker from which know-how I was
+   impressed and learned. And I think there are a lot more outside and a lot more who have the talent.
+   So it is important to support them.</p>
+   <p>As Shmuela asked for that, I decided within in 30s that it would be an honor to do that.</p>
+   <p>There are several projects with an impressive diversity support and very good material.<p>
+   <p>And last but not least I’m still reading the book of Software craftsmanship by Sandro Mancuso
+   in which he shows how important and good it can be to give something back to the community and how important
+   it is to learn from other developers. And I think I could also learn as a mentor from the participants.</p>
+"
+  thumbnailUrl: robert.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/robertSPD"}
+
+- id: 3
+  name: "Shmuela"
+  surname: "Jacobs"
+  company: "Organizer"
+  title: "Web Developer and Consultant, Founder"
+  description: "In July 2014 I've been chosen to participate in Django Girls Berlin, as part of Europe's PyConf. I had just finished my M.Sc. and was thinking about the future. Although I've had programming experience, this event inspired me to explore the world of development, and especially Web development, even deeper, and join the Tech industry. Today I am ready to give back. So not with Django, but with Angular, which I really love."
+  bio: "Shmuela Jacobs is a front-end developer and consultant mastering Angular. During her academic studies (M.Sc. in Information Management Engineering and B.Sc. in Physics) she has combined her passions of coding and teaching as a software developer, teaching assistant, science museum guide, and researcher. Today she continues to enjoy these activities as a full-time developer, sharing her knowledge and experience in meetups and conferences around the world."
+  thumbnailUrl: Shmuela_AC.png
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/shmool"}
+    - {name: "linkedin", link: "https://il.linkedin.com/in/shmuelaj"}
+    - {name: "twitter", link: "https://twitter.com/ShmuelaJ"}
+
+
+- id: 4
+  name: "And You?"
+  surname: ""
+  title: "&nbsp;"
+  company: "&nbsp;"
+  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
+  thumbnailUrl: you.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/xxx"}
