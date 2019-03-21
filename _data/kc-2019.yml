@@ -1,26 +1,125 @@
-eventDate: "July 27th, 2019, Kansas City"
+eventDate: "July 26th - 27th, 2019, Kansas City"
+location: " at Cox Automotive, Mission, KS"
+deadline: "May 31th, 2019"
 applicationForm: "#"
 mentorsForm: "#"
 descriptionTitle: "ngGirls @ Kansas City"
 descriptionBlock:
  - {title: "Who is it for?", template: "kc-2019/kc-2019-description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
-# - {title: "Schedule", template: "kc-2019/kc-2019-description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Schedule", template: "kc-2019/kc-2019-description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
  - {title: "Can I help?", template: "kc-2019/kc-2019-description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
                   <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
-                  From granting tickets to conferences, through supplying cool ngGirls goodies - lots of opportunities to help. "}
+                  From providing meals, through supplying cool ngGirls goodies - lots of opportunities to help. "}
 
 partners:
-
--
-   group: "With support of"
+-  group: "Hosted by"
    elements:
+     - {name: "Kansas City Women in Technology (KCWiT)", description: "We're trying to grow the number of women in technology careers in Kansas City.", link: "https://kcwomenintech.org/", imageUrl: "kcwit_small.png"}
+-  group: "With support of"
+   elements:
+     - {name: "Cox Automotive", description: "Transforming the way the world buys, sells, owns and uses cars", link: "https://www.coxautoinc.com/", imageUrl: "CA-RGB-Inline_2C-LtBg.jpg"}
      - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
      - {name: "JetBrains", description: "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools.", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png"}
 
 posts:
+  - {title: "Registration opens April 2nd!",
+     content: "We're excited to bring ngGirls to the Silicone Prairie! Registration opens soon- we can't wait to meet you and build a website together!"}
 
+organizingTeamTitle: "ngGirls @ Kansas City Team"
+team:
+  - id: 1
+    name: 'Alisa'
+    surname: 'Duncan'
+    title: 'Program Director'
+    thumbnailUrl: alisa.png
+    bio: '<p>Alisa is a software architect, a former chemist, and a Navy brat who grew up in Japan.
+    She enjoys volunteering, learning new things, and having a drink on her patio.
+    She is a co-organizer of <a href="https://www.meetup.com/angularkc/" target="_blank">AngularKC</a> and
+    Technical Materials Director of <a href="https://codingandcocktails.kcwomenintech.org" target="_blank">Coding & Cocktails</a>,
+    a program that teaches women web development basics.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/alisaDuncan"}
+      - {name: "linkedin", link: "https://www.linkedin.com/in/jalisaduncan"}
+
+  - id: 2
+    name: 'Amy'
+    surname: 'Norris'
+    thumbnailUrl: amy.jpg
+    title: 'Mentor Director'
+    bio: '<p>Amy is a graphic designer turned software developer who got her start in Kansas City Women in Technology''s <a href="https://codingandcocktails.kcwomenintech.org" target="_blank">Coding & Cocktails</a> program.
+    She loves learning new things, cuddling her cat, and playing board games.
+    She is also Mentor Director for DjangoGirls KC.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/amynorris"}
+      - {name: "linkedin", link: "https://www.linkedin.com/in/norrisamy/"}
+  
+  - id: 3
+    name: 'Beth'
+    surname: 'Noser'
+    thumbnailUrl: beth.jpg
+    title: 'Volunteer Director'
+    bio: '<p>Beth is a self-taught web developer and loves all things geek, especially in the Star Wars and Marvel universes.
+    When she’s not coding, Beth is traveling, binge watching Netflix, playing table top games with her husband and two kids, hitting up the gym and cuddling her German Shepherds.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/angulargirlskc"}
+  
+  - id: 4
+    name: 'Erin'
+    surname: 'Wilson'
+    thumbnailUrl: erin.jpg
+    title: 'Sponsorship Director'
+    bio: '<p>Erin is a software engineer who is equally excited and spooked by the fact that there is never an end to what you can learn.
+    She is passionate about being involved in tech and music scenes in KC where she enjoys mentoring, going to concerts, and playing viola in a volunteer orchestra.
+    With the rest of her free time Erin enjoys baking, quilting, and relaxing at home with her zoo.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/erin_wilson92"}
+  
+  - id: 5
+    name: 'Gloria'
+    surname: 'Higley'
+    thumbnailUrl: gloria.jpeg
+    title: 'Co-Director'
+    bio: '<p>Gloria is a business professional turned web developer. 
+    She is passionate about advocating for shared understanding, connecting with other humans, and creating safe spaces to learn.
+    KC native, toddler Mom, and inconsistent reader of way too many books at once.
+    She is also Strategic Partnerships Director for <a href="https://kcwomenintech.org" target="_blank">Kansas City Women in Technology</a>.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/angulargirlskc"}
+      - {name: "linkedin", link: "https://www.linkedin.com/in/gloriahigley/"}
+
+  - id: 6
+    name: 'Jennifer'
+    surname: 'Wadella'
+    thumbnailUrl: jennifer.png
+    title: 'Founder, President KCWiT'
+    bio: '<p>Jennifer is a self-taught full-stack javascript developer with a passion for technology and community building. 
+    She is also a GDE specializing in Angular and Web Technologies.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/likeOMGitsFEDAY"}
+      - {name: "site", link: "https://jenniferwadella.com/"}
+
+  - id: 7
+    name: 'Jack'
+    surname: 'Kolze'
+    thumbnailUrl: jack.png
+    title: 'Attendee Director'
+    bio: '<p>Jacqueline is a twenty-one-year-old software developer. She is passionate about helping others discover a love for tech. 
+    In her spare time, you can find her exploring downtown, hanging with her cat, or watching Netflix.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/just_jacquelin"}
+
+  - id: 8
+    name: 'Preeya'
+    surname: 'Sharma'
+    thumbnailUrl: preeya.jpg
+    title: 'Marketing Director'
+    bio: '<p>Preeya is a UI/UX Developer from Kansas City, MO. 
+    Some of her favorite things include coffee, exploring new cities, Harry Potter, and cookie decorating.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/sharpree89"}
+
+  
 mentors:
-
 
 - id: 1
   name: "How about you?"
