@@ -15,6 +15,8 @@
      - {name: "ngPoland", description: "ngPoland", link: "http://ng-poland.pl/", imageUrl: "ngPoland.png", width: "100px"}
      - {name: "ng-conf", description: "ng-conf - The world's original Angular conference", link: "https://www.ng-conf.org/", imageUrl: "ng-conf.png", width: "90px"}
      - {name: "ngVikings", description: "ngVikings - The main Angular conference in the Nordics", link: "https://ngvikings.org/", imageUrl: "ngvikings.png", width: "100px"}
+     - {name: "Angular Austria", description: "The non-profit association to push Angular in Austria and beyond.", link: "https://angular-austria.at/", imageUrl: "Angular-Austria.png", width: "100px"}
+     
 
 #-
 #  group: "Swag Contributors"
