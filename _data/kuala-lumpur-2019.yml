@@ -1,0 +1,55 @@
+eventDate: "July, 7th, 2019, Kuala Lumpur"
+#eventDate: "July, 7th, 2019, Kuala Lumpur<br /> <small style='font-size:60%'> Sunway University, 5, Jalan Universiti, Bandar Sunway, 47500 Petaling Jaya, Selangor, Malaysia</small>"
+applicationForm: "#"
+mentorsForm: "#"
+descriptionTitle: "ngGirls @ Kuala Lumpur 2019"
+descriptionBlock:
+ - {title: "Who is it for?", template: "kuala-lumpur-2019/kuala-lumpur-2019-description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Schedule", template: "kuala-lumpur-2019/kuala-lumpur-2019-description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "kuala-lumpur-2019/kuala-lumpur-2019-description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular Conferences, through supplying cool ngGirls goodies - lots of opportunities to help. "}
+
+partners:
+
+-
+   group: "With support of"
+   elements:
+     - {name: "NG MY", description: "NG MY - first angular conference in Southeast Asia", link: "https://2019.ng-my.org/", imageUrl: "ng-my.svg"}
+
+
+mentors:
+- id: 1
+  name: "Robert"
+  surname: "Willemelis"
+  bio: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
+   (like jsunconf and craft conf). I met a lot of clever female developer and speaker from which know-how I was
+   impressed and learned. And I think there are a lot more outside and a lot more who have the talent.
+   So it is important to support them.</p>
+   <p>As Shmuela asked for that, I decided within in 30s that it would be an honor to do that.</p>
+   <p>There are several projects with an impressive diversity support and very good material.<p>
+   <p>And last but not least I’m still reading the book of Software craftsmanship by Sandro Mancuso
+   in which he shows how important and good it can be to give something back to the community and how important
+   it is to learn from other developers. And I think I could also learn as a mentor from the participants.</p>
+"
+  thumbnailUrl: robert.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/robertSPD"}
+
+- id: 2
+  name: "xxx"
+  surname: "xxxx"
+  company: "organizer"
+  bio: '<p></p>'
+  thumbnailUrl: you.png
+  rockstar: true
+
+
+- id: 3
+  name: "And You?"
+  surname: ""
+  company: "&nbsp;"
+  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/EfINi6GepZk5uvQz1" target="_blank"> this form</a>.</p>'
+  thumbnailUrl: you.png
+  rockstar: true
