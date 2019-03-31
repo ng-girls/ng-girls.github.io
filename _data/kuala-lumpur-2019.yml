@@ -16,6 +16,11 @@ partners:
    group: "With support of"
    elements:
      - {name: "NG MY", description: "NG MY - first angular conference in Southeast Asia", link: "https://2019.ng-my.org/", imageUrl: "ng-my.svg"}
+     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
+     - {name: "JetBrains", description: "JetBrains -  intelligent development tools", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png", width: "130px"}
+     
+
+
 
 
 mentors:
@@ -34,6 +39,7 @@ mentors:
 "
   thumbnailUrl: robert.png
   rockstar: true
+  company: "organizer"
   social:
     - {name: "twitter", link: "https://twitter.com/robertSPD"}
 
