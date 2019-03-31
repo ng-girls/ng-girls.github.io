@@ -7,13 +7,13 @@
       <h3 id="organizing-team-title">Meet the Mentors</h3>
 
       {% assign animationDelay = 0 %}
-      {% for member in site.data.kuala-lumpur-2019.mentors %}
+      {% for member in site.data.budapest-2019.mentors %}
       {% if forloop.index < 12 %}
         {% assign colWidth = 4 %}
       {% else %}
         {% assign colWidth = 6 %}
       {% endif %}
-      {% assign memberImage = site.baseurl | append: '/img/kuala-lumpur-2019-mentors/' | append: member.thumbnailUrl %}
+      {% assign memberImage = site.baseurl | append: '/img/budapest-2019-mentors/' | append: member.thumbnailUrl %}
       <div class="col-md-{{ colWidth }} col-xs-6 rockstar-speakers-item animated hiding"
            data-animation="fadeInUp"
            data-delay="{{ animationDelay }}">
