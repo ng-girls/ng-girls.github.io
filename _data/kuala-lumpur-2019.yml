@@ -1,10 +1,15 @@
 eventDate: "July, 7th, 2019, Kuala Lumpur"
 #eventDate: "July, 7th, 2019, Kuala Lumpur<br /> <small style='font-size:60%'> Sunway University, 5, Jalan Universiti, Bandar Sunway, 47500 Petaling Jaya, Selangor, Malaysia</small>"
-applicationForm: "#"
+applicationForm: " https://ti.to/ng-my/ng-study-ng-girls-kl-2019"
 mentorsForm: "#"
 descriptionTitle: "ngGirls @ Kuala Lumpur 2019"
 descriptionBlock:
  - {title: "Who is it for?", template: "kuala-lumpur-2019/kuala-lumpur-2019-description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Who can join the workshop?", template: "kuala-lumpur-2019/kuala-lumpur-2019-description-who-can-join-the-workshop.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "What will you learn?", template: "kuala-lumpur-2019/kuala-lumpur-2019-description-what-will-you-learn.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "What are the prerequisites?", template: "kuala-lumpur-2019/kuala-lumpur-2019-description-what-are-the-prerequisites.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "How much it costs?", template: "kuala-lumpur-2019/kuala-lumpur-2019-description-how-much-it-costs.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "I am in! How to register?", template: "kuala-lumpur-2019/kuala-lumpur-2019-description-i-am-in.html", link: "/#faq", linkTitle: "Check out the FAQ"}
  - {title: "Schedule", template: "kuala-lumpur-2019/kuala-lumpur-2019-description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
  - {title: "Can I help?", template: "kuala-lumpur-2019/kuala-lumpur-2019-description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
                   <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
@@ -18,6 +23,9 @@ partners:
      - {name: "NG MY", description: "NG MY - first angular conference in Southeast Asia", link: "https://2019.ng-my.org/", imageUrl: "ng-my.svg"}
      - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
      - {name: "JetBrains", description: "JetBrains -  intelligent development tools", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png", width: "130px"}
+     - {name: "Sunway University", description: "Sunway University", link: "https://university.sunway.edu.my/", imageUrl: "sunwayuniversity.jpg", width: "130px"}
+     - {name: "Women Who Code Kuala Lumpur", description: "Women Who Code Kuala Lumpur", link: "https://www.facebook.com/womenwhocodekl/", imageUrl: "WWC_Kuala Lumpur.jpg", width: "130px"}
+     - {name: "Sunway Tech Club", description: "Sunway Tech Club is a community based organization that bridges the gap between tech education and academia, industry and entrepreneurship.", link: "https://www.facebook.com/sunwaytechclub/", imageUrl: "sunway_tech_club.png", width: "130px"}
      
 
 
@@ -44,15 +52,35 @@ mentors:
     - {name: "twitter", link: "https://twitter.com/robertSPD"}
 
 - id: 2
-  name: "xxx"
-  surname: "xxxx"
+  name: "Connie"
+  surname: "Leung"
   company: "organizer"
-  bio: '<p></p>'
-  thumbnailUrl: you.png
+  bio: '<p>- Frontend Software Engineer based in Hong Kong</p><p>- Specialize in Angular, Vue, JavaScript, ES6 and TypeScript</p><p>- Contributor to open source project, Codebuddies  (https://codebuddies.org/ )</p><p>- Organizer of VueJS HK Meetup</p>'
+  thumbnailUrl: connie.jpg
   rockstar: true
-
+  social:
+    - {name: "twitter", link: "https://twitter.com/con_leung"}
 
 - id: 3
+  name: "Eric"
+  surname: "Ngu"
+  company: "organizer"
+  bio: '<p>Eric is a Computer Science student from Sunway University, loves coffee, food (mamak food 😍) and 💻 code. Involved in a few ✨ communities - Sunway Tech Club, GDG KL, and now NG-MY.</p>'
+  thumbnailUrl: eric_ngu.jpg
+  rockstar: true
+
+- id: 4
+  name: "Jecelyn"
+  surname: "Yeen"
+  company: "organizer"
+  bio: '<p>Jecelyn speaks English, Mandarin, C#, JavaScript and Angular. She blogs & speaks tech, enjoys organizing community events.</p><p>Ironically her favourite past time away from work involves travelling to remote islands without WiFi for deep sea diving expeditions and reading books with tangible covers.</p>'
+  thumbnailUrl: jecelyn_yeen.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/jecelynyeen"}
+
+
+- id: 5
   name: "And You?"
   surname: ""
   company: "&nbsp;"
