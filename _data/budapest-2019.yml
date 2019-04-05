@@ -1,6 +1,6 @@
 eventDate: "May, 11th, 2019, Budapest<br /> <small style='font-size:60%'> Supercharge HQ (Károly krt 9. 1075 Budapest, Hungary)</small>"
-applicationForm: "#"
-mentorsForm: "#"
+applicationForm: "https://forms.gle/17UJGv891my4qo926"
+mentorsForm: "https://forms.gle/2NoH8UNrhptVBL5N7"
 descriptionTitle: "ngGirls @ Budapest 2019"
 descriptionBlock:
  - {title: "Who is it for?", template: "budapest-2019/budapest-2019-description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
@@ -14,7 +14,7 @@ partners:
 -
    group: "With support of"
    elements:
-     - {name: "Supercharge", description: "We build high-impact mobile products making life easier for millions of users.", link: "https://supercharge.io/", imageUrl: "supercharge.jpg"}
+     - {name: "Supercharge", description: "We build high-impact mobile products making life easier for millions of users.", link: "https://supercharge.io/", imageUrl: "supercharge.png"}
      - {name: "Craft Conference", description: "Craft is an inclusive and professional conference about software craftship.", link: "https://craft-conf.com/", imageUrl: "craft.jpg"}
      - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
      - {name: "JetBrains", description: "JetBrains -  intelligent development tools", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png", width: "130px"}
@@ -27,7 +27,7 @@ mentors:
   surname: "Horvath"
   company: "organizer"
   bio: '<p></p>'
-  thumbnailUrl: you.png
+  thumbnailUrl: zita.jpg
   rockstar: true
 
 - id: 2
@@ -48,6 +48,14 @@ mentors:
   company: "organizer"
   social:
     - {name: "twitter", link: "https://twitter.com/robertSPD"}
+
+- id: 3
+  name: "Réka"
+  surname: "Kosik "
+  company: "organizer"
+  bio: '<p></p>'
+  thumbnailUrl: reka.jpg
+  rockstar: true
 
 - id: 5
   name: "And You?"
