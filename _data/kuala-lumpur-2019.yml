@@ -1,8 +1,8 @@
 eventDate: "July, 7th, 2019, Kuala Lumpur"
 #eventDate: "July, 7th, 2019, Kuala Lumpur<br /> <small style='font-size:60%'> Sunway University, 5, Jalan Universiti, Bandar Sunway, 47500 Petaling Jaya, Selangor, Malaysia</small>"
-applicationForm: " https://ti.to/ng-my/ng-study-ng-girls-kl-2019"
-mentorsForm: "#"
-descriptionTitle: "ngGirls @ Kuala Lumpur 2019"
+applicationForm: "https://ti.to/ng-my/ng-study-ng-girls-kl-2019"
+mentorsForm: "https://forms.gle/rTfn93WbsjLA4JJVA"
+descriptionTitle: "Angular Study Day + ngGirls"
 descriptionBlock:
  - {title: "Who is it for?", template: "kuala-lumpur-2019/kuala-lumpur-2019-description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
  - {title: "Who can join the workshop?", template: "kuala-lumpur-2019/kuala-lumpur-2019-description-who-can-join-the-workshop.html", link: "/#faq", linkTitle: "Check out the FAQ"}
