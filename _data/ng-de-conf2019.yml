@@ -1,7 +1,7 @@
 eventDate: "August 29th, 2019, Berlin"
 applicationForm: "https://forms.gle/D5G1FMASsAXLHw528"
 mentorsForm: "https://forms.gle/dKwnU9VncFVx2Kip9"
-descriptionTitle: "ngGirls @ ng-DE"
+descriptionTitle: "ngGirls @ ng-DE Berlin"
 descriptionBlock:
   - {title: "Who is it for?", template: "ng-de-conf2019/ng-de-conf2019-description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
   # - {title: "Schedule", template: "ng-de-conf/ng-de-conf2019-description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
