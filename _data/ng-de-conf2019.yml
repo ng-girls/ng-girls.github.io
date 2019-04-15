@@ -5,7 +5,7 @@ descriptionTitle: "ngGirls @ ng-DE Berlin"
 descriptionBlock:
   - {title: "Who is it for?", template: "ng-de-conf2019/ng-de-conf2019-description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
   # - {title: "Schedule", template: "ng-de-conf/ng-de-conf2019-description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
-  - {title: "Can I help?", template: "ng-de-conf/ng-de-conf2019-description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+  - {title: "Can I help?", template: "ng-de-conf2019/ng-de-conf2019-description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
                   <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
                   From granting tickets to Angular Conferences, through supplying cool ngGirls goodies - lots of opportunities to help. "}
 

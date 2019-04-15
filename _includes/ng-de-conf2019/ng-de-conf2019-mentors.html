@@ -7,7 +7,7 @@
       <h3 id="organizing-team-title">Meet the Mentors</h3>
 
       {% assign animationDelay = 0 %}
-      {% for member in site.data.berlin2018.mentors %}
+      {% for member in site.data.ng-de-conf2019.mentors %}
       {% if forloop.index < 10 %}
         {% assign colWidth = 4 %}
       {% else %}
@@ -17,7 +17,7 @@
       <div class="col-md-{{ colWidth }} col-xs-6 rockstar-speakers-item animated hiding"
            data-animation="fadeInUp"
            data-delay="{{ animationDelay }}">
-        <div class="lily-head" data-toggle="modal" data-target="#mentorDetailBerlin-{{ member.id }}">
+        <div class="lily-head" data-toggle="modal" data-target="#mentorDetailBerlin2019-{{ member.id }}">
           <div class="rockstar-speaker">
             <div class="flow-img img-circle rockstar-speaker-img"
                  style="background-image: url({{ memberImage }})"></div>
