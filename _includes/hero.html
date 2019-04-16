@@ -28,7 +28,8 @@
                         <div class="row">
                             {% for event in site.upcomingEvents %}
                             <a href="{% if event.permalink != null %} {{ event.permalink | prepend: site.baseurl }} {% else %} {{ event.link }} {% endif %}">
-                                <div class="col-Xmd-2 events col-xs-6 col-xs-offset-3 col-md-4 col-md-offset-0">
+                                <div class="col-Xmd-2 events col-xs-6  col-md-3 col-md-offset-0">
+                                <!-- <div class="col-Xmd-2 events col-xs-6 col-xs-offset-3 col-md-4  col-md-offset-0"> -->
                                     <div class="col-xs-11 col-xs-offset-1 col-md-10 col-md-offset-1 events__image" style="background-image: url(/img/sections-background/{{event.location | downcase | replace: ' ', '-'}}.jpg)">
                                         <div class="events__overlay">
                                             <p class="events__city">{{event.location}}</p>
