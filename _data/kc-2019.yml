@@ -58,7 +58,7 @@ team:
     bio: '<p>Alisa is a software architect, a former chemist, and a Navy brat who grew up in Japan.
     She enjoys volunteering, learning new things, and having a drink on her patio.
     She is a co-organizer of <a href="https://www.meetup.com/angularkc/" target="_blank">AngularKC</a> and
-    Technical Materials Director of <a href="https://codingandcocktails.kcwomenintech.org" target="_blank">Coding & Cocktails</a>,
+    Technical Materials Director for <a href="https://codingandcocktails.kcwomenintech.org" target="_blank">Coding & Cocktails</a>,
     a program that teaches women web development basics.</p>'
     social:
       - {name: "twitter", link: "https://www.twitter.com/AlisaDuncan"}
@@ -81,7 +81,7 @@ team:
     title: 'Mentor Director'
     bio: '<p>Amy is a graphic designer turned software developer who got her start in Kansas City Women in Technology''s <a href="https://codingandcocktails.kcwomenintech.org" target="_blank">Coding & Cocktails</a> program.
     She loves learning new things, cuddling her cat, and playing board games.
-    She is also Mentor Director for DjangoGirls KC.</p>'
+    She is also Co-Director for <a href="https://codingandcocktails.kcwomenintech.org" target="_blank">Coding & Cocktails</a>, a program that teaches women web development basics.</p>'
     social:
       - {name: "twitter", link: "https://www.twitter.com/amynorris"}
       - {name: "linkedin", link: "https://www.linkedin.com/in/norrisamy/"}
@@ -127,7 +127,8 @@ team:
     thumbnailUrl: jack.png
     title: 'Attendee Director'
     bio: '<p>Jacqueline is a twenty-one-year-old software developer. She is passionate about helping others discover a love for tech. 
-    In her spare time, you can find her exploring downtown, hanging with her cat, or watching Netflix.</p>'
+    In her spare time, you can find her exploring downtown, hanging with her cat, or watching Netflix.
+    She is also Mentor Director for <a href="http://codingandcupcakes.kcwomenintech.org" target="_blank">Coding & Cupcakes</a>, a program that teaches parents & daughters to code.</p>'
     social:
       - {name: "twitter", link: "https://www.twitter.com/just_jacquelin"}
       - {name: "site", link: "https://jkolze.github.io/"}
