@@ -23,20 +23,24 @@ faqs:
   - {question: "Is there public transit to the venue?", answer: "<p>No, Johnson County Transit does not service the venue on Saturday, but we want to help! If you don't have transportation, please <a href='mailto:nggirls@kcwomenintech.org?subject=Transportation Request'>email us</a>.</p>"}
 
 partners:
+- group: "Silver Sponsors"
+  type: 'silver'
+  elements:
+    - {name: "Oasis Digital", description: "Full-stack development experts in Angular and web components", link: "https://oasisdigital.com/", imageUrl: "oasis-digital.png"}
 - group: "Venue provided by"
   type: 'venue'
   elements:
     - {name: "Cox Automotive", description: "Transforming the way the world buys, sells, owns and uses cars", link: "https://www.coxautoinc.com/", imageUrl: "CA-RGB-Inline_2C-LtBg.jpg", width: "400px"}
--  group: "Organized by"
-   type: 'host'
-   elements:
-     - {name: "Kansas City Women in Technology (KCWiT)", description: "We're trying to grow the number of women in technology careers in Kansas City.", link: "https://kcwomenintech.org/", imageUrl: "kcwit_small.png"}
 -  group: "Special thanks to"
    type: 'ng-girls'
    elements:
      - {name: "Nothing Bundt Cakes", description: "Celebrate life's special moments with hand-decorated cakes from Nothing Bundt Cakes, adorned with inspired decorations and signature frosting.", link: "https://www.nothingbundtcakes.com/bakery/ks/mission", imageUrl: "nothingbundtcakes.png"}
      - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
      - {name: "JetBrains", description: "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools.", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png"}
+-  group: "Organized by"
+   type: 'host'
+   elements:
+     - {name: "Kansas City Women in Technology (KCWiT)", description: "We're trying to grow the number of women in technology careers in Kansas City.", link: "https://kcwomenintech.org/", imageUrl: "kcwit_small.png"}
 
 venue:
 
@@ -54,7 +58,7 @@ team:
     bio: '<p>Alisa is a software architect, a former chemist, and a Navy brat who grew up in Japan.
     She enjoys volunteering, learning new things, and having a drink on her patio.
     She is a co-organizer of <a href="https://www.meetup.com/angularkc/" target="_blank">AngularKC</a> and
-    Technical Materials Director of <a href="https://codingandcocktails.kcwomenintech.org" target="_blank">Coding & Cocktails</a>,
+    Technical Materials Director for <a href="https://codingandcocktails.kcwomenintech.org" target="_blank">Coding & Cocktails</a>,
     a program that teaches women web development basics.</p>'
     social:
       - {name: "twitter", link: "https://www.twitter.com/AlisaDuncan"}
@@ -77,7 +81,7 @@ team:
     title: 'Mentor Director'
     bio: '<p>Amy is a graphic designer turned software developer who got her start in Kansas City Women in Technology''s <a href="https://codingandcocktails.kcwomenintech.org" target="_blank">Coding & Cocktails</a> program.
     She loves learning new things, cuddling her cat, and playing board games.
-    She is also Mentor Director for DjangoGirls KC.</p>'
+    She is also Co-Director for <a href="https://codingandcocktails.kcwomenintech.org" target="_blank">Coding & Cocktails</a>, a program that teaches women web development basics.</p>'
     social:
       - {name: "twitter", link: "https://www.twitter.com/amynorris"}
       - {name: "linkedin", link: "https://www.linkedin.com/in/norrisamy/"}
@@ -123,7 +127,8 @@ team:
     thumbnailUrl: jack.png
     title: 'Attendee Director'
     bio: '<p>Jacqueline is a twenty-one-year-old software developer. She is passionate about helping others discover a love for tech. 
-    In her spare time, you can find her exploring downtown, hanging with her cat, or watching Netflix.</p>'
+    In her spare time, you can find her exploring downtown, hanging with her cat, or watching Netflix.
+    She is also Mentor Director for <a href="http://codingandcupcakes.kcwomenintech.org" target="_blank">Coding & Cupcakes</a>, a program that teaches parents & daughters to code.</p>'
     social:
       - {name: "twitter", link: "https://www.twitter.com/just_jacquelin"}
       - {name: "site", link: "https://jkolze.github.io/"}
@@ -138,16 +143,6 @@ team:
     social:
       - {name: "twitter", link: "https://www.twitter.com/likeOMGitsFEDAY"}
       - {name: "site", link: "https://jenniferwadella.com/"}
-
-  - id: 9
-    name: 'Preeya'
-    surname: 'Sharma'
-    thumbnailUrl: preeya.jpg
-    title: 'Marketing Director'
-    bio: '<p>Preeya is a UI/UX Developer from Kansas City, MO. 
-    Some of her favorite things include coffee, exploring new cities, Harry Potter, and cookie decorating.</p>'
-    social:
-      - {name: "twitter", link: "https://www.twitter.com/sharpree89"}
 
   
 mentors:
