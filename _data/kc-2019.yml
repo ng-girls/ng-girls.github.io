@@ -23,10 +23,15 @@ faqs:
   - {question: "Is there public transit to the venue?", answer: "<p>No, Johnson County Transit does not service the venue on Saturday, but we want to help! If you don't have transportation, please <a href='mailto:nggirls@kcwomenintech.org?subject=Transportation Request'>email us</a>.</p>"}
 
 partners:
+- group: "Platinum Sponsors"
+  type: 'platinum'
+  elements:
+    - {name: "VeriShip", description: "VeriShip is the leader in parcel shipping intelligence. We use actionable data to reduce shipping costs and optimize future parcel spend.", link: "https://veriship.com/", imageUrl: "veriship.png", width: "300px"}
 - group: "Silver Sponsors"
   type: 'silver'
   elements:
     - {name: "Oasis Digital", description: "Full-stack development experts in Angular and web components", link: "https://oasisdigital.com/", imageUrl: "oasis-digital.png"}
+    - {name: "Integrity Inspired Solutions", description: "Bridging the gap between technology and your business", link: "https://www.integrityinspired.com/", imageUrl: "integrityinspired.png", width: "80px"}
 - group: "Venue provided by"
   type: 'venue'
   elements:
