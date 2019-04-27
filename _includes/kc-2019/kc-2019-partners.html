@@ -7,7 +7,7 @@
             <h5>{{ partner.group }}</h5>
             <ul class="list-inline">
                 {% for element in partner.elements %}
-                {% if partner.type == 'venue' %}
+                {% if partner.type == 'venue' or partner.type == 'platinum' %}
                 <li {% if element.width != null %}style="max-width: unset; width: {{ element.width }};"{% endif %}>
                 {% else %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
