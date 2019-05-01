@@ -91,7 +91,7 @@ bottomNavigationLinks:
 # - {permalink: "/mannheim-2019/", text: "ngGirls @ Mannheim"}
 # - {permalink: "/lviv-2019/", text: "ngGirls @ Lviv 2019"}
 #  - {permalink: "/poznan-2019/", text: "ngGirls @ Poznan 2019"}
- - {permalink: "/ng-conf/", text: "ngGirls @ ngConf 2019"}
+# - {permalink: "/ng-conf/", text: "ngGirls @ ngConf 2019"}
  - {permalink: "/budapest-2019/", text: "ngGirls @ Budapest 2019"}
  - {permalink: "/ngVikings-2019/", text: "ngGirls @ ngVikings 2019"}
  - {permalink: "/kuala-lumpur-2019/", text: "Angular Study Day + ngGirls"}
@@ -144,7 +144,7 @@ upcomingEvents:
 # - {permalink: "/mannheim-2019/", text: "ngGirls @ Mannheim", date: "January 19th<br /> 2019", location: "Mannheim", name: "ngGirls @ Mannheim"}
 # - {permalink: "/lviv-2019/", text: "ngGirls @ Lviv 2019", date: "February 16th<br /> 2019", location: "Lviv", name: "ngGirls @ Lviv 2019"}
 #  - {permalink: "/poznan-2019/", text: "ngGirls @ Poznan", date: "April 6th<br /> 2019", location: "Poznan", name: "ngGirls @ Poznan 2019"}
- - {permalink: "/ng-conf/", text: "ngGirls @ ngConf 2019", date: "April 30th<br /> 2019", location: "Salt Lake City", name: "ngGirls @ ngConf 2019", image: "salt-lake-city.jpg"}
+# - {permalink: "/ng-conf/", text: "ngGirls @ ngConf 2019", date: "April 30th<br /> 2019", location: "Salt Lake City", name: "ngGirls @ ngConf 2019", image: "salt-lake-city.jpg"}
  - {permalink: "/budapest-2019/", text: "ngGirls @ Budapest 2019",  date: "May 11th<br /> 2019", location: "Budapest", name: "ngGirls @ Budapest 2019"}
  - {permalink: "/ngVikings-2019/", text: "ngGirls @ ngVikings 2019", date: "May 26th<br /> 2019", location: "Copenhagen", name: "ngGirls @ ngVikings 2019"}
  - {permalink: "/kuala-lumpur-2019/", text: "Angular Study Day + ngGirls", date: "July 7th<br /> 2019", location: "Kuala Lumpur", name: "Angular Study Day + ngGirls"}
@@ -190,7 +190,7 @@ heroButtons:
 # - {permalink: "/mannheim-2019/", text: "ngGirls @ Mannheim"}
 # - {permalink: "/lviv-2019/", text: "ngGirls @ Lviv 2019"}
 #  - {permalink: "/poznan-2019/", text: "ngGirls @ Poznan 2019"}
- - {permalink: "/ng-conf/", text: "ngGirls @ ngConf 2019"}
+# - {permalink: "/ng-conf/", text: "ngGirls @ ngConf 2019"}
  - {permalink: "/budapest-2019/", text: "ngGirls @ Budapest 2019"}
  - {permalink: "/ngVikings-2019/", text: "ngGirls @ ngVikings 2019"}
  - {permalink: "/kuala-lumpur-2019/", text: "Angular Study Day + ngGirls"}
