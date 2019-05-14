@@ -15,7 +15,7 @@ partners:
     elements:
       - {name: "NG Rome MMXIX", description: "Italian Angular Conference",
          link: "https://ngrome.io/home",
-         imageUrl: "ng-rome.png"}
+         imageUrl: "ngrome.png"}
       - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
       - {name: "JetBrains", description: "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools.", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png"}
 
