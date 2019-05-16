@@ -94,7 +94,7 @@ bottomNavigationLinks:
 # - {permalink: "/ng-conf/", text: "ngGirls @ ngConf 2019"}
 # - {permalink: "/budapest-2019/", text: "ngGirls @ Budapest 2019"}
  - {permalink: "/ngVikings-2019/", text: "ngGirls @ ngVikings 2019"}
- - {permalink: "/AngularUP-2019/", text: "ngGirls @ AngularUP 2019"}
+ - {permalink: "/tlv-2019/", text: "ngGirls @ Tel Aviv 2019"}
  - {permalink: "/kuala-lumpur-2019/", text: "Angular Study Day + ngGirls"}
  - {permalink: "/kc-2019/", text: "ngGirls @ Kansas City 2019"}
  - {permalink: "/ng-de-2019/", text: "ngGirls @ NG-DE Berlin"}
@@ -148,7 +148,7 @@ upcomingEvents:
 # - {permalink: "/ng-conf/", text: "ngGirls @ ngConf 2019", date: "April 30th<br /> 2019", location: "Salt Lake City", name: "ngGirls @ ngConf 2019", image: "salt-lake-city.jpg"}
 # - {permalink: "/budapest-2019/", text: "ngGirls @ Budapest 2019",  date: "May 11th<br /> 2019", location: "Budapest", name: "ngGirls @ Budapest 2019"}
  - {permalink: "/ngVikings-2019/", text: "ngGirls @ ngVikings 2019", date: "May 26th<br /> 2019", location: "Copenhagen", name: "ngGirls @ ngVikings 2019"}
- - {permalink: "/AngularUP-2019/", text: "ngGirls @ AngularUP 2019", date: "June 10th<br /> 2019", location: "Tel Aviv", name: "ngGirls @ AngularUP 2019"}
+ - {permalink: "/tlv-2019/", text: "ngGirls @ Tel Aviv 2019", date: "June 10th<br /> 2019", location: "Tel Aviv", name: "ngGirls @ Tel Aviv 2019", image: "AOL_TLV_view.jpg"}
  - {permalink: "/kuala-lumpur-2019/", text: "Angular Study Day + ngGirls", date: "July 7th<br /> 2019", location: "Kuala Lumpur", name: "Angular Study Day + ngGirls"}
  - {permalink: "/kc-2019/", text: "ngGirls @ Kansas City 2019", date: "July 27th<br /> 2019", location: "Kansas City", name: "ngGirls @ Kansas City 2019"}
  - {permalink: "/ng-de-2019/", text: "ngGirls @ NG-DE Berlin",  date: "August 29th<br /> 2019", location: "Berlin", name: "ngGirls @ NG-DE Berlin", image: "berlin.png"}
@@ -195,7 +195,7 @@ heroButtons:
 # - {permalink: "/ng-conf/", text: "ngGirls @ ngConf 2019"}
 # - {permalink: "/budapest-2019/", text: "ngGirls @ Budapest 2019"}
  - {permalink: "/ngVikings-2019/", text: "ngGirls @ ngVikings 2019"}
- - {permalink: "/AngularUP-2019/", text: "ngGirls @ AngularUP 2019"}
+ - {permalink: "/tlv-2019/", text: "ngGirls @ Tel Aviv 2019"}
  - {permalink: "/kuala-lumpur-2019/", text: "Angular Study Day + ngGirls"}
  - {permalink: "/kc-2019/", text: "ngGirls @ Kansas City 2019"}
  - {permalink: "/ng-de-2019/", text: "ngGirls @ NG-DE Berlin"}

@@ -1,21 +1,21 @@
 eventDate: "June 10th, 2019 - Tel Aviv, Israel"
-date: "Friday, June 22nd, 2018, between 9:00-16:00,"
+date: "Monday, June 10th, 2019, between 9:00-17:00,"
 location: "Microsoft Reactor, Dubnov 7, Tel Aviv, Israel"
 deadline: "June 2nd, 2019"
-applicationForm: ""
-mentorsForm: ""
+applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSewE46Oq0uKUZTWM1f38ztCt2jlf3yCcB_2pfsKUOd7eqHFSA/viewform"
+mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSf4rUgwLKrGUOyMTdwJi-KGYMjkKjOh8SdO0j0WifQVYkoNUw/viewform"
 confMessage: 'We are happy to be hosted by <a href="https://developer.microsoft.com/en-us/reactor/" target="_blank"><b>Microsoft Reactor</b></a> and offer a free one-day workshop in Tel-Aviv, Israel!'
-descriptionTitle: "ngGirls @ TLV"
+descriptionTitle: "ngGirls @ Tel Aviv 2019"
 descriptionBlock:
- - {title: "Who is it for?", template: "angular-up2019/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
- - {title: "Can I help?", template: "angular-up2019/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+ - {title: "Who is it for?", template: "tlv-2019/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "tlv-2019/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
                   <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
                   From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
 partners:
 
 -  group: "Hosted by"
    elements:
-     - {name: "Microsoft Reactor", description: "Microsoft Reactor", link: "https://developer.microsoft.com/en-us/reactor/", imageUrl: ""}
+     - {name: "Microsoft Reactor", description: "Microsoft Reactor", link: "https://developer.microsoft.com/en-us/reactor/", imageUrl: "microsoft.png"}
 
 mentors:
 
@@ -55,18 +55,13 @@ mentors:
     social:
       - {name: "twitter", link: "https://twitter.com/robertSPD"}
 
+
   - id: 3
-    name: "Shmuela"
-    surname: "Jacobs"
-    company: "Organizer"
-    title: "Web Developer and Consultant, Founder"
-    description: "In July 2014 I've been chosen to participate in Django Girls Berlin, as part of Europe's PyConf. I had just finished my M.Sc. and was thinking about the future. Although I've had programming experience, this event inspired me to explore the world of development, and especially Web development, even deeper, and join the Tech industry. Today I am ready to give back. So not with Django, but with Angular, which I really love."
-    bio: "Shmuela Jacobs is a front-end developer and consultant mastering Angular. During her academic studies (M.Sc. in Information Management Engineering and B.Sc. in Physics) she has combined her passions of coding and teaching as a software developer, teaching assistant, science museum guide, and researcher. Today she continues to enjoy these activities as a full-time developer, sharing her knowledge and experience in meetups and conferences around the world."
-    thumbnailUrl: Shmuela_AC.png
+    name: "And You?"
+    surname: ""
+    company: "&nbsp;"
+    bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
+    thumbnailUrl: you.png
     rockstar: true
     social:
-      - {name: "github", link: "https://github.com/shmool"}
-      - {name: "linkedin", link: "https://il.linkedin.com/in/shmuelaj"}
-      - {name: "twitter", link: "https://twitter.com/ShmuelaJ"}
-
-
+      - {name: "twitter", link: "https://twitter.com/xxx"}
