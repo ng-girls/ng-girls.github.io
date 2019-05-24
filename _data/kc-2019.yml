@@ -27,6 +27,8 @@ partners:
   type: 'platinum'
   elements:
     - {name: "VeriShip", description: "VeriShip is the leader in parcel shipping intelligence. We use actionable data to reduce shipping costs and optimize future parcel spend.", link: "https://veriship.com/", imageUrl: "veriship.png", width: "300px"}
+    - {name: "Equipment Share", description: "Construction technology solutions that help contractors get more done.", link: "https://www.equipmentshare.com/", imageUrl: "equipment-share.png", width: "350px"}
+    - {name: "Veracity", description: "Bridging the gap between business and technology.", link: "http://www.VeracityIT.com", imageUrl: "veracity.png"}
 - group: "Gold Sponsors"
   type: 'gold'
   elements:
@@ -43,9 +45,12 @@ partners:
 -  group: "Special thanks to"
    type: 'ng-girls'
    elements:
+     - {name: "Hanscom Park", description: "A CONSTANTLY CREATIVE STUDIO.", link: "https://hanscompark.com/", imageUrl: "hanscom.png"}
      - {name: "Nothing Bundt Cakes", description: "Celebrate life's special moments with hand-decorated cakes from Nothing Bundt Cakes, adorned with inspired decorations and signature frosting.", link: "https://www.nothingbundtcakes.com/bakery/ks/mission", imageUrl: "nothingbundtcakes.png"}
      - {name: "CaseApp", description: "CaseApp makes it easy for all people to be able to order custom designed phone and computer cases and skins online", link: "https://caseapp.com/", imageUrl: "caseapp.png"}
      - {name: "This Dot Media", description: "Creating an inclusive web through free developer resources. Keep up with the evolution of the web platform through our articles, online events, videos, and podcasts.", link: "https://thisdot.co", imageUrl: "this-dot-media.png"}
+     - {name: "Chicken N Pickle", description: "Good Food, Good Friends, Good Fun", link: "https://chickennpickle.com/kc/", imageUrl: "chicken-n-pickle.png" }
+     - {name: "dev.to", description: "Where programmers share ideas and help each other grow.", link: "https://dev.to", imageUrl: "dev.png"}
      - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
      - {name: "JetBrains", description: "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools.", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png"}
 -  group: "Organized by"
