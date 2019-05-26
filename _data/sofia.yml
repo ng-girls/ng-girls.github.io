@@ -1,0 +1,73 @@
+heroImage: "sofia.jpg"
+date: "Monday, November 12th, 2018 between 9:00 - 12:00"
+location: ' at Progress offices, Boulevard "Tsarigradsko shose" 54B, 1750 Mladost 1, Sofia, Bulgaria'
+deadline: "October 31th, 2018"
+eventDate: "November 12th, 2018, Sofia, Bulgaria"
+applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSfqmdIM177SJ-R56U9TzexVoQ714YehX6FsaprS9ot87KIpwA/viewform?usp=sf_link"
+mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLScjCJNO6MoUKBiJXsmwzsbkdxv5lC49fZTOymS88AkQzwor3Q/viewform?usp=sf_link"
+descriptionTitle: "ngGirls @ Sofia"
+descriptionBlock:
+ - {title: "Who is it for?", template: "sofia/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "sofia/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+
+
+partners:
+
+-
+   group: "With support of"
+   elements:
+     - {name: "DevReach", description: "The premier developer conference in Central and Eastern Europe.", link: "http://devreach.com", imageUrl: "devreach-log.jpeg"}
+     - {name: "Progress", description: "Progress offers the leading platform for developing and deploying mission-critical,
+     cognitive-first business applications for competitive advantage.", link: "https://www.progress.com/", imageUrl: "progress-logo.png"}
+     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
+
+organizingTeamTitle: "ngGirls @ Sofia Team"
+team:
+  - id: 1
+    name: 'Jen'
+    surname: 'Peleva'
+    thumbnailUrl: jen.png
+    bio: "<p>Jen Peleva is a frontend developer for the Sitefinity CMS.
+    Lately she's being working on the new Sitefinity UI, built with Angular.
+    Her passions include drawing, human rights and psychology.</p>"
+    social:
+      - {name: "twitter", link: "https://twitter.com/JenPeleva"}
+      - {name: "site", link: "https://www.instagram.com/rougesprit/"}
+
+  - id: 2
+    name: 'Vasil'
+    surname: 'Chimev'
+    thumbnailUrl: vasil.png
+    bio: "<p>Vasil is a software engineer on the NativeScript core team working mainly on the cross-platform modules
+    and application framework. He is enthusiastic about how people build software and enjoys going to
+    live concert performances whenever possible.</p>"
+    social:
+      - {name: "twitter", link: "https://twitter.com/vchimev"}
+
+  - id: 3
+    name: 'Stanimira'
+    surname: 'Vlaeva'
+    thumbnailUrl: mira.png
+    bio: "<p>Stanimira is a software engineer on the NativeScript core team focused on the the integration
+    with Angular and performance optimizations. Lately, she’s been working on providing an official way for
+    sharing code between web and mobile Angular via NativeScript schematics and webpack.</p>"
+    social:
+      - {name: "twitter", link: "https://twitter.com/StanimiraVlaeva"}
+      - {name: "github", link: "https://github.com/sis0k0"}
+
+
+mentors:
+
+- id: 1
+  name: "And You?"
+  surname: ""
+  company: "&nbsp;"
+  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
+  thumbnailUrl: you.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/xxx"}
+
+

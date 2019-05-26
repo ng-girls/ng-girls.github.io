@@ -1,0 +1,75 @@
+heroImage: "vienna.jpg"
+date: "Saturday, October 27th, 2018"
+location: " in Vienna, Austria"
+deadline: "October 7th, 2018"
+eventDate: "October 27th, 2018, Vienna, Austria"
+applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSeHLsF0Lz1jheBSnEErigm8jwUikBnqNdNDA170oQqMach_5g/viewform?usp=sf_link"
+mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSfr8_nsmYqRplUWv3JMyaMukicagWDg6UihBemomP9Es7Yb4g/viewform?usp=sf_link"
+descriptionTitle: "ngGirls @ Vienna"
+descriptionBlock:
+ - {title: "Who is it for?", template: "vienna/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "vienna/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+
+
+partners:
+
+-
+   group: "With support of"
+   elements:
+     - {name: "Angular Austria", description: "The non-profit association to push Angular in Austria and beyond.",
+         link: "https://angular-austria.at/", imageUrl: "Angular-Austria.png"}
+     - {name: "Angular Vienna Meetup", description: "Angular Vienna Meetup", link: "https://www.meetup.com/Angular-Vienna", imageUrl: "angular_vienna.jpeg", width: "100px"}
+     - {name: "ebcont", description: "ebcont -IT solutions with handshake quality", link: "https://www.ebcont.com/", imageUrl: "ebcont-group.png"}
+     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
+     - {name: "JetBrains", description: "JetBrains -  intelligent development tools", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png", width: "130px"}
+
+organizingTeamTitle: "ngGirls @ Sofia Team"
+team:
+  - id: 1
+    name: 'Jen'
+    surname: 'Peleva'
+    thumbnailUrl: jen.png
+    bio: "<p>Jen Peleva is a frontend developer for the Sitefinity CMS.
+    Lately she's being working on the new Sitefinity UI, built with Angular.
+    Her passions include drawing, human rights and psychology.</p>"
+    social:
+      - {name: "twitter", link: "https://twitter.com/JenPeleva"}
+      - {name: "site", link: "https://www.instagram.com/rougesprit/"}
+
+  - id: 2
+    name: 'Vasil'
+    surname: 'Chimev'
+    thumbnailUrl: vasil.png
+    bio: "<p>Vasil is a software engineer on the NativeScript core team working mainly on the cross-platform modules
+    and application framework. He is enthusiastic about how people build software and enjoys going to
+    live concert performances whenever possible.</p>"
+    social:
+      - {name: "twitter", link: "https://twitter.com/vchimev"}
+
+  - id: 3
+    name: 'Stanimira'
+    surname: 'Vlaeva'
+    thumbnailUrl: mira.png
+    bio: "<p>Stanimira is a software engineer on the NativeScript core team focused on the the integration
+    with Angular and performance optimizations. Lately, she’s been working on providing an official way for
+    sharing code between web and mobile Angular via NativeScript schematics and webpack.</p>"
+    social:
+      - {name: "twitter", link: "https://twitter.com/StanimiraVlaeva"}
+      - {name: "github", link: "https://github.com/sis0k0"}
+
+
+mentors:
+
+- id: 1
+  name: "And You?"
+  surname: ""
+  company: "&nbsp;"
+  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
+  thumbnailUrl: you.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/xxx"}
+
+
