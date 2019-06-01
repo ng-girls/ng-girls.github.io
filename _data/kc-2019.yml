@@ -62,11 +62,21 @@ venue:
 
 posts:
   - {title: "ngGirls comes to the Silicon Prairie!",
-     content: "We're excited to bring ngGirls to the Silicon Prairie! Register soon- we can't wait to meet you and build a website together! "}
+     content: "We're excited to bring ngGirls to the Silicon Prairie and looking forward to meeting participants soon!"}
 
 organizingTeamTitle: "ngGirls @ Kansas City Team"
 team:
   - id: 1
+    name: 'Adora'
+    surname: 'Yang'
+    title: 'Marketing Director'
+    thumbnailUrl: adora.jpg
+    bio: '<p>Adora is a recent graduate from the University of Kansas with a background in Marketing and Anthropology.
+    She loves learning and trying new things and building her passion and career around people, technology, and marketing.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/adorayang"}
+
+  - id: 2
     name: 'Alisa'
     surname: 'Duncan'
     title: 'Program Director'
@@ -81,7 +91,7 @@ team:
       - {name: "linkedin", link: "https://www.linkedin.com/in/jalisaduncan"}
       - {name: "github", link: "https://github.com/alisaduncan"}
 
-  - id: 2
+  - id: 3
     name: 'Ammaarah'
     surname: 'Khan'
     thumbnailUrl: ammaarah.jpeg
@@ -90,7 +100,7 @@ team:
     social:
       - {name: "twitter", link: "https://www.twitter.com/ammaarahkhan"}
 
-  - id: 3
+  - id: 4
     name: 'Amy'
     surname: 'Norris'
     thumbnailUrl: amy.jpg
@@ -102,7 +112,7 @@ team:
       - {name: "twitter", link: "https://www.twitter.com/amynorris"}
       - {name: "linkedin", link: "https://www.linkedin.com/in/norrisamy/"}
   
-  - id: 4
+  - id: 5
     name: 'Beth'
     surname: 'Noser'
     thumbnailUrl: beth.jpg
@@ -112,7 +122,7 @@ team:
     social:
       - {name: "twitter", link: "https://www.twitter.com/angulargirlskc"}
   
-  - id: 5
+  - id: 6
     name: 'Erin'
     surname: 'Wilson'
     thumbnailUrl: erin.jpg
@@ -123,7 +133,7 @@ team:
     social:
       - {name: "twitter", link: "https://www.twitter.com/erin_wilson92"}
   
-  - id: 6
+  - id: 7
     name: 'Gloria'
     surname: 'Higley'
     thumbnailUrl: gloria.jpeg
@@ -137,7 +147,7 @@ team:
       - {name: "linkedin", link: "https://www.linkedin.com/in/gloriahigley/"}
       - {name: "github", link: "https://github.com/gloriahigley"}
 
-  - id: 7
+  - id: 8
     name: 'Jack'
     surname: 'Kolze'
     thumbnailUrl: jack.png
@@ -149,7 +159,7 @@ team:
       - {name: "twitter", link: "https://www.twitter.com/just_jacquelin"}
       - {name: "site", link: "https://jkolze.github.io/"}
 
-  - id: 8
+  - id: 9
     name: 'Jennifer'
     surname: 'Wadella'
     thumbnailUrl: jennifer.png
