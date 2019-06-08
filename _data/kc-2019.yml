@@ -53,6 +53,7 @@ partners:
      - {name: "dev.to", description: "Where programmers share ideas and help each other grow.", link: "https://dev.to", imageUrl: "dev.png"}
      - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
      - {name: "JetBrains", description: "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools.", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png"}
+     - {name: "Boulevard Brewing Company", description: "Founded in 1989 in Kansas City, Missouri, Boulevard Brewing Company has grown to become the largest specialty craft beer brewer in the Midwest.", link: "https://www.boulevard.com/", imageUrl: "boulevard-brewing.png"}
 -  group: "Organized by"
    type: 'host'
    elements:
@@ -185,6 +186,21 @@ mentors:
     - {name: "github", link: "https://github.com/ladyleet"}
 
  - id: 2
+   name: "Rob"
+   surname: "Ocel"
+   title: "Senior Software Engineer"
+   company: "This Dot Labs"
+   bio: '<p>Rob has had a lifelong love affair with coding. He still gets exceptionally geeked out and makes all his coworkers look when he solves a difficult problem or codes up a novel solution.
+   Because of this, Rob also has a passion for mentoring new and aspiring developers and finding bite-sized ways to explain difficult concepts in modern JavaScript development.
+   The look on the face of an inspired developer who understands something they didn’t before is his anti-drug.
+   Rob has been a professional software developer for over 10 years working on everything from DoD systems to mathematical modeling software, a web developer for the last 4 years building apps for everyone from insurance companies to numismatists, and is fascinated with front-end frameworks and their power to bring ever more diverse developers into the profession.
+   When not developing, Rob spends time keeping up with his two year old son, is an avid fan of JRPGs, and is obsessed with college basketball.</p>'
+   thumbnailUrl: "rob-ocel.png"
+   rockstar: true
+   social:
+    - {name: "twitter", link: "https://twitter.com/robocell"}
+
+ - id: 3
    name: "How about you?"
    surname: ""
    title: "&nbsp;"
