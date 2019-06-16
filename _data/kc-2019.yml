@@ -55,6 +55,7 @@ partners:
      - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
      - {name: "JetBrains", description: "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools.", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png"}
      - {name: "Boulevard Brewing Company", description: "Founded in 1989 in Kansas City, Missouri, Boulevard Brewing Company has grown to become the largest specialty craft beer brewer in the Midwest.", link: "https://www.boulevard.com/", imageUrl: "boulevard-brewing.png"}
+     - {name: "Angular", description: "Angular is a platform for building mobile and desktop web applications. Join the community of millions of developers who build compelling user interfaces with Angular.", link: "https://angular.io", imageUrl: "angular.svg"}
 -  group: "Organized by"
    type: 'host'
    elements:
