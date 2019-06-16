@@ -204,12 +204,202 @@ mentors:
     - {name: "twitter", link: "https://twitter.com/robocell"}
 
  - id: 3
-   name: "How about you?"
-   surname: ""
-   title: "&nbsp;"
-   company: "&nbsp;"
-   bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
-   thumbnailUrl: you.png
+   name: "Gabriela"
+   surname: "Dombrowski"
+   title: "Application Developer"
+   company: "Crema"
+   bio: '<p>A third-generation Brazilian raised in the US, Gabi spent her youth immersed in MS-DOS, server rooms, and Geocities Mariah Carey fan page HTML.
+   She transitioned to a development career in 2016 after spending 7 years as a systems administrator and is active in her local tech community.
+   Amongst her other interests are included ashtanga yoga, learning languages, and curating stellar playlists.
+   She is also Mentor Director for <a href="https://codingandcocktails.kcwomenintech.org" target="_blank">Coding & Cocktails</a>, a program that teaches women web development basics.</p>'
+   thumbnailUrl: "gabi.jpg"
    rockstar: true
    social:
-    - {name: "twitter", link: "https://twitter.com/xxx"}
+     - {name: "twitter", link: "https://twitter.com/gabdom"}
+     - {name: "github", link: "https://github.com/gabidombrowski"}
+
+ - id: 4
+   name: "Rachel"
+   surname: "Hagan"
+   title: "Software Engineer"
+   company: "Netsmart"
+   bio: '<p>Rachel is a software engineer and animal lover.
+   She is also Program Director for <a href="https://codingandcocktails.kcwomenintech.org" target="_blank">Coding & Cocktails</a>, a program that teaches women web development basics.</p>'
+   thumbnailUrl: "rachel-hagan.jpg"
+   rockstar: true
+   social:
+     - {name: "github", link: "https://github.com/rhagan21"}
+
+ - id: 5
+   name: "Sandi"
+   surname: "Barr"
+   title: "Senior Software Engineer"
+   company: "PRX"
+   bio: '<p>Sandi’s passion for software development has grown over the years as she has witnessed its potential for improving people’s lives.
+   Having seen that technology can be both a barrier to entry and a gateway to opportunity, she has worked in Omaha, her local community, to provide tech education to folks who may not otherwise have access.
+   She’s held NodeSchool and Django Girls workshops, is an organizer for NEJS Conference, and worked with organizations to create a sense of belonging for women in tech.</p>'
+   thumbnailUrl: "sandi-barr.jpg"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/sandikbarr"}
+     - {name: "github", link: "https://github.com/sandikbarr"}
+
+ - id: 6
+   name: "Krista"
+   surname: "LaFentres"
+   title: "Engineer"
+   company: "HashiCorp"
+   bio: '<p>Krista LaFentres is an Engineer at HashiCorp, with experience in Ruby on Rails, JavaScript, advertising, and analytics.
+   She loves learning new things and sharing that knowledge with others. She is currently exploring creative coding.
+   When she’s not coding, you can find her lifting heavy things, admiring cute animals, or eating cheesecake.</p>'
+   thumbnailUrl: "krista-lafentres.jpg"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/lafentres"}
+     - {name: "github", link: "https://github.com/lafentres"}
+
+ - id: 7
+   name: "Megan"
+   surname: "O'Roark"
+   title: "Software Engineer"
+   company: "HR Block"
+   bio: '<p>I’m Meg. I’m a software engineer. I am participating in ngGirls because I enjoy helping others learn development.</p>'
+   thumbnailUrl: "meg-oroark.jpg"
+   rockstar: true
+   social:
+     - {name: "github", link: "https://github.com/msoroark"}
+
+ - id: 8
+   name: "Chad"
+   surname: "Smith"
+   title: "Applications Developer"
+   company: "Blue Cross Blue Shield of Kansas City"
+   bio: '<p>I am an Application Developer, working mostly in Angular 7 and sometimes C#/MVC (when I can’t avoid it).
+   I enjoy volunteering to help others learn and develop the confidence that they can build great things with code.
+   I’m trying to introduce my daughter to coding and this is another great way to expose her to a strong developer community of coders.</p>'
+   thumbnailUrl: "chad-smith.jpg"
+   rockstar: true
+   social:
+     - {name: "github", link: "https://github.com/ChadESmith42"}
+
+ - id: 9
+   name: "Liz"
+   surname: "Wait"
+   title: "Technology Apprentice"
+   company: "VMLY&R"
+   bio: '<p>Liz Wait is a curious and ever learning full-stack developer. She is a recent Launchcode bootcamp graduate.
+   Volunteering and mentoring is a big passion of hers.
+   She loves giving back to the Kansas City tech community.
+   Aside from development, Liz loves all gaming from table top to FPS games.
+   She’s also a big fan of animals, art, and the outdoors.</p>'
+   thumbnailUrl: "liz-wait.jpg"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/lizwait"}
+
+ - id: 10
+   name: "Lex"
+   surname: "Sanders"
+   title: "Apprentice Applications Developer"
+   company: "Crema Labs"
+   bio: '<p>Hello! My name is Lex and I am currently working as an apprentice developer.
+   KCWiT gave me so much support when I first started my journey as a developer and I want to continue that cycle of encouraging women and girls to pursue careers in the STEM filed.
+   I love boardgames, scary movies and sushi. Feel free to check out my git hub!</p>'
+   thumbnailUrl: "lex-sanders.jpg"
+   rockstar: true
+   social:
+     - {name: "github", link: "https://github.com/Alexandria"}
+
+ - id: 11
+   name: "Chris"
+   surname: "Whited"
+   title: "Senior Software Engineer"
+   company: "This Dot Labs"
+   bio: '<p>Chris is a full-stack web developer with a passion for frontend technology and graphql. Looking for better ways to provide mentorship and change the ratio in tech.</p>'
+   thumbnailUrl: "chris-whited.jpg"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/cmwhited"}
+     - {name: "github", link: "https://github.com/cmwhited"}
+
+ - id: 12
+   name: "William"
+   surname: "Johnson"
+   title: "Material Handler"
+   company: "Corbion"
+   bio: '<p>Will is a father of 6 and a self taught JS developer. He wants to help as many people lose their fear of tech by making it approachable so we can have a more diverse workforce.
+   He is also Presentation Director for <a href="http://coderdojokc.com/" target="_blank">CoderDojo Kansas City</a>, a program that mentors kids to code.</p>'
+   thumbnailUrl: "william-johnson.jpg"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/willjohnsonio"}
+     - {name: "github", link: "https://github.com/wjohnson85"}
+
+ - id: 13
+   name: "Laura"
+   surname: "Slocum"
+   title: "Software Engineer - Team Lead"
+   company: "symplr"
+   bio: '<p>I am a software engineer in the KC area for the last 6 years.
+   I have been focused on JavaScript development the last 3 years, and I am passionate about it.
+   I love to help others succeed and become better engineers.
+   Building up other engineers lets you grow your network (good for when you need a new job), and grow your skill set.
+   Teaching others how to do something strengthens your understanding of a subject, and your new friends can teach you in return as they grow.
+   Building up other women helps the development world by not feeling alone in a sea of men at every conference and every job.</p>'
+   thumbnailUrl: "face.svg"
+   rockstar: true
+   social:
+
+ - id: 14
+   name: "Matthew"
+   surname: "Copple"
+   title: "Data Engineer"
+   company: "AutoAlert LLC"
+   bio: '<p>I am a data engineer with 20+ years experience in IT.
+   I am a self-taught programmer and know first-hand how learning to code can literally change the course of one’s life.
+   I am a passionate advocate of Open Source and Free Software, love databases and data engineering, and wake up every morning grateful to have a vocation rather than a job.
+   I got where I am today because of mentoring from a lot of highly talented and generous technologists.
+   The best way to thank them is to pay it forward by mentoring the next generation.
+   I have mentored budding Pythonistas through DjangoGirls in the past, and can’t wait to help introduce web development to another generation of learners through AngularJS and the ngGirls workshop!</p>'
+   thumbnailUrl: "matthew-copple.jpg"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/willjohnsonio"}
+     - {name: "github", link: "https://github.com/MatthewCopple"}
+
+ - id: 15
+   name: "Jennifer"
+   surname: "McKeithen"
+   title: "Student"
+   company: "WGU Missiouri"
+   bio: '<p>I’m a software development student at WGU. I want to help girls and women find better opportunities while improving my own skills.</p>'
+   thumbnailUrl: "face.svg"
+   rockstar: true
+   social:
+     - {name: "github", link: "https://github.com/JenniferMcKeithen"}
+
+ - id: 16
+   name: "Katie"
+   surname: "Hrenchir"
+   title: "Software Engineer"
+   company: "Cerner"
+   bio: '<p>I’m a recent KU grad eager to share my knowledge with women in KC. </p>'
+   thumbnailUrl: "katie-hrenchir.jpg"
+   rockstar: true
+   social:
+     - {name: "github", link: "https://github.com/katiehrenchir"}
+
+ - id: 18
+   name: "Justin"
+   surname: "Langley"
+   title: "Senior Developer"
+   company: "Code Koalas"
+   bio: '<p>Hey! My name is Justin Langley and I’ve been a web developer at Code Koalas since 2014 and am passionate about teaching people how to get into the programming gig!
+   I was invited to mentor at ngGirls and was immediately excited at the opportunity!
+   I hope organizations like ngGirls grow larger and larger and are able to provide more and more opportunities.</p>'
+   thumbnailUrl: "justin-langley.jpg"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/JayMLang"}
+     - {name: "github", link: "https://github.com/ArneSaknussemm"}
+
