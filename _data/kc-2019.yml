@@ -76,6 +76,7 @@ team:
     She loves learning and trying new things and building her passion and career around people, technology, and marketing.</p>'
     social:
       - {name: "twitter", link: "https://www.twitter.com/adorayang"}
+      - {name: "linkedin", link: "https://www.linkedin.com/in/adorapyang/"}
 
   - id: 2
     name: 'Alisa'
