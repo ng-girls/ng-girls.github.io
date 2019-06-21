@@ -471,3 +471,25 @@ mentors:
    social:
      - {name: "twitter", link: "https://twitter.com/eric_poe"}
      - {name: "github", link: "https://github.com/ericpoe"}
+
+volunteers:
+ - id: 24
+   name: "Melissa"
+   surname: "Arroyo"
+   title: "Web Designer"
+   company: "Twenty Over Ten"
+   bio: '<p>Marketer and Web Designer who is passionate about increasing diversity in technology. Currently Marketing Director at <a href="https://codingandcocktails.kcwomenintech.org" target="_blank">Coding & Cocktails</a>.</p>'
+   thumbnailUrl: "melissa-arroyo.jpg"
+   rockstar: true
+   social:
+    
+ - id: 25
+   name: "Sarah"
+   surname: "Owings"
+   title: "Practice Director in the Consulting Organization"
+   company: "Netsmart"
+   bio: '<p>I have been a tech professional in the Kansas City area for the last 15+ years, specifically in the health care market.</p>'
+   thumbnailUrl: "face.svg"
+   rockstar: true
+   social:
+    - {name: "twitter", link: "https://twitter.com/SarahOwings6"}
