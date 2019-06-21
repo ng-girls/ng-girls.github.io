@@ -28,9 +28,9 @@ partners:
   elements:
     - {name: "VeriShip", description: "VeriShip is the leader in parcel shipping intelligence. We use actionable data to reduce shipping costs and optimize future parcel spend.", link: "https://veriship.com/", imageUrl: "veriship.png", width: "300px"}
     - {name: "Equipment Share", description: "Construction technology solutions that help contractors get more done.", link: "https://www.equipmentshare.com/", imageUrl: "equipment-share.png", width: "350px"}
-    - {name: "Veracity", description: "Bridging the gap between business and technology.", link: "http://www.VeracityIT.com", imageUrl: "veracity.png"}
-    - {name: "JE Dunn", description: "At JE Dunn, we exist to enrich lives through inspired people and places.", link: "https://www.jedunn.com/", imageUrl: "jedunn.jpg" }
-    - {name: "Sprint", description: "Works for business", link: "https://www.sprint.com/worksforbusiness", imageUrl: "sprint-business.jpg"}
+    - {name: "Veracity", description: "Bridging the gap between business and technology.", link: "http://www.VeracityIT.com", imageUrl: "veracity.png", width: "200px"}
+    - {name: "Sprint", description: "Works for business", link: "https://www.sprint.com/worksforbusiness", imageUrl: "sprint-business.jpg", width: "130px"}
+    - {name: "JE Dunn", description: "At JE Dunn, we exist to enrich lives through inspired people and places.", link: "https://www.jedunn.com/", imageUrl: "jedunn.jpg", width: "200px" }
 - group: "Gold Sponsors"
   type: 'gold'
   elements:
