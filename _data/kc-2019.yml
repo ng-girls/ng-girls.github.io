@@ -406,3 +406,68 @@ mentors:
      - {name: "twitter", link: "https://twitter.com/JayMLang"}
      - {name: "github", link: "https://github.com/ArneSaknussemm"}
 
+ - id: 19
+   name: "Joel"
+   surname: "Tanzi"
+   title: "Software Engineer"
+   company: "Engaged Technologies"
+   bio: '<p>I have been a full-stack professional developer for several years with a focus in Angular and C#. 
+   I am passionate about coding, learning about coding, and improving on software engineering best practices. 
+   I enjoy sharing what I’ve learned with others and I support increasing diversity in tech because it results in a broader set of ideas and experience, and results in better products for all of us.</p>'
+   thumbnailUrl: "joel-tanzi.png"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/joel_tanzi"}
+     - {name: "github", link: "https://github.com/jtanzi"}
+
+ - id: 20
+   name: "Sindhu"
+   surname: "Vodnala"
+   title: "Full Stack Engineer"
+   company: "Quest Diagostics"
+   bio: '<p>I am a Enthusiastic Engineer who is looking to explore and expand her communications across Women in technology!</p>'
+   thumbnailUrl: "face.svg"
+   rockstar: true
+   social:
+     - {name: "github", link: "https://github.com/SindhuVodnal"}
+
+ - id: 21
+   name: "Tristan"
+   surname: "Sokol"
+   title: "Software Platform Lead"
+   company: "NorthPoint Development"
+   bio: '<p>New transplant to the Silicon Prairie, and loves making tech more accessible because there is just so much potential for it to shape our lives. 
+   When I’m not in front of a computer I try to be outdoors or tending to my garden. </p>'
+   thumbnailUrl: "tristan-sokol.jpg"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/tristansokol"}
+     - {name: "github", link: "https://github.com/tristansokol"}
+     
+ - id: 22
+   name: "Steven"
+   surname: "Barnhurst"
+   title: "Senior Frontend Engineer"
+   company: "Ringmaster Technology"
+   bio: '<p>I started learning how to develop while teaching abroad making websites for my students. 
+   Upon moving to KC, I felt the need to continue teaching and learning, so I started <a href="https://www.meetup.com/angularkc/" target="_blank">AngularKC</a>. 
+   I’m always excited to help out organizations that offer training to developers starting out their careers.</p>'
+   thumbnailUrl: "face.svg"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/shteeven"}
+     - {name: "github", link: "https://github.com/shteeven"}
+          
+ - id: 23
+   name: "Eric"
+   surname: "Poe"
+   title: "Application Developer"
+   company: "Stowers Institute for Medical Research"
+   bio: '<p>Gentle coder, reader, dad, & half-knit/half-wit. 
+   Co-organizer of <a href="https://www.meetup.com/kcphpug/" target="_blank">KC PHP User Group</a>, Curriculum Director of <a href="http://coderdojokc.com/" target="_blank">CoderDojoKC</a>. 
+   Purple Belt in Kung Fu movies. Him/He</p>'
+   thumbnailUrl: "eric-poe.png"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/eric_poe"}
+     - {name: "github", link: "https://github.com/ericpoe"}
