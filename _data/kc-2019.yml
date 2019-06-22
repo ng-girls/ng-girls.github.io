@@ -50,15 +50,18 @@ partners:
    type: 'ng-girls'
    elements:
      - {name: "Hanscom Park", description: "A CONSTANTLY CREATIVE STUDIO.", link: "https://hanscompark.com/", imageUrl: "hanscom.png"}
-     - {name: "Nothing Bundt Cakes", description: "Celebrate life's special moments with hand-decorated cakes from Nothing Bundt Cakes, adorned with inspired decorations and signature frosting.", link: "https://www.nothingbundtcakes.com/bakery/ks/mission", imageUrl: "nothingbundtcakes.png"}
-     - {name: "CaseApp", description: "CaseApp makes it easy for all people to be able to order custom designed phone and computer cases and skins online", link: "https://caseapp.com/", imageUrl: "caseapp.png"}
      - {name: "This Dot Media", description: "Creating an inclusive web through free developer resources. Keep up with the evolution of the web platform through our articles, online events, videos, and podcasts.", link: "https://thisdot.co", imageUrl: "this-dot-media.png"}
+     - {name: "Nothing Bundt Cakes", description: "Celebrate life's special moments with hand-decorated cakes from Nothing Bundt Cakes, adorned with inspired decorations and signature frosting.", link: "https://www.nothingbundtcakes.com/bakery/ks/mission", imageUrl: "nothingbundtcakes.png"}
+     - {name: "Waldo Pizza", description: "Kansas City's Great Little Place for Pizza", link: "https://www.waldopizza.net/", imageUrl: "waldo-pizza.png"}
      - {name: "Chicken N Pickle", description: "Good Food, Good Friends, Good Fun", link: "https://chickennpickle.com/kc/", imageUrl: "chicken-n-pickle.png" }
      - {name: "dev.to", description: "Where programmers share ideas and help each other grow.", link: "https://dev.to", imageUrl: "dev.png"}
      - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
      - {name: "JetBrains", description: "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools.", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png"}
      - {name: "Boulevard Brewing Company", description: "Founded in 1989 in Kansas City, Missouri, Boulevard Brewing Company has grown to become the largest specialty craft beer brewer in the Midwest.", link: "https://www.boulevard.com/", imageUrl: "boulevard-brewing.png"}
      - {name: "Angular", description: "Angular is a platform for building mobile and desktop web applications. Join the community of millions of developers who build compelling user interfaces with Angular.", link: "https://angular.io", imageUrl: "angular.svg"}
+     - {name: "CaseApp", description: "CaseApp makes it easy for all people to be able to order custom designed phone and computer cases and skins online", link: "https://caseapp.com/", imageUrl: "caseapp.png"}
+     - {name: "Engaged Technologies", description: "Engaged Technologies provides IT services for small to mid-sized businesses, and end-to-end software and application development and management.", link: "http://www.engagedtechnologies.com/", imageUrl: "engaged-technologies.png"}
+     - {name: "This Dot Labs", description: "JavaScript experts for hire through consulting and training. We provide mentorship and open source support contracts with core maintainers of open source libraries.", link: "https://www.thisdot.co/labs", imageUrl: "this-dot-labs.png"}
 -  group: "Organized by"
    type: 'host'
    elements:
