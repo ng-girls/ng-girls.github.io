@@ -9,7 +9,7 @@
       {% assign animationDelay = 0 %}
       {% for member in site.data.kc-2019.mentors %}
       {% assign memberImage = site.baseurl | append: '/img/kc-2019-mentors/' | append: member.thumbnailUrl %}
-      <div class="col-md-4 col-xs-6 rockstar-speakers-item animated hiding"
+      <div class="col-md-3 col-xs-6 rockstar-speakers-item animated hiding"
            data-animation="fadeInUp"
            data-delay="{{ animationDelay }}">
         <div class="lily-head" data-toggle="modal" data-target="#mentorDetailKC2019-{{ member.id }}">
@@ -23,7 +23,7 @@
         </div>
       </div>
 
-      {% assign animationDelay = animationDelay | plus:250 %}
+      {% assign animationDelay = animationDelay | plus:100 %}
       {% assign check = forloop.index | modulo:2 %}
       {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
       {% endfor %}
@@ -36,7 +36,7 @@
       {% assign animationDelay = 0 %}
       {% for member in site.data.kc-2019.volunteers %}
       {% assign memberImage = site.baseurl | append: '/img/kc-2019-mentors/' | append: member.thumbnailUrl %}
-      <div class="col-md-4 col-xs-6 rockstar-speakers-item animated hiding"
+      <div class="col-md-3 col-xs-6 rockstar-speakers-item animated hiding"
            data-animation="fadeInUp"
            data-delay="{{ animationDelay }}">
         <div class="lily-head" data-toggle="modal" data-target="#mentorDetailKC2019-{{ member.id }}">
@@ -50,7 +50,7 @@
         </div>
       </div>
 
-      {% assign animationDelay = animationDelay | plus:250 %}
+      {% assign animationDelay = animationDelay | plus:100 %}
       {% assign check = forloop.index | modulo:2 %}
       {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
       {% endfor %}

@@ -265,7 +265,7 @@ mentors:
    name: "Megan"
    surname: "O'Roark"
    title: "Software Engineer"
-   company: "HR Block"
+   company: "H&R Block"
    bio: '<p>I’m Meg. I’m a software engineer. I am participating in ngGirls because I enjoy helping others learn development.</p>'
    thumbnailUrl: "meg-oroark.jpg"
    rockstar: true
@@ -374,7 +374,7 @@ mentors:
    name: "Jennifer"
    surname: "McKeithen"
    title: "Student"
-   company: "WGU Missiouri"
+   company: "WGU Missouri"
    bio: '<p>I’m a software development student at WGU. I want to help girls and women find better opportunities while improving my own skills.</p>'
    thumbnailUrl: "face.svg"
    rockstar: true
@@ -452,7 +452,7 @@ mentors:
    bio: '<p>I started learning how to develop while teaching abroad making websites for my students. 
    Upon moving to KC, I felt the need to continue teaching and learning, so I started <a href="https://www.meetup.com/angularkc/" target="_blank">AngularKC</a>. 
    I’m always excited to help out organizations that offer training to developers starting out their careers.</p>'
-   thumbnailUrl: "face.svg"
+   thumbnailUrl: "steven-barnhurst.jpg"
    rockstar: true
    social:
      - {name: "twitter", link: "https://twitter.com/shteeven"}
@@ -474,6 +474,16 @@ mentors:
 
 volunteers:
  - id: 24
+   name: "Robar"
+   surname: "Mike"
+   title: "Volunteer"
+   company: "Software Enthusiast"
+   bio: '<p>I am an Enterprise Java engineer, dabbling in Angular at home (primarily to support a home automation addiction).  I enjoy supporting any way I can to contribute to KCWiT’s successes!</p>'
+   thumbnailUrl: "robar-mike.jpg"
+   rockstar: true
+   social:
+
+ - id: 25
    name: "Melissa"
    surname: "Arroyo"
    title: "Web Designer"
@@ -482,8 +492,18 @@ volunteers:
    thumbnailUrl: "melissa-arroyo.jpg"
    rockstar: true
    social:
-    
- - id: 25
+
+ - id: 26
+   name: "Tamara"
+   surname: "Copple"
+   title: "Sr. Business Analyst"
+   company: "Children International"
+   bio: '<p>BA by day, evangelist for women in STEM by night. Personality: Connector, Architect.</p>'
+   thumbnailUrl: "tamara-copple.jpg"
+   rockstar: true
+   social:    
+
+ - id: 27
    name: "Sarah"
    surname: "Owings"
    title: "Practice Director in the Consulting Organization"
