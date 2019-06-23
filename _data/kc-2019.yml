@@ -28,17 +28,20 @@ partners:
   elements:
     - {name: "VeriShip", description: "VeriShip is the leader in parcel shipping intelligence. We use actionable data to reduce shipping costs and optimize future parcel spend.", link: "https://veriship.com/", imageUrl: "veriship.png", width: "300px"}
     - {name: "Equipment Share", description: "Construction technology solutions that help contractors get more done.", link: "https://www.equipmentshare.com/", imageUrl: "equipment-share.png", width: "350px"}
-    - {name: "Veracity", description: "Bridging the gap between business and technology.", link: "http://www.VeracityIT.com", imageUrl: "veracity.png"}
-    - {name: "JE Dunn", description: "At JE Dunn, we exist to enrich lives through inspired people and places.", link: "https://www.jedunn.com/", imageUrl: "jedunn.jpg" }
+    - {name: "Veracity", description: "Bridging the gap between business and technology.", link: "http://www.VeracityIT.com", imageUrl: "veracity.png", width: "200px"}
+    - {name: "Sprint", description: "Works for business", link: "https://www.sprint.com/worksforbusiness", imageUrl: "sprint-business.jpg", width: "130px"}
+    - {name: "JE Dunn", description: "At JE Dunn, we exist to enrich lives through inspired people and places.", link: "https://www.jedunn.com/", imageUrl: "jedunn.jpg", width: "200px" }
 - group: "Gold Sponsors"
   type: 'gold'
   elements:
     - {name: "Crema", description: "Designing and building custom software", link: "https://www.crema.us/", imageUrl: "crema.png"}
+    - {name: "VMLY&R", description: "Creating connected brands", link: "https://www.vmlyr.com", imageUrl: "vmlyr.png"}
 - group: "Silver Sponsors"
   type: 'silver'
   elements:
     - {name: "Oasis Digital", description: "Full-stack development experts in Angular and web components", link: "https://oasisdigital.com/", imageUrl: "oasis-digital.png"}
     - {name: "Integrity Inspired Solutions", description: "Bridging the gap between technology and your business", link: "https://www.integrityinspired.com/", imageUrl: "integrityinspired.png", width: "80px"}
+    - {name: "Hyland", description: "Technology thoughtfully designed, for you.", link: "https://www.hyland.com", imageUrl: "hyland.png"}
 - group: "Venue provided by"
   type: 'venue'
   elements:
@@ -47,15 +50,18 @@ partners:
    type: 'ng-girls'
    elements:
      - {name: "Hanscom Park", description: "A CONSTANTLY CREATIVE STUDIO.", link: "https://hanscompark.com/", imageUrl: "hanscom.png"}
-     - {name: "Nothing Bundt Cakes", description: "Celebrate life's special moments with hand-decorated cakes from Nothing Bundt Cakes, adorned with inspired decorations and signature frosting.", link: "https://www.nothingbundtcakes.com/bakery/ks/mission", imageUrl: "nothingbundtcakes.png"}
-     - {name: "CaseApp", description: "CaseApp makes it easy for all people to be able to order custom designed phone and computer cases and skins online", link: "https://caseapp.com/", imageUrl: "caseapp.png"}
      - {name: "This Dot Media", description: "Creating an inclusive web through free developer resources. Keep up with the evolution of the web platform through our articles, online events, videos, and podcasts.", link: "https://thisdot.co", imageUrl: "this-dot-media.png"}
+     - {name: "Nothing Bundt Cakes", description: "Celebrate life's special moments with hand-decorated cakes from Nothing Bundt Cakes, adorned with inspired decorations and signature frosting.", link: "https://www.nothingbundtcakes.com/bakery/ks/mission", imageUrl: "nothingbundtcakes.png"}
+     - {name: "Waldo Pizza", description: "Kansas City's Great Little Place for Pizza", link: "https://www.waldopizza.net/", imageUrl: "waldo-pizza.png"}
      - {name: "Chicken N Pickle", description: "Good Food, Good Friends, Good Fun", link: "https://chickennpickle.com/kc/", imageUrl: "chicken-n-pickle.png" }
      - {name: "dev.to", description: "Where programmers share ideas and help each other grow.", link: "https://dev.to", imageUrl: "dev.png"}
      - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
      - {name: "JetBrains", description: "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools.", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png"}
      - {name: "Boulevard Brewing Company", description: "Founded in 1989 in Kansas City, Missouri, Boulevard Brewing Company has grown to become the largest specialty craft beer brewer in the Midwest.", link: "https://www.boulevard.com/", imageUrl: "boulevard-brewing.png"}
      - {name: "Angular", description: "Angular is a platform for building mobile and desktop web applications. Join the community of millions of developers who build compelling user interfaces with Angular.", link: "https://angular.io", imageUrl: "angular.svg"}
+     - {name: "CaseApp", description: "CaseApp makes it easy for all people to be able to order custom designed phone and computer cases and skins online", link: "https://caseapp.com/", imageUrl: "caseapp.png"}
+     - {name: "Engaged Technologies", description: "Engaged Technologies provides IT services for small to mid-sized businesses, and end-to-end software and application development and management.", link: "http://www.engagedtechnologies.com/", imageUrl: "engaged-technologies.png"}
+     - {name: "This Dot Labs", description: "JavaScript experts for hire through consulting and training. We provide mentorship and open source support contracts with core maintainers of open source libraries.", link: "https://www.thisdot.co/labs", imageUrl: "this-dot-labs.png"}
 -  group: "Organized by"
    type: 'host'
    elements:
@@ -262,7 +268,7 @@ mentors:
    name: "Megan"
    surname: "O'Roark"
    title: "Software Engineer"
-   company: "HR Block"
+   company: "H&R Block"
    bio: '<p>I’m Meg. I’m a software engineer. I am participating in ngGirls because I enjoy helping others learn development.</p>'
    thumbnailUrl: "meg-oroark.jpg"
    rockstar: true
@@ -371,7 +377,7 @@ mentors:
    name: "Jennifer"
    surname: "McKeithen"
    title: "Student"
-   company: "WGU Missiouri"
+   company: "WGU Missouri"
    bio: '<p>I’m a software development student at WGU. I want to help girls and women find better opportunities while improving my own skills.</p>'
    thumbnailUrl: "face.svg"
    rockstar: true
@@ -403,3 +409,110 @@ mentors:
      - {name: "twitter", link: "https://twitter.com/JayMLang"}
      - {name: "github", link: "https://github.com/ArneSaknussemm"}
 
+ - id: 19
+   name: "Joel"
+   surname: "Tanzi"
+   title: "Software Engineer"
+   company: "Engaged Technologies"
+   bio: '<p>I have been a full-stack professional developer for several years with a focus in Angular and C#. 
+   I am passionate about coding, learning about coding, and improving on software engineering best practices. 
+   I enjoy sharing what I’ve learned with others and I support increasing diversity in tech because it results in a broader set of ideas and experience, and results in better products for all of us.</p>'
+   thumbnailUrl: "joel-tanzi.png"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/joel_tanzi"}
+     - {name: "github", link: "https://github.com/jtanzi"}
+
+ - id: 20
+   name: "Sindhu"
+   surname: "Vodnala"
+   title: "Full Stack Engineer"
+   company: "Quest Diagostics"
+   bio: '<p>I am a Enthusiastic Engineer who is looking to explore and expand her communications across Women in technology!</p>'
+   thumbnailUrl: "face.svg"
+   rockstar: true
+   social:
+     - {name: "github", link: "https://github.com/SindhuVodnal"}
+
+ - id: 21
+   name: "Tristan"
+   surname: "Sokol"
+   title: "Software Platform Lead"
+   company: "NorthPoint Development"
+   bio: '<p>New transplant to the Silicon Prairie, and loves making tech more accessible because there is just so much potential for it to shape our lives. 
+   When I’m not in front of a computer I try to be outdoors or tending to my garden. </p>'
+   thumbnailUrl: "tristan-sokol.jpg"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/tristansokol"}
+     - {name: "github", link: "https://github.com/tristansokol"}
+     
+ - id: 22
+   name: "Steven"
+   surname: "Barnhurst"
+   title: "Senior Frontend Engineer"
+   company: "Ringmaster Technology"
+   bio: '<p>I started learning how to develop while teaching abroad making websites for my students. 
+   Upon moving to KC, I felt the need to continue teaching and learning, so I started <a href="https://www.meetup.com/angularkc/" target="_blank">AngularKC</a>. 
+   I’m always excited to help out organizations that offer training to developers starting out their careers.</p>'
+   thumbnailUrl: "steven-barnhurst.jpg"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/shteeven"}
+     - {name: "github", link: "https://github.com/shteeven"}
+          
+ - id: 23
+   name: "Eric"
+   surname: "Poe"
+   title: "Application Developer"
+   company: "Stowers Institute for Medical Research"
+   bio: '<p>Gentle coder, reader, dad, & half-knit/half-wit. 
+   Co-organizer of <a href="https://www.meetup.com/kcphpug/" target="_blank">KC PHP User Group</a>, Curriculum Director of <a href="http://coderdojokc.com/" target="_blank">CoderDojoKC</a>. 
+   Purple Belt in Kung Fu movies. Him/He</p>'
+   thumbnailUrl: "eric-poe.png"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/eric_poe"}
+     - {name: "github", link: "https://github.com/ericpoe"}
+
+volunteers:
+ - id: 24
+   name: "Robar"
+   surname: "Mike"
+   title: "Volunteer"
+   company: "Software Enthusiast"
+   bio: '<p>I am an Enterprise Java engineer, dabbling in Angular at home (primarily to support a home automation addiction).  I enjoy supporting any way I can to contribute to KCWiT’s successes!</p>'
+   thumbnailUrl: "robar-mike.jpg"
+   rockstar: true
+   social:
+
+ - id: 25
+   name: "Melissa"
+   surname: "Arroyo"
+   title: "Web Designer"
+   company: "Twenty Over Ten"
+   bio: '<p>Marketer and Web Designer who is passionate about increasing diversity in technology. Currently Marketing Director at <a href="https://codingandcocktails.kcwomenintech.org" target="_blank">Coding & Cocktails</a>.</p>'
+   thumbnailUrl: "melissa-arroyo.jpg"
+   rockstar: true
+   social:
+
+ - id: 26
+   name: "Tamara"
+   surname: "Copple"
+   title: "Sr. Business Analyst"
+   company: "Children International"
+   bio: '<p>BA by day, evangelist for women in STEM by night. Personality: Connector, Architect.</p>'
+   thumbnailUrl: "tamara-copple.jpg"
+   rockstar: true
+   social:    
+
+ - id: 27
+   name: "Sarah"
+   surname: "Owings"
+   title: "Practice Director in the Consulting Organization"
+   company: "Netsmart"
+   bio: '<p>I have been a tech professional in the Kansas City area for the last 15+ years, specifically in the health care market.</p>'
+   thumbnailUrl: "face.svg"
+   rockstar: true
+   social:
+    - {name: "twitter", link: "https://twitter.com/SarahOwings6"}
