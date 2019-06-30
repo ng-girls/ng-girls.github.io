@@ -98,7 +98,7 @@ bottomNavigationLinks:
   - {permalink: "/kuala-lumpur-2019/", text: "Angular Study Day + ngGirls"}
   - {permalink: "/kc-2019/", text: "ngGirls @ Kansas City 2019"}
   - {permalink: "/denver-2019/", text: "ngGirls @ Denver 2019"}
-  - {permalink: "/vienna08_2019/", text: "ngGirls @ Vienna 2019"}
+  - {permalink: "/vienna08_2019-mentors/", text: "ngGirls @ Vienna 2019"}
   - {permalink: "/ng-de-2019/", text: "ngGirls @ NG-DE Berlin"}
   - {permalink: "/AngularConnect-2019/", text: "ngGirls @ AngularConnect"}
   - {permalink: "/ngRome-2019/", text: "ngGirls @ ngRome"}
@@ -155,7 +155,7 @@ upcomingEvents:
   - {permalink: "/kuala-lumpur-2019/", text: "Angular Study Day + ngGirls", date: "July 7th<br /> 2019", location: "Kuala Lumpur", name: "Angular Study Day + ngGirls"}
   - {permalink: "/kc-2019/", text: "ngGirls @ Kansas City 2019", date: "July 27th<br /> 2019", location: "Kansas City", name: "ngGirls @ Kansas City 2019"}
   - {permalink: "/denver-2019/", text: "ngGirls @ Denver 2019", date: "July 30th<br /> 2019", location: "Denver", name: "ngGirls @ Denver 2019"}
-  - {permalink: "/vienna08_2019/", text: "ngGirls @ Vienna 2019", date: "August 17th<br /> 2019", location: "Vienna", name: "ngGirls @ Vienna 2019"}
+  - {permalink: "/vienna08_2019-mentors/", text: "ngGirls @ Vienna 2019", date: "August 17th<br /> 2019", location: "Vienna", name: "ngGirls @ Vienna 2019"}
   - {permalink: "/ng-de-2019/", text: "ngGirls @ NG-DE Berlin",  date: "August 29th<br /> 2019", location: "Berlin", name: "ngGirls @ NG-DE Berlin", image: "berlin.png"}
   - {permalink: "/AngularConnect-2019/", text: "ngGirls @ AngularConnect 2019",  date: "September 18th<br /> 2019", location: "London", name: "ngGirls @ AngularConnect"}
   - {permalink: "/ngRome-2019/", text: "ngGirls @ ngRome", date: "October 6th<br /> 2019", location: "Rome", name: "ngGirls @ ngRome"}
@@ -205,7 +205,7 @@ heroButtons:
   - {permalink: "/kuala-lumpur-2019/", text: "Angular Study Day + ngGirls"}
   - {permalink: "/kc-2019/", text: "ngGirls @ Kansas City 2019"}
   - {permalink: "/denver-2019/", text: "ngGirls @ Denver 2019"}
-  - {permalink: "/vienna08_2019/", text: "ngGirls @ Vienna 2019"}
+  - {permalink: "/vienna08_2019-mentors/", text: "ngGirls @ Vienna 2019"}
   - {permalink: "/ng-de-2019/", text: "ngGirls @ NG-DE Berlin"}
   - {permalink: "/AngularConnect-2019/", text: "ngGirls @ AngularConnect"}
   - {permalink: "/ngRome-2019/", text: "ngGirls @ ngRome"}
