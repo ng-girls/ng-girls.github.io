@@ -17,7 +17,7 @@
      - {name: "ngVikings", description: "ngVikings - The main Angular conference in the Nordics", link: "https://ngvikings.org/", imageUrl: "ngvikings.png", width: "100px"}
      - {name: "Angular Austria", description: "The non-profit association to push Angular in Austria and beyond.", link: "https://angular-austria.at/", imageUrl: "Angular-Austria.png", width: "150px"}
      - {name: "ngRome", description: "ngRome conference.", link: "https://ngrome.io/home", imageUrl: "ngrome.png", width: "150px"}
-     - {name: "Softwarearchitekt", description: "", link: "https://softwarearchitekt.io/", imageUrl: "softwarearchitekt.png"}
+     - {name: "Softwarearchitekt", description: "", link: "https://softwarearchitekt.at/", imageUrl: "softwarearchitekt.png"}
 
 
 #-
