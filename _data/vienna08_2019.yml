@@ -1,15 +1,15 @@
 heroImage: "vienna.jpg"
 date: "Saturday, August 17th, 2019"
 location: "STOCKWERK Coworking GmbH Pater-Schwartz-Gasse 11A, 1150 in Vienna, Austria"
-deadline: "August 03rd, 2019"
+deadline: "August 3rd, 2019"
 eventDate: "August 17th, 2019, Vienna, Austria"
 applicationForm: "https://forms.gle/Upd7zbgCPV6K8sxh7"
 mentorsForm: "https://forms.gle/KfBJbrq7q8Bss7ex8"
 descriptionTitle: "ngGirls @ Vienna"
 descriptionBlock:
-  - {title: "Who is it for?", template: "vienna08_2019-mentors/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
-  - {title: "Schedule", template: "vienna08_2019-mentors/description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
-  - {title: "Can I help?", template: "vienna08_2019-mentors/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+  - {title: "Who is it for?", template: "vienna08_2019/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+  - {title: "Schedule", template: "vienna08_2019/description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+  - {title: "Can I help?", template: "vienna08_2019/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
                   <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
                   From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
 
