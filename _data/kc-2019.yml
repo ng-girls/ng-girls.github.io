@@ -352,7 +352,7 @@ mentors:
    Building up other engineers lets you grow your network (good for when you need a new job), and grow your skill set.
    Teaching others how to do something strengthens your understanding of a subject, and your new friends can teach you in return as they grow.
    Building up other women helps the development world by not feeling alone in a sea of men at every conference and every job.</p>'
-   thumbnailUrl: "face.svg"
+   thumbnailUrl: "laura-slocum.jpg"
    rockstar: true
    social:
 
@@ -475,8 +475,38 @@ mentors:
      - {name: "twitter", link: "https://twitter.com/eric_poe"}
      - {name: "github", link: "https://github.com/ericpoe"}
 
-volunteers:
  - id: 24
+   name: "Ben"
+   surname: "Rodriguez"
+   title: "Software development"
+   company: "IT Nachos"
+   bio: '<p>A BSBA in Computer Information Systems recipient from UCM, Ben has been developing information technology solutions for over 20 years for companies like Sprint, Yellow-Roadway, the U.S. Marine Corps, as well as an internet marketing firm and its sister call center solutions company. 
+   A seasoned public speaker and member of Toastmasters International, Ben’s speaking and motivational abilities helped the call center team members start their day. 
+   He continuously works on improving and sharpening these skills. His work ethics and integrity are well known and recognized among his former and current clients. 
+   Furthermore, Ben started, developed and sold a screen print company that thrives to this day. 
+   Right now, Ben is working on developing and growing his current venture, IT Nachos, in which he’s deploying his technical skills, personal integrity and business ethics and his profound and practical understanding of business and people.</p>'
+   thumbnailUrl: "ben-rodriguez.jpg"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/BenLovesNachos"}
+     - {name: "github", link: "https://github.com/BenLovesNachos"}
+
+ - id: 25
+   name: "Jessica"
+   surname: "Kincaid"
+   title: "Continuing Education Instructor"
+   company: "Johnson County Community College"
+   bio: '<p>Known for her translucent beaded textiles, Jessica is an artist who creates intricate artworks inspired by dreams as well as learning to code. 
+   Jessica teaches beadwork in the Continuing Education program at Johnson County Community College. 
+   She graduated from LaunchCode this spring and is an emerging front end developer.</p>'
+   thumbnailUrl: "jessica-kincaid.jpg"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/jessica_k1ncaid"}
+     - {name: "github", link: "https://github.com/j-kincaid"}
+
+volunteers:
+ - id: 26
    name: "Robar"
    surname: "Mike"
    title: "Volunteer"
@@ -486,7 +516,7 @@ volunteers:
    rockstar: true
    social:
 
- - id: 25
+ - id: 27
    name: "Melissa"
    surname: "Arroyo"
    title: "Web Designer"
@@ -496,7 +526,7 @@ volunteers:
    rockstar: true
    social:
 
- - id: 26
+ - id: 28
    name: "Tamara"
    surname: "Copple"
    title: "Sr. Business Analyst"
@@ -506,7 +536,7 @@ volunteers:
    rockstar: true
    social:    
 
- - id: 27
+ - id: 29
    name: "Sarah"
    surname: "Owings"
    title: "Practice Director in the Consulting Organization"
