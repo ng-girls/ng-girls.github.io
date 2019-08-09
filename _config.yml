@@ -213,6 +213,7 @@ heroButtons:
   - {permalink: "/vienna08_2019/", text: "ngGirls @ Vienna 2019"}
   - {permalink: "/ng-de-2019/", text: "ngGirls @ NG-DE Berlin"}
   - {permalink: "/AngularConnect-2019/", text: "ngGirls @ AngularConnect"}
+  - {permalink: "/dublin-2019/", text: "ngGirls @ Dublin"}
   - {permalink: "/ngRome-2019/", text: "ngGirls @ ngRome"}
   - {permalink: "/ngspain-2019/", text: "ngGirls @ ngSpain"}
   - {permalink: "/ngtalks-2019/", text: "ngGirls @ ngTalks"}
