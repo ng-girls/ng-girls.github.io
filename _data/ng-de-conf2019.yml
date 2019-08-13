@@ -60,6 +60,17 @@ mentors:
     social:
       - {name: "twitter", link: "https://twitter.com/robertSPD"}
 
+  - id: 3
+    name: "Herrera"
+    surname: "Juan"
+    title: "&nbsp;"
+    company: "Parkside Informationstechnologie GmbH"
+    bio: ""
+    thumbnailUrl: juan.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/jdjuan"}
+
   - id: 4
     name: "And You?"
     surname: ""
