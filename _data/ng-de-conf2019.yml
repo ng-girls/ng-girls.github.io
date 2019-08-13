@@ -19,7 +19,7 @@ partners:
          imageUrl: "ng-de2019.svg"}
       - {name: "Axel Springer", description: "Axel Springer AG Berlin",
          link: "https://www.axelspringer.com/de",
-         imageUrl: "axel-springer-logo.png"}
+         imageUrl: "axelspringer_logo.png"}
       - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
       - {name: "JetBrains", description: "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools.", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png"}
 
