@@ -1,0 +1,56 @@
+eventDate: "September 28th, 2019 - Online"
+date: "Saturday, September 28th, 2019, between 8:00-14:00,"
+location: "Online"
+deadline: "September 13th, 2019"
+applicationForm: "https://docs.google.com/forms/d/186oH7UNPbFbpXCpmepbnnEkFNTrp0W9_8EzERKRULmE/edit?usp=sharing"
+mentorsForm: "https://docs.google.com/forms/d/1OtCBTwCJJLxmXTEWgBB5JgVK3wyU_JY2wbbWBHgUeH8/edit"
+# confMessage: 'We are happy to be hosted by <a href="https://developer.microsoft.com/en-us/reactor/" target="_blank"><b>Microsoft Reactor</b></a> and offer a free one-day workshop in Tel-Aviv, Israel!'
+descriptionTitle: "ngGirls @ Online 2019"
+descriptionBlock:
+ - {title: "Who is it for?", template: "angular-online2019/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "angular-online2019/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+partners:
+
+-  group: "Hosted by"
+   elements:
+   #- {name: "Accenture Dublin", description: "Accenture Dublin", link: "https://www.accenture.com/ie-en/careers/dublin-innovation-centre", imageUrl: "accenture.png"}
+   #- {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
+   #- {name: "JetBrains", description: "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools.", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png"}
+
+mentors:
+
+
+  - id: 1
+    name: "Tracy"
+    surname: "King"
+    title: "&nbsp;"
+    company: "Organizer"
+    bio: "<p></p>
+"
+    thumbnailUrl: amy.jpg
+    rockstar: true
+    social:
+
+  - id: 2
+    name: "Chris"
+    surname: "Whited"
+    title: "&nbsp;"
+    company: "Organizer"
+    bio: "<p></p>
+"
+    thumbnailUrl: robert.png
+    rockstar: true
+    social:
+
+
+  - id: 3
+    name: "And You?"
+    surname: ""
+    company: "&nbsp;"
+    bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
+    thumbnailUrl: you.png
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/xxx"}
