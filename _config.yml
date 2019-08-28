@@ -14,7 +14,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "ngGirls"
-email: "info@ng-girls.com"
+email: "hello@ng-girls.com"
 description: "ngGirls is an organization that aims to increase diversity in Tech"
 baseurl: ""
 url: "http://ng-girls.org"
@@ -27,7 +27,7 @@ siteVerification: "AIzaSyCZoEYpnZkkqUryTf4WAYfWNMfQK5xTqCY"
 organizerName: "ngGirls"
 organizerAlternateName: "Angular Girls"
 organizerDescription: "ngGirls is an organization that aims to increase diversity in Tech"
-organizerEmail: "info@ng-girls.com"
+organizerEmail: "hello@ng-girls.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://ng-girls.org/"
 
@@ -40,7 +40,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: &c4sponsorsUrl "mailto:info@ng-girls.org"
+c4sponsorsUrl: &c4sponsorsUrl "mailto:hello@ng-girls.org"
 #c4sponsorsUrl: &c4sponsorsUrl "/assets/ngGirls_sponsors_flyer.pdf"
 
 
