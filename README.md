@@ -47,11 +47,17 @@ To start Jekyll run:
 ```bash
     jekyll serve -w
 ```
-Site will be available at http://127.0.0.1:4000/zeppelin/ or http://localhost:4000/zeppelin/ (on Windows)
+Site will be available at http://127.0.0.1:4000/ or http://localhost:4000/ (on Windows)
 
 **NOTE:** in this mode all changes to html and data files will be automatically regenerated, but after changing ```_config.yml``` you have to restart server.
 
+
 ### Sass(Compass) support
+
+#### css locally on windows
+Install compass if needed and use `compass watch` inside _sass folder
+
+#### old
 **Note:** You need to install [Node.js](http://nodejs.org/download/)
 
 To watch changes of `.sass` files and compile it to the `.css` on a fly change property `safe: true` to `safe: false` in `_config.yml`.

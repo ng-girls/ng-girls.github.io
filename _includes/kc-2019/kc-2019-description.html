@@ -1,0 +1,28 @@
+<!-- Begin Description Section -->
+<section id="description" class="latest-news">
+	<div class="content-wrapper">
+		<div class="col-lg-10 col-lg-offset-1">
+			<article class="row">
+				<div class="col-md-6 col-sm-6 text-left animated hiding" data-animation="fadeInDown" data-delay="500">
+				{% for post in site.data.kc-2019.descriptionBlock limit:2 %}
+          {% assign postUrl = site.baseurl | append: post.link %}
+					<div class="post">
+						<h6>{{ post.title }}</h6>
+						{% include {{ post.template }} %}
+					</div>
+        {% endfor %}
+				</div>
+				<div class="col-md-6 col-sm-6 text-left animated hiding" data-animation="fadeInDown" data-delay="500">
+					{% for post in site.data.kc-2019.descriptionBlock offset:2 %}
+					{% assign postUrl = site.baseurl | append: post.link %}
+					<div class="post">
+						<h6>{{ post.title }}</h6>
+						{% include {{ post.template }} %}
+					</div>
+					{% endfor %}
+				</div>
+			</article>
+		</div>
+	</div>
+</section>
+<!-- End Description Section -->

@@ -1,28 +1,27 @@
--
-  id: 2
+- id: 2
   name: "Revital"
   surname: "Friedman"
-  company: "Taptica"
+  company: "Hibob"
   title: "Front end developer"
   description: "I've always wanted to combine my love for advance technologies with my willing to help other girls in the Tech world.
   I have volunteered as a mentor in the first ngGirls workshop, and there I found my way to share my knowledge and help other girls to join the wonderful family of Angular."
   bio: "Revital Friedman is a passionate Full-stack developer.
         In the army she has served in the special intelligence technology unit, called Unit 8200.
-        Revital has been a software developer for the last five years, currently working at Taptica as a front end developer, using Angular as the main platform."
-  thumbnailUrl: Revital_Friedman.png
+        Revital has been a software developer for the last seven years, currently working at Hibob as a front end developer, using Angular as the main platform.
+        In her spare time, she likes to go wall climbing, play volleyball, snowboard and take care of her two cats."
+  thumbnailUrl: Revital_Friedman.jpg
   rockstar: true
   social:
     - {name: "linkedin", link: "https://il.linkedin.com/in/revital-friedman-16b79488"}
 
--
-  id: 1
+- id: 1
   name: "Shmuela"
   surname: "Jacobs"
   company: "ngGirls"
   title: "Web Developer and Consultant, Founder"
   description: "In July 2014 I've been chosen to participate in Django Girls Berlin, as part of Europe's PyConf. I had just finished my M.Sc. and was thinking about the future. Although I've had programming experience, this event inspired me to explore the world of development, and especially Web development, even deeper, and join the Tech industry. Today I am ready to give back. So not with Django, but with Angular, which I really love."
   bio: "Shmuela Jacobs is a front-end developer and consultant mastering Angular. During her academic studies (M.Sc. in Information Management Engineering and B.Sc. in Physics) she has combined her passions of coding and teaching as a software developer, teaching assistant, science museum guide, and researcher. Today she continues to enjoy these activities as a full-time developer, sharing her knowledge and experience in meetups and conferences around the world."
-  thumbnailUrl: Shmuela_AC.png
+  thumbnailUrl: Shmuela_AC.jpg
   rockstar: true
   social:
     - {name: "github", link: "https://github.com/shmool"}
@@ -37,7 +36,7 @@
 #  title: "Software developer & CTO"
 #  description: ""
 #  bio: "Or has been a software developer for the past five years, specializing in server side and performance engineering. In the past year he has started developing for front end. He is a teacher, consultant and mentor. Or speaks French, English and Hebrew. He enjoys chocolate and Italian food."
-#  thumbnailUrl: Or_Chen.png
+#  thumbnailUrl: Or_Chen.jpg
 #  rockstar: true
 #  social:
 #    - {name: "linkedin", link: "https://www.linkedin.com/in/orchen"}
@@ -57,7 +56,21 @@
    in which he shows how important and good it can be to give something back to the community and how important
    it is to learn from other developers. And I think I could also learn as a mentor from the participants.</p>
 "
-  thumbnailUrl: robert.png
+  thumbnailUrl: robert.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/robertSPD"}
+
+- id: 4
+  name: "Martina"
+  surname: "Kraus"
+  company: "inovex GmbH"
+  title: "Web developer"
+  bio: "<p>Martina Kraus always had a strong interest in Web-Engineering.
+    At inovex GmbH she focuses on implementing highly scalable software-solution with Node.Js and Angular.
+    Besides her work as a lecturer at the Hochschule Mannheim, she is also a member of Hackerststolz e.V. (https://hackerstolz.de),
+    the Founder of the JavaScript User group, and the local Angular meetup (@ngHeidelberg) and an organizer for AngularGirls Events.<p>"
+  thumbnailUrl: martina.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/MartinaKraus11"}

@@ -1,0 +1,69 @@
+heroImage: "seattle.png"
+eventDate: "October 20th, 2018, Seattle, WA"
+date: "Saturday, October 20th, 2018, between 8:45AM - 5:00PM,"
+location: " at Google offices, Kirkland, WA"
+deadline: "September 23rd, 2018"
+applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSfBd0BI1AiQUVy67KV5o0WL_f8QoGcHEBf5R38DU543ksRELQ/viewform"
+mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSdCSQoxbeg6zcRlEWp7-HxkwXx2P2b2BosvbAGeckGiJResxA/viewform"
+confMessage: "We are happy to be part of the <a href='http://ng-poland.pl/' target='blank'>ngPoland</a> & <a href='http://www.js-poland.pl/' target='blank'>JSPoland conferences</a> in Warsaw, Poland!"
+descriptionTitle: "ngGirls @ Seattle"
+descriptionBlock:
+ - {title: "Who is it for?", template: "seattle-2018/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "seattle-2018/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+
+
+partners:
+ - group: "With support of"
+   elements:
+     - {name: "Google", description: "Google", link: "https://www.google.com/", imageUrl: "Google_logo.jpg"}
+     - {name: "Google Open Source", description: "Google Open Source", link: "https://opensource.google.com/", imageUrl: "Google_Open_Source_logo.png"}
+     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
+
+
+organizingTeamTitle: "ngGirls @ Seattle Team"
+team:
+  - id: 1
+    name: 'Nicole'
+    surname: 'Oliver'
+    thumbnailUrl: nicole-oliver.jpg
+    title: "Web Developer"
+    company: "Nintendo"
+    bio: '<p>Nicole is a web developer working at Nintendo. After earning a degree in Studio Art,
+    she stepped away from the canvas to try her hand at web design and user experience,
+    and eventually hit it off with web development.
+    She has since traversed a number of front and back-end web technologies,
+    becoming particularly familiar with vanilla JavaScript, Node.js, Sass, and of course, Angular.
+    She is a co-organizer of <a href="https://www.meetup.com/angular-seattle/" target="_blank">Angular Seattle</a>,
+    and still proudly rocks a paint brush when time allows.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/nixallover"}
+
+  - id: 2
+    name: 'Craig'
+    surname: 'Nishina'
+    thumbnailUrl: Craig.jpg
+    title: "Software Engineer Tools and Infrastructure"
+    company: "Google"
+    bio: "<p>Craig works as a Software Engineer in Tools and Infrastructure at Google and a former
+    member of the Protractor team. Before Craig became a developer,
+    he had a previous career as a civil engineer.</p>"
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/cnishina"}
+
+mentors:
+
+
+- id: 1
+  name: 'Nicole'
+  surname: 'Oliver'
+  thumbnailUrl: nicole_oliver.jpg
+  title: "xxx"
+  company: "Mentor"
+  bio: "<p>I'm a full-stack web developer currently working at Nintendo. I use my background in design and amateur game development to create fun and intuitive application interfaces. I love exploring code with other developers, and am always thrilled to share what I know!
+</p>"
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/nixallover"}
+
+

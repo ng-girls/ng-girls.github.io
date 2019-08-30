@@ -1,0 +1,25 @@
+<!-- Begin Description Section -->
+<section id="description" class="latest-news">
+	<div class="content-wrapper">
+		<div class="col-lg-10 col-lg-offset-1">
+			<h3>{{ site.data.ngtalks-2019.descriptionTitle }}</h3>
+            <p>We believe that the IT industry will greatly benefit from bringing more women into technology.<br />
+    We want to give you an opportunity to learn how to program and become a programmer.
+  </p>
+  <p><b>For the second time we're presenting a 2-day ngGirls workshop!</b> The first day will be all about Angular,
+		the second day will feature different topics from the Web and development world.
+		We are happy to be part of the <a href='https://ngtalks.io/' target='blank'>NgTalks conference</a> in Kharkiv, Ukraine!</p>
+  <hr>
+			<article class="row">
+				{% for post in site.data.ngtalks-2019.descriptionBlock limit:4 %}
+          {% assign postUrl = site.baseurl | append: post.link %}
+					<div class="post col-md-6 col-sm-6 text-left animated hiding" data-animation="fadeInDown" data-delay="500">
+						<h6>{{ post.title }}</h6>
+						{% include {{ post.template }} %}
+					</div>
+        {% endfor %}
+			</article>
+		</div>
+	</div>
+</section>
+<!-- End Description Section -->

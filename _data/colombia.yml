@@ -69,6 +69,15 @@ mentors:
     - {name: "github", link: "https://github.com/ManuCastrillonM"}
 
 - id: 5
+  name: "Leaonardo"
+  surname: "Perez"
+  bio: "<p>Electronics engineer and full stack web developer passionate about technology and its continuous evolution. I love making great ideas come to life, mine and another’s and I’m always eager to accept new challenges. I love front end development and my goal is to create breathtaking and functional UI that make users feel great while using them. </p>"
+  thumbnailUrl: leoPerez.jpeg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/leono286"}
+
+- id: 6
   name: "Marian"
   surname: "Villa"
   bio: "<p>En continuo aprendizaje. Sueño con crear productos digitales y por eso hago parte de comunidades de programación. Core Team Member de @pionerasdev , apoyo organización en RailsGirls Medellín y sigo #creandored en @eversocialco</p>"

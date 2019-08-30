@@ -1,0 +1,556 @@
+eventDate: "July 26 - 27, 2019, Kansas City"
+location: " at Cox Automotive, Mission, KS"
+deadline: "May 31th, 2019"
+applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSdqPmmoMc7TVcCSjLOuK_MtkV7gOwdc4AUe-VXZd9b-XGkwqw/viewform"
+mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSfAbRTRZoZn7M4IVTaSdM5ZegWUXv5b8-MOzghtTkDsB6Suqg/viewform"
+descriptionTitle: "ngGirls @ Kansas City"
+descriptionBlock:
+ - {title: "Who is it for?", template: "kc-2019/kc-2019-description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Keep up with us", template: "kc-2019/kc-2019-description-social-media.html"}
+ - {title: "Schedule", template: "kc-2019/kc-2019-description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "kc-2019/kc-2019-description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From providing meals, through supplying cool ngGirls goodies - lots of opportunities to help. "}
+
+faqs:
+  - {question: "Do I need to know anything about websites or programming?", answer: "<p>If you have some knowledge in HTML, CSS, and JavaScript, you're ahead of the curve! If you are a beginner, we'll help you get up to speed!</p>"}
+  - {question: "I don't live in Kansas City, can I attend?", answer: "<p>Of course! We're so excited you're interested! We expect groups of women from outside of Kansas City to drive in to join us. There are nearby hotels in Mission, KS and KCMO Plaza area that can accommodate your budget and group size.</p>"}
+  - {question: "Should I bring my own laptop?", answer: "<p>Yes. We do not have hardware, so it is necessary that you bring your own computer. Furthermore, it is important that you are able to take home everything you write and create during workshops. If you have problems accessing a laptop, please <a href='mailto:nggirls@kcwomenintech.org?subject=Laptop Request'>email us</a>.</p>"}
+  - {question: "Do I need to install something on my laptop?", answer: "<p>Yes, you'll need Angular CLI installed before the workshop, but we wouldn't expect you to install anything on your own. Join us for the install & pizza party Friday night so that you're ready to hit the ground running for the workshop.</p>"}
+  - {question: "Is food provided?", answer: "<p>Yes. Thanks to our sponsors, snacks and lunch will be served during the workshop.</p>"}
+  - {question: "I applied! When will I hear back?", answer: "<p>Yay! You'll hear back from us after May 31, 2019 after we have a chance to review all the applications.</p>"}
+  - {question: "I'm not a woman. Can I mentor or volunteer?", answer: "<p>Yes! Everyone is welcome to mentor or volunteer. We'd love to work with you!</p>"}
+  - {question: "Is there public transit to the venue?", answer: "<p>No, Johnson County Transit does not service the venue on Saturday, but we want to help! If you don't have transportation, please <a href='mailto:nggirls@kcwomenintech.org?subject=Transportation Request'>email us</a>.</p>"}
+
+partners:
+- group: "Platinum Sponsors"
+  type: 'platinum'
+  elements:
+    - {name: "VeriShip", description: "VeriShip is the leader in parcel shipping intelligence. We use actionable data to reduce shipping costs and optimize future parcel spend.", link: "https://veriship.com/", imageUrl: "veriship.png", width: "300px"}
+    - {name: "Equipment Share", description: "Construction technology solutions that help contractors get more done.", link: "https://www.equipmentshare.com/", imageUrl: "equipment-share.png", width: "350px"}
+    - {name: "Veracity", description: "Bridging the gap between business and technology.", link: "http://www.VeracityIT.com", imageUrl: "veracity.png", width: "200px"}
+    - {name: "Sprint", description: "Works for business", link: "https://www.sprint.com/worksforbusiness", imageUrl: "sprint-business.jpg", width: "130px"}
+    - {name: "JE Dunn", description: "At JE Dunn, we exist to enrich lives through inspired people and places.", link: "https://www.jedunn.com/", imageUrl: "jedunn.jpg", width: "200px" }
+- group: "Gold Sponsors"
+  type: 'gold'
+  elements:
+    - {name: "Crema", description: "Designing and building custom software", link: "https://www.crema.us/", imageUrl: "crema.png"}
+    - {name: "VMLY&R", description: "Creating connected brands", link: "https://www.vmlyr.com", imageUrl: "vmlyr.png"}
+- group: "Silver Sponsors"
+  type: 'silver'
+  elements:
+    - {name: "Oasis Digital", description: "Full-stack development experts in Angular and web components", link: "https://oasisdigital.com/", imageUrl: "oasis-digital.png"}
+    - {name: "Integrity Inspired Solutions", description: "Bridging the gap between technology and your business", link: "https://www.integrityinspired.com/", imageUrl: "integrityinspired.png", width: "80px"}
+    - {name: "Hyland", description: "Technology thoughtfully designed, for you.", link: "https://www.hyland.com", imageUrl: "hyland.png"}
+- group: "Venue provided by"
+  type: 'venue'
+  elements:
+    - {name: "Cox Automotive", description: "Transforming the way the world buys, sells, owns and uses cars", link: "https://www.coxautoinc.com/", imageUrl: "CA-RGB-Inline_2C-LtBg.jpg", width: "400px"}
+-  group: "Special thanks to"
+   type: 'ng-girls'
+   elements:
+     - {name: "Mary Kay", description: "Ally B. Independent Sales Director", link: "https://marykay.com/allybkc", imageUrl: "mary-kay.png" }
+     - {name: "This Dot Media", description: "Creating an inclusive web through free developer resources. Keep up with the evolution of the web platform through our articles, online events, videos, and podcasts.", link: "https://thisdot.co", imageUrl: "this-dot-media.png"}
+     - {name: "Nothing Bundt Cakes", description: "Celebrate life's special moments with hand-decorated cakes from Nothing Bundt Cakes, adorned with inspired decorations and signature frosting.", link: "https://www.nothingbundtcakes.com/bakery/ks/mission", imageUrl: "nothingbundtcakes.png"}
+     - {name: "Waldo Pizza", description: "Kansas City's Great Little Place for Pizza", link: "https://www.waldopizza.net/", imageUrl: "waldo-pizza.png"}
+     - {name: "Tech Ladies", description: "A job board and community for women in tech. Join us.", link: "https://www.hiretechladies.com/", imageUrl: "tech-ladies.jpg"}
+     - {name: "Chicken N Pickle", description: "Good Food, Good Friends, Good Fun", link: "https://chickennpickle.com/kc/", imageUrl: "chicken-n-pickle.png" }
+     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
+     - {name: "JetBrains", description: "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools.", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png"}
+     - {name: "Angular", description: "Angular is a platform for building mobile and desktop web applications. Join the community of millions of developers who build compelling user interfaces with Angular.", link: "https://angular.io", imageUrl: "angular.svg"}
+     - {name: "Everyday Yoga", description: "Yoga for your life with Margaret Buscher", link: "", imageUrl: "everyday-yoga.png"}
+     - {name: "Boulevard Brewing Company", description: "Founded in 1989 in Kansas City, Missouri, Boulevard Brewing Company has grown to become the largest specialty craft beer brewer in the Midwest.", link: "https://www.boulevard.com/", imageUrl: "boulevard-brewing.png"}
+     - {name: "CaseApp", description: "CaseApp makes it easy for all people to be able to order custom designed phone and computer cases and skins online", link: "https://caseapp.com/", imageUrl: "caseapp.png"}
+     - {name: "Engaged Technologies", description: "Engaged Technologies provides IT services for small to mid-sized businesses, and end-to-end software and application development and management.", link: "http://www.engagedtechnologies.com/", imageUrl: "engaged-technologies.png"}
+     - {name: "This Dot Labs", description: "JavaScript experts for hire through consulting and training. We provide mentorship and open source support contracts with core maintainers of open source libraries.", link: "https://www.thisdot.co/labs", imageUrl: "this-dot-labs.png"}
+     - {name: "Missouri Pit Bull Rescue", description: "Our mission is to promote responsible pit bull ownership, provide breed education, combat pet overpopulation, fight unfair legislation, & find qualified homes for sound pit bulls in Missouri.", link: "https://www.mopitbullrescue.org/", imageUrl: "mo-pit-bull-rescue.png"}
+     - {name: "Betty Rae's Ice Cream", description: "Now scooping in Waldo & River Market", link: "http://bettyraes.com/", imageUrl: "betty-raes-ice-cream.png"}
+     - {name: "Starbucks", description: "The Best Coffee and Espresso Drinks", link: "https://www.starbucks.com/store-locator/store/1011086/6920-mission-rd-prairie-village-6920-mission-rd-prairie-village-shopping-center-pr", imageUrl: "starbucks.png"}
+     - {name: "Dogs and Data Science", description: "Early picture book for ages 4-8", link: "https://www.instagram.com/dogsanddatascience/", imageUrl: "dogs-and-data-science.png"}
+     - {name: "Kindling", description: "Wedding photographers from Kansas City. Share wonder.", link: "http://kindling.co/", imageUrl: "kindling.jpg"}
+     - {name: "Hanscom Park", description: "A CONSTANTLY CREATIVE STUDIO.", link: "https://hanscompark.com/", imageUrl: "hanscom.png"}
+     - {name: "dev.to", description: "Where programmers share ideas and help each other grow.", link: "https://dev.to", imageUrl: "dev.png"}
+-  group: "Organized by"
+   type: 'host'
+   elements:
+     - {name: "Kansas City Women in Technology (KCWiT)", description: "We're trying to grow the number of women in technology careers in Kansas City.", link: "https://kcwomenintech.org/", imageUrl: "kcwit_small.png"}
+
+venue:
+
+posts:
+  - {title: "ngGirls comes to the Silicon Prairie!",
+     content: "We're excited to bring ngGirls to the Silicon Prairie and looking forward to meeting participants soon!"}
+
+organizingTeamTitle: "ngGirls @ Kansas City Team"
+team:
+  - id: 1
+    name: 'Adora'
+    surname: 'Yang'
+    title: 'Marketing Director'
+    thumbnailUrl: adora.jpg
+    bio: '<p>Adora is a recent graduate from the University of Kansas with a background in Marketing and Anthropology.
+    She loves learning and trying new things and building her passion and career around people, technology, and marketing.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/adorayang"}
+      - {name: "linkedin", link: "https://www.linkedin.com/in/adorapyang/"}
+
+  - id: 2
+    name: 'Alisa'
+    surname: 'Duncan'
+    title: 'Program Director'
+    thumbnailUrl: alisa.png
+    bio: '<p>Alisa is a software architect, a former chemist, and a Navy brat who grew up in Japan.
+    She enjoys volunteering, learning new things, and having a drink on her patio.
+    She is a co-organizer of <a href="https://www.meetup.com/angularkc/" target="_blank">AngularKC</a> and
+    Technical Materials Director for <a href="https://codingandcocktails.kcwomenintech.org" target="_blank">Coding & Cocktails</a>,
+    a program that teaches women web development basics.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/AlisaDuncan"}
+      - {name: "linkedin", link: "https://www.linkedin.com/in/jalisaduncan"}
+      - {name: "github", link: "https://github.com/alisaduncan"}
+
+  - id: 3
+    name: 'Ammaarah'
+    surname: 'Khan'
+    thumbnailUrl: ammaarah.jpeg
+    title: 'Community Outreach Director'
+    bio: '<p>Passionate about technology and politics, while bring my experience as a 1st Generation American.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/ammaarahkhan"}
+
+  - id: 4
+    name: 'Amy'
+    surname: 'Norris'
+    thumbnailUrl: amy.jpg
+    title: 'Mentor Director'
+    bio: '<p>Amy is a graphic designer turned software developer who got her start in Kansas City Women in Technology''s <a href="https://codingandcocktails.kcwomenintech.org" target="_blank">Coding & Cocktails</a> program.
+    She loves learning new things, cuddling her cat, and playing board games.
+    She is also Co-Director for <a href="https://codingandcocktails.kcwomenintech.org" target="_blank">Coding & Cocktails</a>, a program that teaches women web development basics.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/amynorris"}
+      - {name: "linkedin", link: "https://www.linkedin.com/in/norrisamy/"}
+  
+  - id: 5
+    name: 'Beth'
+    surname: 'Noser'
+    thumbnailUrl: beth.jpg
+    title: 'Volunteer Director'
+    bio: '<p>Beth is a self-taught web developer and loves all things geek, especially in the Star Wars and Marvel universes.
+    When she’s not coding, Beth is traveling, binge watching Netflix, playing table top games with her husband and two kids, hitting up the gym and cuddling her German Shepherds.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/angulargirlskc"}
+  
+  - id: 6
+    name: 'Erin'
+    surname: 'Wilson'
+    thumbnailUrl: erin.jpg
+    title: 'Sponsorship Director'
+    bio: '<p>Erin is a software engineer who is equally excited and spooked by the fact that there is never an end to what you can learn.
+    She is passionate about being involved in tech and music scenes in KC where she enjoys mentoring, going to concerts, and playing viola in a volunteer orchestra.
+    With the rest of her free time Erin enjoys baking, quilting, and relaxing at home with her zoo.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/erin_wilson92"}
+  
+  - id: 7
+    name: 'Gloria'
+    surname: 'Higley'
+    thumbnailUrl: gloria.jpeg
+    title: 'Co-Director'
+    bio: '<p>Gloria is a business professional turned web developer. 
+    She is passionate about advocating for shared understanding, connecting with other humans, and creating safe spaces to learn.
+    KC native, toddler Mom, and inconsistent reader of way too many books at once.
+    She is also Strategic Partnerships Director for <a href="https://kcwomenintech.org" target="_blank">Kansas City Women in Technology</a>.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/angulargirlskc"}
+      - {name: "linkedin", link: "https://www.linkedin.com/in/gloriahigley/"}
+      - {name: "github", link: "https://github.com/gloriahigley"}
+
+  - id: 8
+    name: 'Jack'
+    surname: 'Kolze'
+    thumbnailUrl: jack.png
+    title: 'Attendee Director'
+    bio: '<p>Jacqueline is a twenty-one-year-old software developer. She is passionate about helping others discover a love for tech. 
+    In her spare time, you can find her exploring downtown, hanging with her cat, or watching Netflix.
+    She is also Mentor Director for <a href="http://codingandcupcakes.kcwomenintech.org" target="_blank">Coding & Cupcakes</a>, a program that teaches parents & daughters to code.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/just_jacquelin"}
+      - {name: "site", link: "https://jkolze.github.io/"}
+
+  - id: 9
+    name: 'Jennifer'
+    surname: 'Wadella'
+    thumbnailUrl: jennifer.png
+    title: 'Founder, President KCWiT'
+    bio: '<p>Jennifer is a self-taught full-stack javascript developer with a passion for technology and community building.
+    She is also a GDE specializing in Angular and Web Technologies.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/likeOMGitsFEDAY"}
+      - {name: "site", link: "https://jenniferwadella.com/"}
+
+  
+mentors:
+ - id: 1
+   name: "Tracy"
+   surname: "Lee"
+   title: "Founder, This Dot & RxJS Core Team"
+   company: "This Dot Labs"
+   bio: '<p>Tracy is a Google Developer Expert, a Women Techmakers Lead, and on the RxJS Core Team. She is the organizer of This.JavaScript, Modern Web, Contributor Days, Google Developer Group, and RxWorkshop.</p>'
+   thumbnailUrl: "tracy-lee.jpg"
+   rockstar: true
+   social:
+    - {name: "twitter", link: "https://twitter.com/ladyleet"}
+    - {name: "github", link: "https://github.com/ladyleet"}
+
+ - id: 2
+   name: "Rob"
+   surname: "Ocel"
+   title: "Senior Software Engineer"
+   company: "This Dot Labs"
+   bio: '<p>Rob has had a lifelong love affair with coding. He still gets exceptionally geeked out and makes all his coworkers look when he solves a difficult problem or codes up a novel solution.
+   Because of this, Rob also has a passion for mentoring new and aspiring developers and finding bite-sized ways to explain difficult concepts in modern JavaScript development.
+   The look on the face of an inspired developer who understands something they didn’t before is his anti-drug.
+   Rob has been a professional software developer for over 10 years working on everything from DoD systems to mathematical modeling software, a web developer for the last 4 years building apps for everyone from insurance companies to numismatists, and is fascinated with front-end frameworks and their power to bring ever more diverse developers into the profession.
+   When not developing, Rob spends time keeping up with his two year old son, is an avid fan of JRPGs, and is obsessed with college basketball.</p>'
+   thumbnailUrl: "rob-ocel.png"
+   rockstar: true
+   social:
+    - {name: "twitter", link: "https://twitter.com/robocell"}
+
+ - id: 3
+   name: "Gabriela"
+   surname: "Dombrowski"
+   title: "Application Developer"
+   company: "Crema"
+   bio: '<p>A third-generation Brazilian raised in the US, Gabi spent her youth immersed in MS-DOS, server rooms, and Geocities Mariah Carey fan page HTML.
+   She transitioned to a development career in 2016 after spending 7 years as a systems administrator and is active in her local tech community.
+   Amongst her other interests are included ashtanga yoga, learning languages, and curating stellar playlists.
+   She is also Mentor Director for <a href="https://codingandcocktails.kcwomenintech.org" target="_blank">Coding & Cocktails</a>, a program that teaches women web development basics.</p>'
+   thumbnailUrl: "gabi.jpg"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/gabdom"}
+     - {name: "github", link: "https://github.com/gabidombrowski"}
+
+ - id: 4
+   name: "Rachel"
+   surname: "Hagan"
+   title: "Software Engineer"
+   company: "Netsmart"
+   bio: '<p>Rachel is a software engineer and animal lover.
+   She is also Program Director for <a href="https://codingandcocktails.kcwomenintech.org" target="_blank">Coding & Cocktails</a>, a program that teaches women web development basics.</p>'
+   thumbnailUrl: "rachel-hagan.jpg"
+   rockstar: true
+   social:
+     - {name: "github", link: "https://github.com/rhagan21"}
+
+ - id: 5
+   name: "Sandi"
+   surname: "Barr"
+   title: "Senior Software Engineer"
+   company: "PRX"
+   bio: '<p>Sandi’s passion for software development has grown over the years as she has witnessed its potential for improving people’s lives.
+   Having seen that technology can be both a barrier to entry and a gateway to opportunity, she has worked in Omaha, her local community, to provide tech education to folks who may not otherwise have access.
+   She’s held NodeSchool and Django Girls workshops, is an organizer for NEJS Conference, and worked with organizations to create a sense of belonging for women in tech.</p>'
+   thumbnailUrl: "sandi-barr.jpg"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/sandikbarr"}
+     - {name: "github", link: "https://github.com/sandikbarr"}
+
+ - id: 6
+   name: "Krista"
+   surname: "LaFentres"
+   title: "Engineer"
+   company: "HashiCorp"
+   bio: '<p>Krista LaFentres is an Engineer at HashiCorp, with experience in Ruby on Rails, JavaScript, advertising, and analytics.
+   She loves learning new things and sharing that knowledge with others. She is currently exploring creative coding.
+   When she’s not coding, you can find her lifting heavy things, admiring cute animals, or eating cheesecake.</p>'
+   thumbnailUrl: "krista-lafentres.jpg"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/lafentres"}
+     - {name: "github", link: "https://github.com/lafentres"}
+
+ - id: 7
+   name: "Megan"
+   surname: "O'Roark"
+   title: "Software Engineer"
+   company: "H&R Block"
+   bio: '<p>I’m Meg. I’m a software engineer. I am participating in ngGirls because I enjoy helping others learn development.</p>'
+   thumbnailUrl: "meg-oroark.jpg"
+   rockstar: true
+   social:
+     - {name: "github", link: "https://github.com/msoroark"}
+
+ - id: 8
+   name: "Chad"
+   surname: "Smith"
+   title: "Applications Developer"
+   company: "Blue Cross Blue Shield of Kansas City"
+   bio: '<p>I am an Application Developer, working mostly in Angular 7 and sometimes C#/MVC (when I can’t avoid it).
+   I enjoy volunteering to help others learn and develop the confidence that they can build great things with code.
+   I’m trying to introduce my daughter to coding and this is another great way to expose her to a strong developer community of coders.</p>'
+   thumbnailUrl: "chad-smith.jpg"
+   rockstar: true
+   social:
+     - {name: "github", link: "https://github.com/ChadESmith42"}
+
+ - id: 9
+   name: "Liz"
+   surname: "Wait"
+   title: "Technology Apprentice"
+   company: "VMLY&R"
+   bio: '<p>Liz Wait is a curious and ever learning full-stack developer. She is a recent Launchcode bootcamp graduate.
+   Volunteering and mentoring is a big passion of hers.
+   She loves giving back to the Kansas City tech community.
+   Aside from development, Liz loves all gaming from table top to FPS games.
+   She’s also a big fan of animals, art, and the outdoors.</p>'
+   thumbnailUrl: "liz-wait.jpg"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/lizwait"}
+
+ - id: 10
+   name: "Lex"
+   surname: "Sanders"
+   title: "Apprentice Applications Developer"
+   company: "Crema Labs"
+   bio: '<p>Hello! My name is Lex and I am currently working as an apprentice developer.
+   KCWiT gave me so much support when I first started my journey as a developer and I want to continue that cycle of encouraging women and girls to pursue careers in the STEM filed.
+   I love boardgames, scary movies and sushi. Feel free to check out my git hub!</p>'
+   thumbnailUrl: "lex-sanders.jpg"
+   rockstar: true
+   social:
+     - {name: "github", link: "https://github.com/Alexandria"}
+
+ - id: 11
+   name: "Chris"
+   surname: "Whited"
+   title: "Senior Software Engineer"
+   company: "This Dot Labs"
+   bio: '<p>Chris is a full-stack web developer with a passion for frontend technology and graphql. Looking for better ways to provide mentorship and change the ratio in tech.</p>'
+   thumbnailUrl: "chris-whited.jpg"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/cmwhited"}
+     - {name: "github", link: "https://github.com/cmwhited"}
+
+ - id: 12
+   name: "William"
+   surname: "Johnson"
+   title: "Material Handler"
+   company: "Corbion"
+   bio: '<p>Will is a father of 6 and a self taught JS developer. He wants to help as many people lose their fear of tech by making it approachable so we can have a more diverse workforce.
+   He is also Presentation Director for <a href="http://coderdojokc.com/" target="_blank">CoderDojo Kansas City</a>, a program that mentors kids to code.</p>'
+   thumbnailUrl: "william-johnson.jpg"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/willjohnsonio"}
+     - {name: "github", link: "https://github.com/wjohnson85"}
+
+ - id: 13
+   name: "Laura"
+   surname: "Slocum"
+   title: "Software Engineer - Team Lead"
+   company: "symplr"
+   bio: '<p>I am a software engineer in the KC area for the last 6 years.
+   I have been focused on JavaScript development the last 3 years, and I am passionate about it.
+   I love to help others succeed and become better engineers.
+   Building up other engineers lets you grow your network (good for when you need a new job), and grow your skill set.
+   Teaching others how to do something strengthens your understanding of a subject, and your new friends can teach you in return as they grow.
+   Building up other women helps the development world by not feeling alone in a sea of men at every conference and every job.</p>'
+   thumbnailUrl: "laura-slocum.jpg"
+   rockstar: true
+   social:
+
+ - id: 14
+   name: "Matthew"
+   surname: "Copple"
+   title: "Data Engineer"
+   company: "AutoAlert LLC"
+   bio: '<p>I am a data engineer with 20+ years experience in IT.
+   I am a self-taught programmer and know first-hand how learning to code can literally change the course of one’s life.
+   I am a passionate advocate of Open Source and Free Software, love databases and data engineering, and wake up every morning grateful to have a vocation rather than a job.
+   I got where I am today because of mentoring from a lot of highly talented and generous technologists.
+   The best way to thank them is to pay it forward by mentoring the next generation.
+   I have mentored budding Pythonistas through DjangoGirls in the past, and can’t wait to help introduce web development to another generation of learners through AngularJS and the ngGirls workshop!</p>'
+   thumbnailUrl: "matthew-copple.jpg"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/willjohnsonio"}
+     - {name: "github", link: "https://github.com/MatthewCopple"}
+
+ - id: 15
+   name: "Jennifer"
+   surname: "McKeithen"
+   title: "Student"
+   company: "WGU Missouri"
+   bio: '<p>I’m a software development student at WGU. I want to help girls and women find better opportunities while improving my own skills.</p>'
+   thumbnailUrl: "face.svg"
+   rockstar: true
+   social:
+     - {name: "github", link: "https://github.com/JenniferMcKeithen"}
+
+ - id: 16
+   name: "Katie"
+   surname: "Hrenchir"
+   title: "Software Engineer"
+   company: "Cerner"
+   bio: '<p>I’m a recent KU grad eager to share my knowledge with women in KC. </p>'
+   thumbnailUrl: "katie-hrenchir.jpg"
+   rockstar: true
+   social:
+     - {name: "github", link: "https://github.com/katiehrenchir"}
+
+ - id: 18
+   name: "Justin"
+   surname: "Langley"
+   title: "Senior Developer"
+   company: "Code Koalas"
+   bio: '<p>Hey! My name is Justin Langley and I’ve been a web developer at Code Koalas since 2014 and am passionate about teaching people how to get into the programming gig!
+   I was invited to mentor at ngGirls and was immediately excited at the opportunity!
+   I hope organizations like ngGirls grow larger and larger and are able to provide more and more opportunities.</p>'
+   thumbnailUrl: "justin-langley.jpg"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/JayMLang"}
+     - {name: "github", link: "https://github.com/ArneSaknussemm"}
+
+ - id: 19
+   name: "Joel"
+   surname: "Tanzi"
+   title: "Software Engineer"
+   company: "Engaged Technologies"
+   bio: '<p>I have been a full-stack professional developer for several years with a focus in Angular and C#. 
+   I am passionate about coding, learning about coding, and improving on software engineering best practices. 
+   I enjoy sharing what I’ve learned with others and I support increasing diversity in tech because it results in a broader set of ideas and experience, and results in better products for all of us.</p>'
+   thumbnailUrl: "joel-tanzi.png"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/joel_tanzi"}
+     - {name: "github", link: "https://github.com/jtanzi"}
+
+ - id: 20
+   name: "Sindhu"
+   surname: "Vodnala"
+   title: "Full Stack Engineer"
+   company: "Quest Diagostics"
+   bio: '<p>I am a Enthusiastic Engineer who is looking to explore and expand her communications across Women in technology!</p>'
+   thumbnailUrl: "face.svg"
+   rockstar: true
+   social:
+     - {name: "github", link: "https://github.com/SindhuVodnal"}
+
+ - id: 21
+   name: "Tristan"
+   surname: "Sokol"
+   title: "Software Platform Lead"
+   company: "NorthPoint Development"
+   bio: '<p>New transplant to the Silicon Prairie, and loves making tech more accessible because there is just so much potential for it to shape our lives. 
+   When I’m not in front of a computer I try to be outdoors or tending to my garden. </p>'
+   thumbnailUrl: "tristan-sokol.jpg"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/tristansokol"}
+     - {name: "github", link: "https://github.com/tristansokol"}
+     
+ - id: 22
+   name: "Steven"
+   surname: "Barnhurst"
+   title: "Senior Frontend Engineer"
+   company: "Ringmaster Technology"
+   bio: '<p>I started learning how to develop while teaching abroad making websites for my students. 
+   Upon moving to KC, I felt the need to continue teaching and learning, so I started <a href="https://www.meetup.com/angularkc/" target="_blank">AngularKC</a>. 
+   I’m always excited to help out organizations that offer training to developers starting out their careers.</p>'
+   thumbnailUrl: "steven-barnhurst.jpg"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/shteeven"}
+     - {name: "github", link: "https://github.com/shteeven"}
+          
+ - id: 23
+   name: "Eric"
+   surname: "Poe"
+   title: "Application Developer"
+   company: "Stowers Institute for Medical Research"
+   bio: '<p>Gentle coder, reader, dad, & half-knit/half-wit. 
+   Co-organizer of <a href="https://www.meetup.com/kcphpug/" target="_blank">KC PHP User Group</a>, Curriculum Director of <a href="http://coderdojokc.com/" target="_blank">CoderDojoKC</a>. 
+   Purple Belt in Kung Fu movies. Him/He</p>'
+   thumbnailUrl: "eric-poe.png"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/eric_poe"}
+     - {name: "github", link: "https://github.com/ericpoe"}
+
+ - id: 24
+   name: "Ben"
+   surname: "Rodriguez"
+   title: "Software development"
+   company: "IT Nachos"
+   bio: '<p>A BSBA in Computer Information Systems recipient from UCM, Ben has been developing information technology solutions for over 20 years for companies like Sprint, Yellow-Roadway, the U.S. Marine Corps, as well as an internet marketing firm and its sister call center solutions company. 
+   A seasoned public speaker and member of Toastmasters International, Ben’s speaking and motivational abilities helped the call center team members start their day. 
+   He continuously works on improving and sharpening these skills. His work ethics and integrity are well known and recognized among his former and current clients. 
+   Furthermore, Ben started, developed and sold a screen print company that thrives to this day. 
+   Right now, Ben is working on developing and growing his current venture, IT Nachos, in which he’s deploying his technical skills, personal integrity and business ethics and his profound and practical understanding of business and people.</p>'
+   thumbnailUrl: "ben-rodriguez.jpg"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/BenLovesNachos"}
+     - {name: "github", link: "https://github.com/BenLovesNachos"}
+
+ - id: 25
+   name: "Jessica"
+   surname: "Kincaid"
+   title: "Continuing Education Instructor"
+   company: "Johnson County Community College"
+   bio: '<p>Known for her translucent beaded textiles, Jessica is an artist who creates intricate artworks inspired by dreams as well as learning to code. 
+   Jessica teaches beadwork in the Continuing Education program at Johnson County Community College. 
+   She graduated from LaunchCode this spring and is an emerging front end developer.</p>'
+   thumbnailUrl: "jessica-kincaid.jpg"
+   rockstar: true
+   social:
+     - {name: "twitter", link: "https://twitter.com/jessica_k1ncaid"}
+     - {name: "github", link: "https://github.com/j-kincaid"}
+
+volunteers:
+ - id: 26
+   name: "Robar"
+   surname: "Mike"
+   title: "Volunteer"
+   company: "Software Enthusiast"
+   bio: '<p>I am an Enterprise Java engineer, dabbling in Angular at home (primarily to support a home automation addiction).  I enjoy supporting any way I can to contribute to KCWiT’s successes!</p>'
+   thumbnailUrl: "robar-mike.jpg"
+   rockstar: true
+   social:
+
+ - id: 27
+   name: "Melissa"
+   surname: "Arroyo"
+   title: "Web Designer"
+   company: "Twenty Over Ten"
+   bio: '<p>Marketer and Web Designer who is passionate about increasing diversity in technology. Currently Marketing Director at <a href="https://codingandcocktails.kcwomenintech.org" target="_blank">Coding & Cocktails</a>.</p>'
+   thumbnailUrl: "melissa-arroyo.jpg"
+   rockstar: true
+   social:
+
+ - id: 28
+   name: "Tamara"
+   surname: "Copple"
+   title: "Sr. Business Analyst"
+   company: "Children International"
+   bio: '<p>BA by day, evangelist for women in STEM by night. Personality: Connector, Architect.</p>'
+   thumbnailUrl: "tamara-copple.jpg"
+   rockstar: true
+   social:    
+
+ - id: 29
+   name: "Sarah"
+   surname: "Owings"
+   title: "Practice Director in the Consulting Organization"
+   company: "Netsmart"
+   bio: '<p>I have been a tech professional in the Kansas City area for the last 15+ years, specifically in the health care market.</p>'
+   thumbnailUrl: "face.svg"
+   rockstar: true
+   social:
+    - {name: "twitter", link: "https://twitter.com/SarahOwings6"}

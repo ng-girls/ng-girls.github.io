@@ -1,0 +1,69 @@
+eventDate: "November 24th, 2018, Munich, Germany"
+date: "Saturday, November 24th, 2018"
+location: " at Virtual Identity AG, Munich, Germany"
+deadline: "November 11th, 2018"
+applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLScMH1xX7n1rmBenjqV1BbQOEyQhTXBPexchkHP4X1KPAFXHaw/viewform"
+mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSc5pn-wdWdONyRLHwlbJ__1EUY-pVB_5yZ9yArbhQ3Kn201KA/viewform"
+descriptionTitle: "ngGirls @ Munich"
+descriptionBlock:
+ - {title: "Who is it for?", template: "munich-2018/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "munich-2018/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+
+
+partners:
+
+-
+   group: "With support of"
+   elements:
+     - {name: "Virtual Identity AG", description: "Virtual Identity AG. All Digital. Since 1995.", link: "https://www.virtual-identity.com/", imageUrl: "VI_Munich.png", width: "100px"}
+     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
+     - {name: "SinnerSchrader", description: "SinnerSchrader Berlin", link: "https://sinnerschrader.com/", imageUrl: "sinnerschrader.png"}
+
+
+organizingTeamTitle: "ngGirls @ Munich Team"
+
+team:
+  - id: 1
+    name: 'Maria'
+    surname: 'Lienhard'
+    thumbnailUrl: Maria_Lienhard.png
+    title: "Human Resources"
+    company: "Virtual Identity"
+    bio: ''
+    social:
+      - {name: "twitter", link: "https://de.linkedin.com/in/maria-lienhard-1b3a9b87"}
+  - id: 2
+    name: 'Marc'
+    surname: 'Emmanuel'
+    thumbnailUrl: Marc_Emmanuel.png
+    title: "Creative Developer"
+    company: "Virtual Identity"
+    bio: ''
+    social:
+      - {name: "twitter", link: "https://twitter.com/sheepfromheaven"}
+  - id: 3
+    name: "Robert"
+    surname: "Willemelis"
+    bio: ""
+    thumbnailUrl: robert.png
+    rockstar: true
+    company: "ngGirls team"
+    social:
+      - {name: "twitter", link: "https://twitter.com/robertSPD"}
+
+
+mentors:
+
+- id: 1
+  name: "And You?"
+  surname: ""
+  company: "&nbsp;"
+  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
+  thumbnailUrl: you.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/xxx"}
+
+
