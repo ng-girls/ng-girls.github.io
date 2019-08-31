@@ -3,11 +3,11 @@ applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSfAFihr8EjCdPsifqVvyn
 mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSeU4hGHsyDqJXxB-S2U3mJPwCN5Y2kCaShUeTjXKgzH3B8NoA/viewform"
 descriptionTitle: "ngGirls @ Karachi"
 descriptionBlock:
- - {title: "Who is it for?", template: "karachi/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
- - {title: "Can I help?", template: "karachi/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+ - {title: "Who is it for?", template: "karachi-2019/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "karachi-2019/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
                   <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
                   From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
- - {title: "Schedule", template: "karachi/schedule.html", link: "/#schedule", linkTitle: "schedule", text: "Check out the Schedule. "}
+ - {title: "Schedule", template: "karachi-2019/schedule.html", link: "/#schedule", linkTitle: "schedule", text: "Check out the Schedule. "}
 
 
 posts:
