@@ -1,0 +1,97 @@
+eventDate: "September 7th, 2019, Karachi, Pakistan"
+applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSfAFihr8EjCdPsifqVvyn4Dfl2-WN-I_Fz3B0Rkr2lfT_DN_A/viewform"
+mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSeU4hGHsyDqJXxB-S2U3mJPwCN5Y2kCaShUeTjXKgzH3B8NoA/viewform"
+descriptionTitle: "ngGirls @ Karachi"
+descriptionBlock:
+ - {title: "Who is it for?", template: "karachi-2019/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "karachi-2019/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+ - {title: "Schedule", template: "karachi-2019/schedule.html", link: "/#schedule", linkTitle: "schedule", text: "Check out the Schedule. "}
+
+
+posts:
+- title: "Announcing ngGirls @ Karachi!"
+- content: "
+  <p class='post-body'>
+    <b>Excited to announce an ngGirls workshop in Karachi, Pakistan!</b>
+    <br>The workshop will be held on Saturday, September 7th, 2019. Application and Call for Mentors are open!
+  </p>
+"
+
+partners:
+
+-
+   group: "With support of"
+   elements:
+   - {name: "Recurship", description: "Recurship", link: "http://recurship.com/", imageUrl: "recurship-2.0.png"}
+   - {name: "Nest I/O", description: "Nest I/O", link: "http://thenestio.com/", imageUrl: "nest_io.png"}
+  #  - {name: "Genetech Solutions", description: "Genetech Solutions", link: "https://www.genetechsolutions.com", imageUrl: "genetech.jpg"}
+  #  - {name: "Iomechs", description: "Iomechs", link: "http://iomechs.com", imageUrl: "iomechs-logo.gif"}
+  #  - {name: "Dhinchaks", description: "Dhinchaks", link: "https://www.facebook.com/dhinchakswrapping", imageUrl: "dhinchaks.jpg"}
+  #  - {name: "Outtabox", description: "Outtabox", link: "https://www.facebook.com/OuttaBoxPK", imageUrl: "outtabox.png"}
+  #  - {name: "GDG Kolachi", description: "GDG Kolachi", link: "https://www.facebook.com/GDGKolachi/", imageUrl: "gdg-kolachi.png"}
+   - {name: "WomenintechPK", description: "WomenintechPK", link: "https://www.facebook.com/groups/WomenInTechPK", imageUrl: "WITPK-Logo.png"}
+
+
+
+mentors:
+
+- id: 1
+  name: 'Zainab'
+  surname: 'Saleem'
+  thumbnailUrl: zainab.jpg
+  role: "Organizer"
+  bio: "<p>&nbsp;</p>"
+  link: https://www.twitter.com/zenabSaleemKhan
+  social:
+  - {name: "twitter", link: "https://www.twitter.com/zenabSaleemKhan"}
+
+- id: 2
+  name: 'Robert'
+  surname: 'Willemelis'
+  thumbnailUrl: robert.png
+  role: "Organizer"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/robertSPD
+  social:
+  - {name: "twitter", link: "https://twitter.com/robertSPD"}
+- id: 3
+  name: 'Javeria'
+  surname: 'Nisar'
+  thumbnailUrl: javeria.jpg
+  role: "Co-Organizer"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/JavaEria1
+  social:
+  - {name: "facebook", link: "https://twitter.com/JavaEria1"}
+
+- id: 4
+  name: 'Talia'
+  surname: 'Asghar'
+  thumbnailUrl: talia.jpg
+  role: "Team member"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/taleyamirza
+  social:
+  - {name: "twitter", link: "https://twitter.com/taleyamirza"}
+
+- id: 5
+  name: 'Ahsan'
+  surname: 'Ayaz'
+  thumbnailUrl: ahsan.jpeg
+  role: "Speaker"
+  bio: "<p>&nbsp;</p>"
+  link:  https://twitter.com/Ahsan_ayz
+  social:
+  - {name: "twitter", link: "https://twitter.com/Ahsan_ayz"}
+
+# - id: 6
+#   name: 'Mashhood'
+#   surname: 'Rastgar'
+#   thumbnailUrl: mashhood.jpg
+#   role: "Mentor"
+#   bio: "<p>&nbsp;</p>"
+#   link: https://twitter.com/mashhoodr
+#   social:
+#   - {name: "twitter", link: "https://twitter.com/mashhoodr"}

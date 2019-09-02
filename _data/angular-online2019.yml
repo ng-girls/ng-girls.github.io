@@ -81,6 +81,17 @@ mentors:
       - {name: "twitter", link: "https://twitter.com/myspivey"}
 
   - id: 6
+    name: "Wes"
+    surname: "Grimes"
+    title: "&nbsp;"
+    company: "Narwhal Technologies, Inc. "
+    bio: "<p>James is a Software Engineer/Architect at Narwhal Technologies, Inc.</p>"
+    thumbnailUrl: wes.jpeg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/wesgrimes"}
+
+  - id: 7
     name: "And You?"
     surname: ""
     company: "&nbsp;"
