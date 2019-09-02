@@ -8,6 +8,7 @@ mentorsForm: "https://forms.gle/XVMwrN2xfJgaQA3N7"
 descriptionTitle: "ngGirls @ Online 2019"
 descriptionBlock:
  - {title: "Who is it for?", template: "angular-online2019/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Schedule", template: "angular-online2019/description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
  - {title: "Can I help?", template: "angular-online2019/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
                   <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
                   From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
@@ -47,6 +48,17 @@ mentors:
       - {name: "twitter", link: "https://twitter.com/cmwhited"}
 
   - id: 3
+    name: "Tracy"
+    surname: "King"
+    title: "&nbsp;"
+    company: "Crowdskout"
+    bio: "<p>Chris is a Front End Engineer at Crowdskout.</p>"
+    thumbnailUrl: tracyking.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/ng_tracyy"}
+
+  - id: 4
     name: "And You?"
     surname: ""
     company: "&nbsp;"
