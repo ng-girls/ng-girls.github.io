@@ -59,6 +59,28 @@ mentors:
       - {name: "twitter", link: "https://twitter.com/ng_tracyy"}
 
   - id: 4
+    name: "Daniel"
+    surname: "Marin"
+    title: "&nbsp;"
+    company: "ThisDot"
+    bio: "<p>Daniel is a Front End Engineer at ThisDot.</p>"
+    thumbnailUrl: daniel_m.jpeg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/danm_t"}
+
+  - id: 5
+    name: "James"
+    surname: "Spivey"
+    title: "&nbsp;"
+    company: "Shutterstock"
+    bio: "<p>James is Director of Engineering at Shutterstock.</p>"
+    thumbnailUrl: james_sp.png
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/myspivey"}
+
+  - id: 6
     name: "And You?"
     surname: ""
     company: "&nbsp;"
