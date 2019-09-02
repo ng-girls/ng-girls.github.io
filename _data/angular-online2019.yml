@@ -1,0 +1,102 @@
+eventDate: "September 28th, 2019 - Online"
+date: "Saturday, September 28th, 2019, between 12:00-18:00 UTC+1,"
+location: "Online"
+deadline: "September 13th, 2019"
+applicationForm: "https://forms.gle/FC3iM3e9AJ2hHTxD6"
+mentorsForm: "https://forms.gle/XVMwrN2xfJgaQA3N7"
+# confMessage: 'We are happy to be hosted by <a href="https://developer.microsoft.com/en-us/reactor/" target="_blank"><b>Microsoft Reactor</b></a> and offer a free one-day workshop in Tel-Aviv, Israel!'
+descriptionTitle: "ngGirls @ Online 2019"
+descriptionBlock:
+ - {title: "Who is it for?", template: "angular-online2019/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Schedule", template: "angular-online2019/description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "angular-online2019/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+partners:
+
+-  group: "Hosted by"
+   elements:
+   - {name: "ThisDot Labs", description: "ThisDot Labs", link: "https://www.thisdot.co", imageUrl: "this-dot-labs.png"}
+   - {name: "ThisDot Media", description: "ThisDot Media", link: "https://www.thisdot.co", imageUrl: "this-dot-media.png"}
+   #- {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
+   #- {name: "JetBrains", description: "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools.", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png"}
+
+mentors:
+
+  - id: 1
+    name: "Katerina"
+    surname: "Skroumpelou"
+    title: "&nbsp;"
+    company: "ThisDot"
+    bio: "<p>Katerina is a Software Engineer at ThisDot, and a Google Developer Expert for Angular, Web Technologies and the Google Maps Platform. She also co-runs the AngularAthens meetup!</p>
+"
+    thumbnailUrl: katerina.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/psybercity"}
+
+  - id: 2
+    name: "Chris"
+    surname: "Whited"
+    title: "&nbsp;"
+    company: "ThisDot"
+    bio: "<p>Chris is a Software Engineer at ThisDot.</p>
+"
+    thumbnailUrl: chris.jpeg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/cmwhited"}
+
+  - id: 3
+    name: "Tracy"
+    surname: "King"
+    title: "&nbsp;"
+    company: "Crowdskout"
+    bio: "<p>Chris is a Front End Engineer at Crowdskout.</p>"
+    thumbnailUrl: tracyking.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/ng_tracyy"}
+
+  - id: 4
+    name: "Daniel"
+    surname: "Marin"
+    title: "&nbsp;"
+    company: "ThisDot"
+    bio: "<p>Daniel is a Front End Engineer at ThisDot.</p>"
+    thumbnailUrl: daniel_m.jpeg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/danm_t"}
+
+  - id: 5
+    name: "James"
+    surname: "Spivey"
+    title: "&nbsp;"
+    company: "Shutterstock"
+    bio: "<p>James is Director of Engineering at Shutterstock.</p>"
+    thumbnailUrl: james_sp.png
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/myspivey"}
+
+  - id: 6
+    name: "Wes"
+    surname: "Grimes"
+    title: "&nbsp;"
+    company: "Narwhal Technologies, Inc. "
+    bio: "<p>James is a Software Engineer/Architect at Narwhal Technologies, Inc.</p>"
+    thumbnailUrl: wes.jpeg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/wesgrimes"}
+
+  - id: 7
+    name: "And You?"
+    surname: ""
+    company: "&nbsp;"
+    bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
+    thumbnailUrl: you.png
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/xxx"}
