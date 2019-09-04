@@ -302,7 +302,7 @@ socialLinks:
 footerBlocks:
   - title: "Contact us"
     links:
-      - {link: "mailto:info@ng-girls.org", text: "info@ng-girls.org"}
+      - {link: "mailto:hello@ng-girls.org", text: "hello@ng-girls.org"}
   - title: ""
     links:
       - {permalink: "/coc/", text: "Code of Conduct"}

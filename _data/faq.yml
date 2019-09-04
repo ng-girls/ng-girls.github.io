@@ -62,6 +62,6 @@
   title: "More FAQ"
   faq:
   - { question: "I've got many more questions!",
-      answer: 'You can email us: <a href="mailto:info@ng-girls.org">info@ng-girls.org</a>
+      answer: 'You can email us: <a href="mailto:hello@ng-girls.org">hello@ng-girls.org</a>
                 and we will be glad to answer any question.'}
 
