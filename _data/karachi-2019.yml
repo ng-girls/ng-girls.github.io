@@ -30,6 +30,7 @@ partners:
    group: "Silver Sponsor"
    elements:
    - {name: "Genetech Solutions", description: "Genetech Solutions", link: "https://www.genetechsolutions.com", imageUrl: "Genetech.png"}
+   - {name: "KoderLabs", description: "KoderLabs", link: "https://www.koderlabs.com/", imageUrl: "koderlabs-karachi.png"}
 
 -
    group: "Community and Venue Partners"
@@ -59,7 +60,7 @@ mentors:
   name: 'Robert'
   surname: 'Willemelis'
   thumbnailUrl: robert.png
-  role: "Organizer"
+  role: "Co-Organizer"
   bio: "<p>&nbsp;</p>"
   link: https://twitter.com/robertSPD
   social:
@@ -88,18 +89,123 @@ mentors:
   name: 'Ahsan'
   surname: 'Ayaz'
   thumbnailUrl: ahsan.jpeg
-  role: "Speaker"
+  role: "Instructor / Mentor"
   bio: "<p>&nbsp;</p>"
   link:  https://twitter.com/Ahsan_ayz
   social:
   - {name: "twitter", link: "https://twitter.com/Ahsan_ayz"}
 
-# - id: 6
-#   name: 'Mashhood'
-#   surname: 'Rastgar'
-#   thumbnailUrl: mashhood.jpg
-#   role: "Mentor"
-#   bio: "<p>&nbsp;</p>"
-#   link: https://twitter.com/mashhoodr
-#   social:
-#   - {name: "twitter", link: "https://twitter.com/mashhoodr"}
+- id: 6
+  name: 'Mashhood'
+  surname: 'Rastgar'
+  thumbnailUrl: mashhood.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/mashhoodr
+  social:
+  - {name: "twitter", link: "https://twitter.com/mashhoodr"}
+
+- id: 7
+  name: 'Saad'
+  surname: 'Abbasi'
+  thumbnailUrl: saad-abbasi.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/isaadabbasi
+  social:
+  - {name: "twitter", link: "https://twitter.com/isaadabbasi"}
+
+- id: 8
+  name: 'Aqib'
+  surname: 'Ehsan'
+  thumbnailUrl: aqib-ehsan.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+
+- id: 9
+  name: 'Sana'
+  surname: 'Musharraf'
+  thumbnailUrl: sana-musharraf.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+
+- id: 10
+  name: 'Faria'
+  surname: 'Ejaz'
+  thumbnailUrl: faria-ejaz.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/FariaEjaz1
+  social:
+  - {name: "twitter", link: "https://twitter.com/FariaEjaz1"}
+
+- id: 11
+  name: 'Amna'
+  surname: 'Ejaz'
+  thumbnailUrl: amna-ejaz.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/AmnaEjazBhatti
+  social:
+  - {name: "twitter", link: "https://twitter.com/AmnaEjazBhatti"}
+
+- id: 12
+  name: 'Ahmed'
+  surname: 'Khan'
+  thumbnailUrl: ahmed.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/50shadeofkhan
+  social:
+  - {name: "twitter", link: "https://twitter.com/50shadeofkhan"}
+
+- id: 13
+  name: 'Syeda'
+  surname: 'Sidrah'
+  thumbnailUrl: ahmed.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+
+- id: 14
+  name: 'Mohsin'
+  surname: 'Ayaz'
+  thumbnailUrl: mohsn-ayaz.jpeg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+
+- id: 15
+  name: 'Syed Saad'
+  surname: 'Qamar'
+  thumbnailUrl: syed-saad.jpeg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/SaadQamar96
+  social:
+  - {name: "twitter", link: "https://twitter.com/SaadQamar96"}
+
+- id: 16
+  name: 'Jibran'
+  surname: 'Yousuf Khan'
+  thumbnailUrl: jibran.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/JibranYKhan
+  social:
+  - {name: "twitter", link: "https://twitter.com/JibranYKhan"}
+
+- id: 17
+  name: 'Muhammad'
+  surname: 'Ali'
+  thumbnailUrl: ali.jpeg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+
+- id: 18
+  name: 'Noor'
+  surname: 'Mehboob'
+  thumbnailUrl: noor.jpg
+  role: "Mentor"
+  bio: "<p>&nbsp;</p>"
+  link: https://twitter.com/noorimmad
+  social:
+  - {name: "twitter", link: "https://twitter.com/noorimmad"}
