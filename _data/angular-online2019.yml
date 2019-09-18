@@ -205,7 +205,7 @@ mentors:
     title: "&nbsp;"
     company: "Deutsche Bank"
     bio: "<p>I have been actively involved in open source contribution to Angular and other projects and really want to give back to the Angular community.</p>"
-    thumbnailUrl: Santosh.jpg
+    thumbnailUrl: santosh.jpg
     rockstar: true
     social:
       - {name: "twitter", link: "https://twitter.com/Santosh19742211"}
