@@ -23,40 +23,40 @@ partners:
 
 mentors:
 
-- id: 1
-  name: "Katerina"
-  surname: "Skroumpelou"
-  title: "&nbsp;"
-  company: "ThisDot"
-  bio: "<p>Katerina is a Software Engineer at ThisDot, and a Google Developer Expert for Angular, Web Technologies and the Google Maps Platform. She also co-runs the AngularAthens meetup!</p>"
-  thumbnailUrl: katerina.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/psybercity"}
+  - id: 1
+    name: "Katerina"
+    surname: "Skroumpelou"
+    title: "&nbsp;"
+    company: "ThisDot"
+    bio: "<p>Katerina is a Software Engineer at ThisDot, and a Google Developer Expert for Angular, Web Technologies and the Google Maps Platform. She also co-runs the AngularAthens meetup!</p>"
+    thumbnailUrl: katerina.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/psybercity"}
 
-- id: 2
-  name: "Chris"
-  surname: "Whited"
-  title: "&nbsp;"
-  company: "ThisDot"
-  bio: "<p>Chris is a Software Engineer at ThisDot.</p>"
-  thumbnailUrl: chris.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/cmwhited"}
+  - id: 2
+    name: "Chris"
+    surname: "Whited"
+    title: "&nbsp;"
+    company: "ThisDot"
+    bio: "<p>Chris is a Software Engineer at ThisDot.</p>"
+    thumbnailUrl: chris.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/cmwhited"}
 
-- id: 3
-  name: "Tracy"
-  surname: "King"
-  title: "&nbsp;"
-  company: "Crowdskout"
-  bio: "<p>Chris is a Front End Engineer at Crowdskout.</p>"
-  thumbnailUrl: tracyking.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/ng_tracyy"}
+  - id: 3
+    name: "Tracy"
+    surname: "King"
+    title: "&nbsp;"
+    company: "Crowdskout"
+    bio: "<p>Chris is a Front End Engineer at Crowdskout.</p>"
+    thumbnailUrl: tracyking.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/ng_tracyy"}
 
-- id: 4
+  - id: 4
     name: "Daniel"
     surname: "Marin"
     title: "&nbsp;"
@@ -67,7 +67,7 @@ mentors:
     social:
       - {name: "twitter", link: "https://twitter.com/danm_t"}
 
-- id: 5
+  - id: 5
     name: "James"
     surname: "Spivey"
     title: "&nbsp;"
@@ -78,7 +78,7 @@ mentors:
     social:
       - {name: "twitter", link: "https://twitter.com/myspivey"}
 
-- id: 6
+  - id: 6
     name: "Wes"
     surname: "Grimes"
     title: "&nbsp;"
@@ -89,7 +89,7 @@ mentors:
     social:
       - {name: "twitter", link: "https://twitter.com/wesgrimes"}
   
-    - id: 7
+  - id: 7
     name: "Alisa"
     surname: "Duncan"
     title: "&nbsp;"
@@ -100,7 +100,7 @@ mentors:
     social:
       - {name: "twitter", link: "https://twitter.com/AlisaDuncan"}
 
-    - id: 8
+  - id: 8
     name: "Brad"
     surname: "McAlister"
     title: "&nbsp;"
@@ -111,7 +111,7 @@ mentors:
     social:
       - {name: "twitter", link: "https://twitter.com/sonicparke"}
 
-    - id: 9
+  - id: 9
     name: "Sandi"
     surname: "Barr"
     title: "&nbsp;"
@@ -122,7 +122,7 @@ mentors:
     social:
       - {name: "twitter", link: "https://twitter.com/wesgrimes"}
 
-    - id: 10
+  - id: 10
     name: "Kris"
     surname: "Rivera"
     title: "&nbsp;"
@@ -133,7 +133,7 @@ mentors:
     social:
       - {name: "twitter", link: "https://twitter.com/kkrivera"}
 
-    - id: 11
+  - id: 11
     name: "Rob"
     surname: "Ocel"
     title: "&nbsp;"
@@ -144,7 +144,7 @@ mentors:
     social:
       - {name: "twitter", link: "https://twitter.com/robocell"}
 
-    - id: 12
+  - id: 12
     name: "Tara"
     surname: "Z. Manicsic"
     title: "&nbsp;"
@@ -155,7 +155,7 @@ mentors:
     social:
       - {name: "twitter", link: "https://twitter.com/tzmanics"}
 
-    - id: 13
+  - id: 13
     name: "Craig"
     surname: "Spence"
     title: "&nbsp;"
@@ -166,7 +166,7 @@ mentors:
     social:
       - {name: "twitter", link: "https://twitter.com/phenomnominal"}
 
-    - id: 14
+  - id: 14
     name: "Martina"
     surname: "Kraus"
     title: "&nbsp;"
@@ -177,7 +177,7 @@ mentors:
     social:
       - {name: "twitter", link: "https://twitter.com/MartinaKraus11"}
 
-    - id: 15
+  - id: 15
     name: "Rikke"
     surname: "Petersen"
     title: "&nbsp;"
@@ -188,7 +188,7 @@ mentors:
     social:
       - {name: "twitter", link: "https://twitter.com/rikkepeterzen"}
 
-    - id: 16
+  - id: 16
     name: "Katarzyna"
     surname: "Rzeźnik"
     title: "&nbsp;"
@@ -199,7 +199,7 @@ mentors:
     social:
       - {name: "github", link: "https://github.com/rzeznik-kasia"}
 
-    - id: 17
+  - id: 17
     name: "Santosh"
     surname: "Yadav"
     title: "&nbsp;"
@@ -210,7 +210,7 @@ mentors:
     social:
       - {name: "twitter", link: "https://twitter.com/Santosh19742211"}
 
-    - id: 18
+  - id: 18
     name: "Chebbi"
     surname: "Lamis"
     title: "&nbsp;"
