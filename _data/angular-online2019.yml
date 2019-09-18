@@ -23,53 +23,51 @@ partners:
 
 mentors:
 
-  - id: 1
-    name: "Katerina"
-    surname: "Skroumpelou"
-    title: "&nbsp;"
-    company: "ThisDot"
-    bio: "<p>Katerina is a Software Engineer at ThisDot, and a Google Developer Expert for Angular, Web Technologies and the Google Maps Platform. She also co-runs the AngularAthens meetup!</p>
-"
-    thumbnailUrl: katerina.jpg
-    rockstar: true
-    social:
-      - {name: "twitter", link: "https://twitter.com/psybercity"}
+- id: 1
+  name: "Katerina"
+  surname: "Skroumpelou"
+  title: "&nbsp;"
+  company: "ThisDot"
+  bio: "<p>Katerina is a Software Engineer at ThisDot, and a Google Developer Expert for Angular, Web Technologies and the Google Maps Platform. She also co-runs the AngularAthens meetup!</p>"
+  thumbnailUrl: katerina.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/psybercity"}
 
-  - id: 2
-    name: "Chris"
-    surname: "Whited"
-    title: "&nbsp;"
-    company: "ThisDot"
-    bio: "<p>Chris is a Software Engineer at ThisDot.</p>
-"
-    thumbnailUrl: chris.jpeg
-    rockstar: true
-    social:
-      - {name: "twitter", link: "https://twitter.com/cmwhited"}
+- id: 2
+  name: "Chris"
+  surname: "Whited"
+  title: "&nbsp;"
+  company: "ThisDot"
+  bio: "<p>Chris is a Software Engineer at ThisDot.</p>"
+  thumbnailUrl: chris.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/cmwhited"}
 
-  - id: 3
-    name: "Tracy"
-    surname: "King"
-    title: "&nbsp;"
-    company: "Crowdskout"
-    bio: "<p>Chris is a Front End Engineer at Crowdskout.</p>"
-    thumbnailUrl: tracyking.jpg
-    rockstar: true
-    social:
-      - {name: "twitter", link: "https://twitter.com/ng_tracyy"}
+- id: 3
+  name: "Tracy"
+  surname: "King"
+  title: "&nbsp;"
+  company: "Crowdskout"
+  bio: "<p>Chris is a Front End Engineer at Crowdskout.</p>"
+  thumbnailUrl: tracyking.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ng_tracyy"}
 
-  - id: 4
+- id: 4
     name: "Daniel"
     surname: "Marin"
     title: "&nbsp;"
     company: "ThisDot"
     bio: "<p>Daniel is a Front End Engineer at ThisDot.</p>"
-    thumbnailUrl: daniel_m.jpeg
+    thumbnailUrl: daniel.jpeg
     rockstar: true
     social:
       - {name: "twitter", link: "https://twitter.com/danm_t"}
 
-  - id: 5
+- id: 5
     name: "James"
     surname: "Spivey"
     title: "&nbsp;"
@@ -80,18 +78,150 @@ mentors:
     social:
       - {name: "twitter", link: "https://twitter.com/myspivey"}
 
-  - id: 6
+- id: 6
     name: "Wes"
     surname: "Grimes"
     title: "&nbsp;"
     company: "Narwhal Technologies, Inc. "
-    bio: "<p>James is a Software Engineer/Architect at Narwhal Technologies, Inc.</p>"
+    bio: "<p>Wes is a Software Engineer/Architect at Narwhal Technologies, Inc.</p>"
     thumbnailUrl: wes.jpeg
     rockstar: true
     social:
       - {name: "twitter", link: "https://twitter.com/wesgrimes"}
+  
+    - id: 7
+    name: "Alisa"
+    surname: "Duncan"
+    title: "&nbsp;"
+    company: "Engaged Technologies"
+    bio: "<p>I'm passionate about increasing diversity in technology and creating safe spaces for women to learn so I co-organize AngularKC meetup and volunteer with Kansas City Women in Technology (KCWiT). At KCWiT, I am Technical Materials Director for Coding & Cocktails, a program that introduces women to web development basics. Additionally, I recently organized a ngGirls event in Kansas City under the KCWiT umbrella. Programs like ngGirls is a great way to introduce women to web development and offer a safe learning environment for women to explore new-to-them topics.</p>"
+    thumbnailUrl: alisa_duncan.png
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/AlisaDuncan"}
 
-  - id: 7
+    - id: 8
+    name: "Brad"
+    surname: "McAlister"
+    title: "&nbsp;"
+    company: "Sapphire Digital"
+    bio: "<p>I'm a second career dev and have been developing professionally since 2013. Before that I was a system admin for over 12 years. I'm currently an engineering team lead for one of our products at Sapphire Digital. I'd like to mentor because just like many others in the tech community I've noticed a lack of female devs (as well as others) and would like to do my part to help any and all to work their way into the dev community.</p>"
+    thumbnailUrl: wes.jpeg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/sonicparke"}
+
+    - id: 9
+    name: "Sandi"
+    surname: "Barr"
+    title: "&nbsp;"
+    company: "Narwhal Technologies, Inc. "
+    bio: "<p>James is a Software Engineer/Architect at Narwhal Technologies, Inc.</p>"
+    thumbnailUrl: sandi-barr.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/wesgrimes"}
+
+    - id: 10
+    name: "Kris"
+    surname: "Rivera"
+    title: "&nbsp;"
+    company: "DivvyCloud"
+    bio: "<p>I am a software developer of 12 years and love mentoring developers so that they can realise their successes sooner</p>"
+    thumbnailUrl: krisrivera.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/kkrivera"}
+
+    - id: 11
+    name: "Rob"
+    surname: "Ocel"
+    title: "&nbsp;"
+    company: "This Dot Labs"
+    bio: "<p>Rob has had a lifelong love affair with coding. He still gets exceptionally geeked out and makes all his coworkers look when he solves a difficult problem or codes up a novel solution. Because of this, Rob also has a passion for mentoring new and aspiring developers and finding bite-sized ways to explain difficult concepts in modern JavaScript development. The look on the face of an inspired developer who understands something they didn't before is his anti-drug. Rob has been a professional software developer for over 10 years working on everything from DoD defense systems to mathematical modeling software, a web developer for the last 4 years building apps for everyone from insurance companies to numismatists, and is fascinated with front-end frameworks and their power to bring ever more diverse developers into the profession. When not developing, Rob spends time keeping up with his two year old son, is an avid fan of JRPGs, and is obsessed with college basketball.</p>"
+    thumbnailUrl: robocel.png
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/robocell"}
+
+    - id: 12
+    name: "Tara"
+    surname: "Z. Manicsic"
+    title: "&nbsp;"
+    company: "Netlify"
+    bio: "<p>Hi, I’m Tara and I’m a fan of ngGirls ❤️ I’ve been programming for a couple of years and want to help bring more amazing womxn & girls to our industry! I’m the Angular Dev Experience Engineer at Netlify, mom to Niko and fur mom to Toshmagosh. I’d love to help you code, DM me on Twitter 💁🏻‍♀️</p>"
+    thumbnailUrl: tara.png
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/tzmanics"}
+
+    - id: 13
+    name: "Craig"
+    surname: "Spence"
+    title: "&nbsp;"
+    company: "Spotify"
+    bio: "<p>I genuinely love teaching, and really love development. I've been so lucky to have amazing mentors over the years, and I am seriously passionate about paying it forward. I exist in this industry as a particularly privileged individual and I consider it my responsibility to use those advantages to help out others. I think ngGirls is a great program, and so far haven't been able to help out at all. Doing this online makes it a bit easier for me!</p>"
+    thumbnailUrl: craig.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/phenomnominal"}
+
+    - id: 14
+    name: "Martina"
+    surname: "Kraus"
+    title: "&nbsp;"
+    company: "inovex GmbH"
+    bio: "<p>One of my biggest passion is knowledge sharing. Everyone started small and without any knowledge and was happy to had a mentor to be guided through the whole sometimes difficult world of being a software developer :)</p>"
+    thumbnailUrl: martina.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/MartinaKraus11"}
+
+    - id: 15
+    name: "Rikke"
+    surname: "Petersen"
+    title: "&nbsp;"
+    company: "Topdanmark Forsikring A/S"
+    bio: "<p>I am 27 (28 by the time of the workshop ;)) and has a master degree in medialogy, with specialization in virtual reality development. I work as a software developer both front- and backend, and my current project, which is pretty huge, is done in Angular 8 - it started in Angular 6. I want to be a mentor because I think everyone should experience the creativity of webdev, and I think Angular is perfect for getting started. Being a mentor at the Angular workshop in Denmark (just before ngVikings) was so much fun, and I want to join again :)</p>"
+    thumbnailUrl: rikke.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/rikkepeterzen"}
+
+    - id: 16
+    name: "Katarzyna"
+    surname: "Rzeźnik"
+    title: "&nbsp;"
+    company: "Comarch"
+    bio: "<p>I was ANSI-C tester for 3 years, Android Developer for 6 months and finally Angular developer since 3 years, beginning from Angular JS and ending with Angular 6. I want to be a mentor since I made a commitment to myself to devote some of my income and my free time to volunteer work. I also treat this as an opportunity to finally leave my comfort zone: D .. and I am missing some community in which I will feel like at home!</p>"
+    thumbnailUrl: katarzyna.png
+    rockstar: true
+    social:
+      - {name: "github", link: "https://github.com/rzeznik-kasia"}
+
+    - id: 17
+    name: "Santosh"
+    surname: "Yadav"
+    title: "&nbsp;"
+    company: "Deutsche Bank"
+    bio: "<p>I have been actively involved in open source contribution to Angular and other projects and really want to give back to the Angular community.</p>"
+    thumbnailUrl: Santosh.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/Santosh19742211"}
+
+    - id: 18
+    name: "Chebbi"
+    surname: "Lamis"
+    title: "&nbsp;"
+    company: "Vermeg"
+    bio: "<p></p>"
+    thumbnailUrl: chebbi.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/LamisChebbi"}
+
+  - id: 19
     name: "And You?"
     surname: ""
     company: "&nbsp;"
