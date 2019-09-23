@@ -7,22 +7,46 @@ mentorsForm: "https://forms.gle/XVMwrN2xfJgaQA3N7"
 # confMessage: 'We are happy to be hosted by <a href="https://developer.microsoft.com/en-us/reactor/" target="_blank"><b>Microsoft Reactor</b></a> and offer a free one-day workshop in Tel-Aviv, Israel!'
 descriptionTitle: "ngGirls @ Online 2019"
 descriptionBlock:
- - {title: "Who is it for?", template: "angular-online2019/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
- - {title: "Schedule", template: "angular-online2019/description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
- - {title: "Can I help?", template: "angular-online2019/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
-                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
-                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+  - {
+      title: "Who is it for?",
+      template: "angular-online2019/description-who-is-it-for.html",
+      link: "/#faq",
+      linkTitle: "Check out the FAQ",
+    }
+  - {
+      title: "Schedule",
+      template: "angular-online2019/description-schedule.html",
+      link: "/#faq",
+      linkTitle: "Check out the FAQ",
+    }
+  - {
+      title: "Can I help?",
+      template: "angular-online2019/description-can-i-help.html",
+      link: "/#help",
+      linkTitle: "contact us",
+      text: "Of course! There are several ways you can help: <br/>
+        <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+        From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. ",
+    }
 partners:
-
--  group: "Hosted by"
-   elements:
-   - {name: "ThisDot Labs", description: "ThisDot Labs", link: "https://www.thisdot.co", imageUrl: "this-dot-labs.png"}
-   - {name: "ThisDot Media", description: "ThisDot Media", link: "https://www.thisdot.co", imageUrl: "this-dot-media.png"}
-   #- {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
-   #- {name: "JetBrains", description: "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools.", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png"}
+  - group: "Hosted by"
+    elements:
+      - {
+          name: "ThisDot Labs",
+          description: "ThisDot Labs",
+          link: "https://www.thisdot.co",
+          imageUrl: "this-dot-labs.png",
+        }
+      - {
+          name: "ThisDot Media",
+          description: "ThisDot Media",
+          link: "https://www.thisdot.co",
+          imageUrl: "this-dot-media.png",
+        }
+    #- {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
+    #- {name: "JetBrains", description: "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools.", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png"}
 
 mentors:
-
   - id: 1
     name: "Katerina"
     surname: "Skroumpelou"
@@ -32,7 +56,7 @@ mentors:
     thumbnailUrl: katerina.jpg
     rockstar: true
     social:
-      - {name: "twitter", link: "https://twitter.com/psybercity"}
+      - { name: "twitter", link: "https://twitter.com/psybercity" }
 
   - id: 2
     name: "Chris"
@@ -43,7 +67,7 @@ mentors:
     thumbnailUrl: chris.jpg
     rockstar: true
     social:
-      - {name: "twitter", link: "https://twitter.com/cmwhited"}
+      - { name: "twitter", link: "https://twitter.com/cmwhited" }
 
   - id: 3
     name: "Tracy"
@@ -54,7 +78,7 @@ mentors:
     thumbnailUrl: tracyking.jpg
     rockstar: true
     social:
-      - {name: "twitter", link: "https://twitter.com/ng_tracyy"}
+      - { name: "twitter", link: "https://twitter.com/ng_tracyy" }
 
   - id: 4
     name: "Daniel"
@@ -65,7 +89,7 @@ mentors:
     thumbnailUrl: daniel.jpeg
     rockstar: true
     social:
-      - {name: "twitter", link: "https://twitter.com/danm_t"}
+      - { name: "twitter", link: "https://twitter.com/danm_t" }
 
   - id: 5
     name: "James"
@@ -76,7 +100,7 @@ mentors:
     thumbnailUrl: james_sp.png
     rockstar: true
     social:
-      - {name: "twitter", link: "https://twitter.com/myspivey"}
+      - { name: "twitter", link: "https://twitter.com/myspivey" }
 
   - id: 6
     name: "Wes"
@@ -87,8 +111,8 @@ mentors:
     thumbnailUrl: wes.jpeg
     rockstar: true
     social:
-      - {name: "twitter", link: "https://twitter.com/wesgrimes"}
-  
+      - { name: "twitter", link: "https://twitter.com/wesgrimes" }
+
   - id: 7
     name: "Alisa"
     surname: "Duncan"
@@ -98,7 +122,7 @@ mentors:
     thumbnailUrl: alisa_duncan.png
     rockstar: true
     social:
-      - {name: "twitter", link: "https://twitter.com/AlisaDuncan"}
+      - { name: "twitter", link: "https://twitter.com/AlisaDuncan" }
 
   - id: 8
     name: "Brad"
@@ -106,10 +130,10 @@ mentors:
     title: "&nbsp;"
     company: "Sapphire Digital"
     bio: "<p>I'm a second career dev and have been developing professionally since 2013. Before that I was a system admin for over 12 years. I'm currently an engineering team lead for one of our products at Sapphire Digital. I'd like to mentor because just like many others in the tech community I've noticed a lack of female devs (as well as others) and would like to do my part to help any and all to work their way into the dev community.</p>"
-    thumbnailUrl: wes.jpeg
+    thumbnailUrl: brad_mcalister.png
     rockstar: true
     social:
-      - {name: "twitter", link: "https://twitter.com/sonicparke"}
+      - { name: "twitter", link: "https://twitter.com/sonicparke" }
 
   - id: 9
     name: "Sandi"
@@ -120,7 +144,7 @@ mentors:
     thumbnailUrl: sandi-barr.jpg
     rockstar: true
     social:
-      - {name: "twitter", link: "https://twitter.com/wesgrimes"}
+      - { name: "twitter", link: "https://twitter.com/wesgrimes" }
 
   - id: 10
     name: "Kris"
@@ -131,7 +155,7 @@ mentors:
     thumbnailUrl: krisrivera.jpg
     rockstar: true
     social:
-      - {name: "twitter", link: "https://twitter.com/kkrivera"}
+      - { name: "twitter", link: "https://twitter.com/kkrivera" }
 
   - id: 11
     name: "Rob"
@@ -142,7 +166,7 @@ mentors:
     thumbnailUrl: robocel.png
     rockstar: true
     social:
-      - {name: "twitter", link: "https://twitter.com/robocell"}
+      - { name: "twitter", link: "https://twitter.com/robocell" }
 
   - id: 12
     name: "Tara"
@@ -153,7 +177,7 @@ mentors:
     thumbnailUrl: tara.png
     rockstar: true
     social:
-      - {name: "twitter", link: "https://twitter.com/tzmanics"}
+      - { name: "twitter", link: "https://twitter.com/tzmanics" }
 
   - id: 13
     name: "Craig"
@@ -164,7 +188,7 @@ mentors:
     thumbnailUrl: craig.jpg
     rockstar: true
     social:
-      - {name: "twitter", link: "https://twitter.com/phenomnominal"}
+      - { name: "twitter", link: "https://twitter.com/phenomnominal" }
 
   - id: 14
     name: "Martina"
@@ -175,7 +199,7 @@ mentors:
     thumbnailUrl: martina.jpg
     rockstar: true
     social:
-      - {name: "twitter", link: "https://twitter.com/MartinaKraus11"}
+      - { name: "twitter", link: "https://twitter.com/MartinaKraus11" }
 
   - id: 15
     name: "Rikke"
@@ -186,7 +210,7 @@ mentors:
     thumbnailUrl: rikke.jpg
     rockstar: true
     social:
-      - {name: "twitter", link: "https://twitter.com/rikkepeterzen"}
+      - { name: "twitter", link: "https://twitter.com/rikkepeterzen" }
 
   - id: 16
     name: "Katarzyna"
@@ -197,7 +221,7 @@ mentors:
     thumbnailUrl: katarzyna.png
     rockstar: true
     social:
-      - {name: "github", link: "https://github.com/rzeznik-kasia"}
+      - { name: "github", link: "https://github.com/rzeznik-kasia" }
 
   - id: 17
     name: "Santosh"
@@ -208,7 +232,7 @@ mentors:
     thumbnailUrl: santosh.jpg
     rockstar: true
     social:
-      - {name: "twitter", link: "https://twitter.com/Santosh19742211"}
+      - { name: "twitter", link: "https://twitter.com/Santosh19742211" }
 
   - id: 18
     name: "Chebbi"
@@ -219,7 +243,7 @@ mentors:
     thumbnailUrl: chebbi.jpg
     rockstar: true
     social:
-      - {name: "twitter", link: "https://twitter.com/LamisChebbi"}
+      - { name: "twitter", link: "https://twitter.com/LamisChebbi" }
 
   - id: 19
     name: "And You?"
@@ -229,4 +253,4 @@ mentors:
     thumbnailUrl: you.png
     rockstar: true
     social:
-      - {name: "twitter", link: "https://twitter.com/xxx"}
+      - { name: "twitter", link: "https://twitter.com/xxx" }
