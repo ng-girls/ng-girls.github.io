@@ -3,23 +3,15 @@ applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSfsCJJEdGDskIQmrCqSe0
 mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSdmz5N87i0MP_fL_3VFQg5edCO3cZrgAdsxc0Z476l_BTG2RA/viewform"
 descriptionTitle: "ngGirls @ Washington, DC"
 descriptionBlock:
- - {title: "Who is it for?", template: "ng-girls-dc-2019/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Who is it for?", template: "description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
  - {title: "Can I help?", template: "ng-girls-dc-2019/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
                   <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
                   From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
  - {title: "Schedule", template: "ng-girls-dc-2019/schedule.html", link: "/#schedule", linkTitle: "schedule", text: "Check out the Schedule. "}
 
-posts:
-- title: "Announcing ngGirls @ Washington, DC!"
-- content: "
-  <p class='post-body'>
-    <b>Excited to announce an ngGirls workshop in Washington, DC!</b>
-    <br>The workshop will be held on Saturday, October 26th, 2019. Application and Call for Mentors are open!
-  </p>
-"
-
 partners:
 
+-
    group: "Community and Venue Partners"
    elements:
    - {name: "Excella", description: "Solve for today, evolve for tomorrow. Agile consulting and training, IT modernization, enhanced analytics, and digital service delivery consulting.", link: "https://www.excella.com", imageUrl: "excella.jpg"}
@@ -33,7 +25,7 @@ mentors:
   company: "ThisDot"
   title: "Software Engineer"
   bio: "Front End engineer and web development community builder based in Washington, DC. Loves to learn new technologies, share knowledge, and host + plan technical events. Organizer for Women Who Code DC and AngularDC. Lives with two fluffy pups."
-  thumbnailUrl: tracy-king.jpg
+  thumbnailUrl: tracy-king.png
   role: "Organizer & Mentor"
   link: https://www.twitter.com/ng_tracyy
   social:
@@ -46,7 +38,7 @@ mentors:
   surname: "Hoffman"
   company: "Excella"
   title: "Javascript Capability Lead"
-  thumbnailUrl: alex-hoffman.jpg
+  thumbnailUrl: alex-hoffman.png
   role: "Organizer & Mentor"
   bio: "<p>&nbsp;</p>"
   link: https://twitter.com/alexhoffman617
