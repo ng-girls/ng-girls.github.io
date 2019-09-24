@@ -9,6 +9,15 @@ descriptionBlock:
                   From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
  - {title: "Schedule", template: "ng-girls-dc-2019/schedule.html", link: "/#schedule", linkTitle: "schedule", text: "Check out the Schedule. "}
 
+posts:
+- title: "Announcing ngGirls @ Washington, DC!"
+- content: "
+  <p class='post-body'>
+    <b>Excited to announce an ngGirls workshop in Washington, DC!</b>
+    <br>The workshop will be held on Saturday, October 26th, 2019 at the Arlington Tech Exchange. Application and Call for Mentors are open!
+  </p>
+"
+
 partners:
 
 -
