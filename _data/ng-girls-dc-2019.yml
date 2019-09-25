@@ -14,7 +14,7 @@ posts:
 - content: "
   <p class='post-body'>
     <b>Excited to announce an ngGirls workshop in Washington, DC!</b>
-    <br>The workshop will be held on Saturday, October 26th, 2019 at the Arlington Tech Exchange. Application and Call for Mentors are open!
+    <br>The <b>free</b> workshop for all skill levels (beginners welcome!!) will be held on Saturday, October 26th, 2019 at the Arlington Tech Exchange - Excella Consulting. Application and Call for Mentors are open!
   </p>
 "
 
@@ -70,12 +70,26 @@ mentors:
   - {name: "twitter", link: "https://twitter.com/duluca"}
   - {name: "linkedin", link: "https://www.linkedin.com/in/duluca/"}
 
-  - id: 4
-    name: "And You?"
-    surname: ""
-    company: "&nbsp;"
-    bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmz5N87i0MP_fL_3VFQg5edCO3cZrgAdsxc0Z476l_BTG2RA/viewform" target="_blank"> this form</a>.</p>'
-    thumbnailUrl: you.png
-    rockstar: true
-    social:
-      - {name: "twitter", link: "https://twitter.com/AngularGirls"}
+- id: 4
+  name: "Brendan"
+  surname: "Sawyer"
+  company: "Excella"
+  title: "Full-Stack Software Developer"
+  thumbnailUrl: brendan-sawyer.png
+  role: "Organizer & Mentor"
+  link: https://twitter.com/bjsawyer7
+  bio: Full-Stack Software Developer at Excella
+  social:
+  - {name: "github", link: "https://github.com/bjsawyer"}
+  - {name: "twitter", link: "https://twitter.com/bjsawyer7"}
+  - {name: "linkedin", link: "https://www.linkedin.com/in/brendan-sawyer-252a569b/"}
+
+- id: 5
+  name: "And You?"
+  surname: ""
+  company: "&nbsp;"
+  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmz5N87i0MP_fL_3VFQg5edCO3cZrgAdsxc0Z476l_BTG2RA/viewform" target="_blank"> this form</a>.</p>'
+  thumbnailUrl: you.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/AngularGirls"}
