@@ -207,7 +207,7 @@ mentors:
     title: "&nbsp;"
     company: "Topdanmark Forsikring A/S"
     bio: "<p>I am 27 (28 by the time of the workshop ;)) and has a master degree in medialogy, with specialization in virtual reality development. I work as a software developer both front- and backend, and my current project, which is pretty huge, is done in Angular 8 - it started in Angular 6. I want to be a mentor because I think everyone should experience the creativity of webdev, and I think Angular is perfect for getting started. Being a mentor at the Angular workshop in Denmark (just before ngVikings) was so much fun, and I want to join again :)</p>"
-    thumbnailUrl: rikke.jpg
+    thumbnailUrl: rikke-petersen.jpg
     rockstar: true
     social:
       - { name: "twitter", link: "https://twitter.com/rikkepeterzen" }
