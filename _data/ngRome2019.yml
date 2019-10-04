@@ -16,6 +16,7 @@ partners:
       - {name: "NG Rome MMXIX", description: "Italian Angular Conference",
          link: "https://ngrome.io/home",
          imageUrl: "ngrome.png"}
+      - {name: "Logikamente s.r.l.", description: "Logikamente sviluppa applicazioni software su misura.", link: "https://www.logikamente.it/", imageUrl: "logo-logikamente.jpg"}
       - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
       - {name: "JetBrains", description: "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools.", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png"}
 
@@ -70,6 +71,111 @@ mentors:
       - {name: "twitter", link: "https://twitter.com/ShmuelaJ"}
 
   - id: 4
+    name: "Denise"
+    surname: "Lipparini"
+    company: "Logikamente S.r.l"
+    title: "Scrum Master"
+    description: ""
+    bio: ""
+    thumbnailUrl: denise_lipparini.png
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/xxx"}
+
+  - id: 5
+    name: "Martina"
+    surname: "Carta"
+    title: "Consultant"
+    company: "Consultant"
+    bio: '<p>Started my work path in the IT field as a graphics/UX designer. During my activity I had the chance to apply and improve my passion towards coding by specializing in web application development (MEAN stack) with Angular (starting with version 6) and AngularJS. https://www.linkedin.com/in/martina-carta/</p>'
+    thumbnailUrl: MartinaCarta.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/xxx"}
+
+  - id: 5
+    name: "Chioma"
+    surname: "James"
+    title: "&nbsp;"
+    company: "&nbsp;"
+    bio: "My name is Chioma. I live in Lagos Nigeria and I love Building communities and empowering women. I recently started using Angular and I noticed we have very few women working with Angular.
+           I would love to share with women on my community and all over the world."
+    thumbnailUrl: you.png
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/chiomy0"}
+
+  - id: 6
+    name: "Antonio"
+    surname: "Galio"
+    title: "Full Stack & Mobile Developer"
+    company: "CELLOLE (CE)"
+    bio: "https://antoniogallo.it/"
+    thumbnailUrl: antonio.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/antoniogallo73"}
+
+  - id: 7
+    name: "Dario"
+    surname: "Cristini"
+    title: "IT Engineer"
+    company: "IT Engineer"
+    bio: "Frontend and Cloud Services Architect "
+    thumbnailUrl: you.png
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/xxx"}
+
+  - id: 8
+    name: "Marco"
+    surname: "Ferraioli"
+    title: "Full Stack Developer"
+    company: "Full Stack Developer"
+    bio: "I am a passionate of code, I have start to code at 13 years old and I never stopped to write code."
+    thumbnailUrl: you.png
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/xxx"}
+
+  - id: 9
+    name: "Andres"
+    surname: "Jordan"
+    title: "Product Owner/Software Developer"
+    company: "Kill-Switch"
+    bio: "Andres Jordan is a Science in Systems Engineer, specialist in development of digital products and user experience, organizer of NG Bolivia. "
+    thumbnailUrl: you.png
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/andresjordanze"}
+
+  - id: 10
+    name: "Madeeha"
+    surname: "Hasan"
+    title: "Frontend Engineer"
+    company: "Convo/ Giki"
+    bio: "Computer Science graduate with a can-do attitude, and experience of working in
+           multiple technologies, and developing user-oriented applications. A big fan of Test
+           Driven Development, and Microservice Architecture. My problem solving, decision
+           making and communication skills make me standout among others."
+    thumbnailUrl: you.png
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/h96@_madeeha"}
+
+  - id: 11
+    name: "Juan"
+    surname: "Herrera"
+    title: "&nbsp;"
+    company: "Parkside IT GmbH"
+    bio: ""
+    thumbnailUrl: juan.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/jdjuan"}
+
+
+  - id: 12
     name: "And You?"
     surname: ""
     title: "&nbsp;"
@@ -79,3 +185,5 @@ mentors:
     rockstar: true
     social:
       - {name: "twitter", link: "https://twitter.com/xxx"}
+
+
