@@ -19,7 +19,7 @@ partners:
      - {name: "Capgemini", description: "Capgemini", link: "https://www.capgemini.com/pl-pl/", imageUrl: "Capgemini_Logo_Color_RGB.png"}
 -  group: "With support of"
    elements:
-     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg", width: "250px"}
+     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimatecourses.com/", imageUrl: "ultimate-courses.svg", width: "250px"}
      - {name: "JetBrains", description: "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools.", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png"}
 
 mentors:

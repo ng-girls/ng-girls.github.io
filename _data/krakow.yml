@@ -20,7 +20,7 @@ partners:
 -  group: "With support of"
    elements:
      - {name: "Angular Dragons", description: "Angular Dragons meetup group, Krakow", link: "https://www.meetup.com/Angular-Dragons/", imageUrl: "Angular_Dragons.jpg"}
-     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
+     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimatecourses.com/", imageUrl: "ultimate-courses.svg"}
 
 mentors:
 

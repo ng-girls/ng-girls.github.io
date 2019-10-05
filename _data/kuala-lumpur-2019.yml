@@ -21,7 +21,7 @@ partners:
    group: "With support of"
    elements:
      - {name: "NG MY", description: "NG MY - first angular conference in Southeast Asia", link: "https://2019.ng-my.org/", imageUrl: "ng-my.svg"}
-     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
+     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimatecourses.com/", imageUrl: "ultimate-courses.svg"}
      - {name: "JetBrains", description: "JetBrains -  intelligent development tools", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png", width: "130px"}
      - {name: "Sunway University", description: "Sunway University", link: "https://university.sunway.edu.my/", imageUrl: "sunwayuniversity.jpg", width: "130px"}
      - {name: "Women Who Code Kuala Lumpur", description: "Women Who Code Kuala Lumpur", link: "https://www.facebook.com/womenwhocodekl/", imageUrl: "WWC_Kuala Lumpur.jpg", width: "130px"}

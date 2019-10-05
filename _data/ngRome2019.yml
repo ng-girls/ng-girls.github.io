@@ -17,7 +17,7 @@ partners:
          link: "https://ngrome.io/home",
          imageUrl: "ngrome.png"}
       - {name: "Logikamente s.r.l.", description: "Logikamente sviluppa applicazioni software su misura.", link: "https://www.logikamente.it/", imageUrl: "logo-logikamente.jpg"}
-      - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
+      - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimatecourses.com/", imageUrl: "ultimate-courses.svg"}
       - {name: "JetBrains", description: "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools.", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png"}
 
 posts:

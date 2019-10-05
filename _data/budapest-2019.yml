@@ -16,7 +16,7 @@ partners:
    elements:
      - {name: "Supercharge", description: "We build high-impact mobile products making life easier for millions of users.", link: "https://supercharge.io/", imageUrl: "supercharge.png"}
      - {name: "Craft Conference", description: "Craft is an inclusive and professional conference about software craftship.", link: "https://craft-conf.com/", imageUrl: "craft.png"}
-     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
+     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimatecourses.com/", imageUrl: "ultimate-courses.svg"}
      - {name: "JetBrains", description: "JetBrains -  intelligent development tools", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png", width: "130px"}
      
 

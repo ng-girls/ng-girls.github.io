@@ -8,7 +8,7 @@
 #     - {name: "AngularJS-IL", description: "AngularJS-IL meetup group", link: "http://www.meetup.com/AngularJS-IL/", imageUrl: "AngularJS-IL.png"}
      - {name: "AngularAir", description: "A live videocast all about Angular", link: "https://youtu.be/IEfn4oOIkHg", imageUrl: "ng-air-logo-light.png"}
      - {name: "JetBrains", description: "JetBrains -  intelligent development tools", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png", width: "130px"}
-     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
+     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimatecourses.com/", imageUrl: "ultimate-courses.svg"}
      - {name: "AngularConnect", description: "AngularConnect 2017 conference",
         link: "https://www.angularconnect.com/?utm_source=ng-girls.org&utm_medium=referral&utm_content=ng-girls&utm_campaign=workshops", imageUrl: "angular-connect.png"}
      - {name: "JSPoland", description: "JSPoland", link: "http://www.js-poland.pl/", imageUrl: "js-poland-logo.png", width: "100px"}

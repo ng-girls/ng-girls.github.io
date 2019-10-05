@@ -20,7 +20,7 @@ partners:
      - {name: "NgTalks", description: "NgTalks", link: "https://ngtalks.io/", imageUrl: "NgTalks.png"}
 -  group: "Sponsored by"
    elements:
-     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
+     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimatecourses.com/", imageUrl: "ultimate-courses.svg"}
 
 mentors:
 

@@ -43,7 +43,7 @@ partners:
           link: "https://www.thisdot.co",
           imageUrl: "this-dot-media.png",
         }
-    #- {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
+    #- {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimatecourses.com/", imageUrl: "ultimate-courses.svg"}
     #- {name: "JetBrains", description: "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools.", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png"}
 
 mentors:

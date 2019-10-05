@@ -18,7 +18,7 @@ partners:
         link: "https://www.angularconnect.com/?utm_source=ng-girls.org&utm_medium=referral&utm_content=ng-girls&utm_campaign=workshops",
         imageUrl: "angularconnect2019.svg"}
      - {name: "Angular London", description: "Angular London is the largest Angular meetup in Europe.", link: "https://www.meetup.com/Angular-London/", imageUrl: "angular_london.jpeg"}
-     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
+     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimatecourses.com/", imageUrl: "ultimate-courses.svg"}
      - {name: "JetBrains", description: "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools.", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png"}
 
 posts:

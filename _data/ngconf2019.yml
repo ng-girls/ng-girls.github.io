@@ -26,7 +26,7 @@ partners:
    elements:
      - {name: "ng-conf", description: "ng-conf 2019 - World's original Angular conference", link: "http://www.ng-conf.org/", imageUrl: "ng-conf2019.png"}
 #     - {name: "Microsoft", description: "Microsoft Cloud Developer Advocates", link: "https://developer.microsoft.com/en-us/advocates/index.html", imageUrl: "microsoft.png", width: "150%"}
-     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
+     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimatecourses.com/", imageUrl: "ultimate-courses.svg"}
      - {name: "JetBrains", description: "JetBrains -  intelligent development tools", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png", width: "130px"}
      
 

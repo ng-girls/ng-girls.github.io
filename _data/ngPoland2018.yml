@@ -22,7 +22,7 @@ partners:
      - {name: "SoftwarePlant", description: "SoftwarePlant - BigPicture Project Management JIRA plugin", link: "https://softwareplant.com/", imageUrl: "softwareplant.png", width: "150px"}
 -  group: "With support of"
    elements:
-     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg", width: "250px"}
+     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimatecourses.com/", imageUrl: "ultimate-courses.svg", width: "250px"}
      - {name: "Google", description: "Google", link: "https://www.google.com/", imageUrl: "google.png", width: "350px"}
 
 mentors:

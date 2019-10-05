@@ -19,7 +19,7 @@ partners:
   - group: "With support of"
     elements:
       - {name: "Angular Graz Meetup", description: "Angular Graz Meetup", link: "https://www.meetup.com/de-DE/Angular-Meetup-Graz/", imageUrl: "graz.jpeg", width: "100px"}
-      - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
+      - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimatecourses.com/", imageUrl: "ultimate-courses.svg"}
       - {name: "JetBrains", description: "JetBrains -  intelligent development tools", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png", width: "130px"}
 
 mentors:

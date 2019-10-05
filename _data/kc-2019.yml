@@ -55,7 +55,7 @@ partners:
      - {name: "Waldo Pizza", description: "Kansas City's Great Little Place for Pizza", link: "https://www.waldopizza.net/", imageUrl: "waldo-pizza.png"}
      - {name: "Tech Ladies", description: "A job board and community for women in tech. Join us.", link: "https://www.hiretechladies.com/", imageUrl: "tech-ladies.jpg"}
      - {name: "Chicken N Pickle", description: "Good Food, Good Friends, Good Fun", link: "https://chickennpickle.com/kc/", imageUrl: "chicken-n-pickle.png" }
-     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimateangular.com/", imageUrl: "ultimate-angular.svg"}
+     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimatecourses.com/", imageUrl: "ultimate-courses.svg"}
      - {name: "JetBrains", description: "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools.", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png"}
      - {name: "Angular", description: "Angular is a platform for building mobile and desktop web applications. Join the community of millions of developers who build compelling user interfaces with Angular.", link: "https://angular.io", imageUrl: "angular.svg"}
      - {name: "Everyday Yoga", description: "Yoga for your life with Margaret Buscher", link: "", imageUrl: "everyday-yoga.png"}
