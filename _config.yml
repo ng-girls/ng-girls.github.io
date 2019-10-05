@@ -176,7 +176,7 @@ upcomingEvents:
   - {permalink: "/ng-girls-dc-2019/", text: "ngGirls @ Washington, DC", date: "October 26th<br /> 2019", location: "Washington, DC", name: "ngGirls @ Washington, DC", image: "dc.jpg"}
   - {permalink: "/ngtalks-2019/", text: "ngGirls @ ngTalks", date: "November 5/6th<br /> 2019", location: "Kharkiv", name: "ngGirls @ ngTalks", image: "ngtalks.jpg"}
   -  {permalink: "/graz-2019/", text: "ngGirls @ Graz", date: "November 16th<br /> 2019", location: "Graz", name: "ngGirls @ Graz", image: "graz.jpg"}
-  - {permalink: "/ngPoland-2019/", date: "November 23rd<br /> 2019", location: "Warsaw", name: "ngGirls @ ngPoland"}
+  - {permalink: "/ngPoland-2019/", date: "November 23rd<br /> 2019", location: "Warsaw", name: "ngGirls @ ngPoland", image: "warsaw_small.jpg"}
 
 heroButtons:
   # - {permalink: "/JS-Poland/", text: "ngGirls @ JS-Poland"}
