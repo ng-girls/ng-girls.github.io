@@ -1,4 +1,26 @@
-# Project Zeppelin / GDG DevFest 2014 site template
+# ngGirls Website
+
+## Generate a project
+There is a small script which does 90% of the copy & paste work. We usually use as link ```/city-year/```
+
+Start in the root folder of the repository:
+
+```
+./automation/create_workshop/create.sh
+
+```
+Then you just have to update:
+* overwrite the background-images, even if puppies are nice (small is the preview for the main site)
+* generate the G suite forms and their links (the ngGirls team will help you)
+* link the forms in the workshop specific ```city-year.yml```
+* update workshop links (3x) in ```_config.yml```, first hide them
+* update information in ```city-year.yml```
+* update organizer/mentors in ```city-year.yml```
+* adapt maybe generated countent.
+
+![sample output of using creation script](automation/create_workshop/output_sample.PNG)
+
+## Project Zeppelin / GDG DevFest 2014 site template
 
 ### About 
 Project Zeppelin allows you to setup awesome GDG DevFest site in 5 minutes. 
