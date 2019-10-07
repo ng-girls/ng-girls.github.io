@@ -1,0 +1,54 @@
+heroImage: "moscow.jpg"
+heroImageSmall: "moscow_small.jpg"
+eventDate: "Sunday, November 10th 2019"
+heroDate: " November 10th, 2019"
+date: "<day_of_week>, Sunday, November 10th 2019, 2019"
+address: "at xxx"
+deadline: "Friday, November 1th 2019"
+permalink: "moscow-2019"
+city: "Moscow, Russia"
+applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSc58_GnMi4gMdPyuuHEZdSdLclU-YexfMxnqGl4tLKy4D3Plw/viewform"
+mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSdaFdFmZAQiNf7K6mpdFHHuwC6t7l62BCnJfcrTaMCjYsJ1jw/viewform"
+descriptionTitle: "ngGirls @ Moscow 2019"
+descriptionBlock:
+ - {title: "Who is it for?", template: "moscow-2019/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Schedule", template: "moscow-2019/description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "moscow-2019/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+partners:
+-  group: "With support of"
+   elements:
+     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimatecourses.com/", imageUrl: "ultimate-courses.svg"}
+     - {name: "JetBrains", description: "JetBrains -  intelligent development tools", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png", width: "130px"}
+
+mentors:
+
+
+- id: 1
+  name: "Robert"
+  surname: "Willemelis"
+  title: "web developer"
+  company: "ngGirls team"
+  social:
+    - {name: "twitter", link: "https://twitter.com/robertSPD"}
+  message: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
+          (like jsunconf and craft conf). I met a lot of clever female developer and speaker from which know-how I was
+          impressed and learned. And I think there are a lot more outside and a lot more who have the talent.
+          So it is important to support them.</p>
+          <p>As Shmuela asked for that, I decided within in 30s that it would be an honor to do that.</p>
+          <p>There are several projects with an impressive diversity support and very good material.<p>
+          <p>And last but not least I’m still reading the book of Software craftsmanship by Sandro Mancuso
+          in which he shows how important and good it can be to give something back to the community and how important
+          it is to learn from other developers. And I think I could also learn as a mentor from the participants.</p>
+       "
+  rockstar: true
+  thumbnailUrl: robert.png
+
+- id: 2
+  name: "And You?"
+  surname: ""
+  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/SD5WXiBI80P82Kwp2" target="_blank"> this form</a>.</p>'
+  thumbnailUrl: you.png
+  rockstar: true
+
