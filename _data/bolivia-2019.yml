@@ -6,8 +6,8 @@ date: "<day_of_week> 26 de Octubre, 2019"
 address: "Universidad UCATEC, Cochabamba, Bolivia"
 permalink: "bolivia-2019"
 city: "Cochabamba, Bolivia"
-applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSeIPbcAc8U_rDCVBwTT_cjtgIsumJsBSAVoeRAzF_mCO8XV6w/viewform?usp=sf_link"
-mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSfdquf4kWRveMSHlbHlQzZLQ5YeA5YskP1LYsrTP25Gj7okZA/viewform?usp=sf_link"
+applicationForm: "https://forms.gle/xvffjfzHwg1YsbPT8"
+mentorsForm: "https://forms.gle/nYUSd8jPPYqVjNNE7"
 descriptionTitle: "ngGirls @ bolivia"
 descriptionBlock:
  - {title: "¿Para quién es?", template: "bolivia-2019/description-who-is-it-for.html", link: "/#faq", linkTitle: "Échale un vistazo a las preguntas frecuentes"}
@@ -27,6 +27,6 @@ mentors:
 - id: 1
   name: "¿Tú?"
   surname: ""
-  bio: '<p>¡Anímate a participar como mentor! No necesitas ser un experto. Solo llena el <a href="https://docs.google.com/forms/d/e/1FAIpQLSfdquf4kWRveMSHlbHlQzZLQ5YeA5YskP1LYsrTP25Gj7okZA/viewform?usp=sf_link" target="_blank">formulario de aplicación</a>.</p>'
+  bio: '<p>¡Anímate a participar como mentor! No necesitas ser un experto. Solo llena el <a href="https://forms.gle/nYUSd8jPPYqVjNNE7" target="_blank">formulario de aplicación</a>.</p>'
   thumbnailUrl: you.png
   rockstar: true
