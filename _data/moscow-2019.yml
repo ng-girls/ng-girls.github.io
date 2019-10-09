@@ -1,9 +1,9 @@
 heroImage: "moscow.jpg"
 heroImageSmall: "moscow_small.jpg"
-eventDate: "Sunday, November 10th 2019"
-heroDate: " November 10th, 2019"
-date: "<day_of_week>, Sunday, November 10th 2019, 2019"
-address: "at xxx"
+eventDate: "Monday, November 11th 2019"
+heroDate: " November 11th, 2019"
+date: "<day_of_week>, Monday, November 11th 2019, 2019"
+address: "at Google Office (Balchug Street, 7, Moscow, Russia, 115035)"
 deadline: "Friday, November 1th 2019"
 permalink: "moscow-2019"
 city: "Moscow, Russia"
@@ -19,13 +19,28 @@ descriptionBlock:
 partners:
 -  group: "With support of"
    elements:
+     - {name: "Angular Moscow", description: "Angular Moscow user group", link: "https://www.meetup.com/en-US/AngularMoscow/", imageUrl: "angular_moscow.jpg"}
+     - {name: "Google", description: "Google", link: "https://www.google.com/", imageUrl: "Google_logo.jpg"}
      - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimatecourses.com/", imageUrl: "ultimate-courses.svg"}
      - {name: "JetBrains", description: "JetBrains -  intelligent development tools", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png", width: "130px"}
 
 mentors:
 
 
+
 - id: 1
+  name: "Ekaterina"
+  surname: "Vinnichenko"
+  title: "web developer"
+  company: "ngGirls team"
+  social:
+    - {name: "twitter", link: "https://twitter.com/vertigo87"}
+  message: "<p></p>
+       "
+  rockstar: true
+  thumbnailUrl: ekaterina.png
+
+- id: 2
   name: "Robert"
   surname: "Willemelis"
   title: "web developer"
@@ -45,7 +60,22 @@ mentors:
   rockstar: true
   thumbnailUrl: robert.png
 
-- id: 2
+- id: 3
+  name: "Aleksey"
+  surname: "Okhrimenko"
+  title: "web developer"
+  company: "Organizer"
+  social:
+    - {name: "twitter", link: "https://twitter.com/obenjiro"}
+  message: "<p></p>
+       "
+  rockstar: true
+  thumbnailUrl: aleksei.jpg
+
+
+
+
+- id: 4
   name: "And You?"
   surname: ""
   bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/SD5WXiBI80P82Kwp2" target="_blank"> this form</a>.</p>'
