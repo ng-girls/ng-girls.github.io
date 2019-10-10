@@ -1,0 +1,32 @@
+heroImage: "bolivia.jpg"
+heroImageSmall: "bolivia_small.jpg"
+eventDate: "Sábado 26 de Octubre, 2019"
+heroDate: "Sábado 26 de Octubre, 2019"
+date: "<day_of_week> 26 de Octubre, 2019"
+address: "Universidad UCATEC, Cochabamba, Bolivia"
+permalink: "bolivia-2019"
+city: "Cochabamba, Bolivia"
+applicationForm: "https://forms.gle/xvffjfzHwg1YsbPT8"
+mentorsForm: "https://forms.gle/nYUSd8jPPYqVjNNE7"
+descriptionTitle: "ngGirls @ bolivia"
+descriptionBlock:
+ - {title: "¿Para quién es?", template: "bolivia-2019/description-who-is-it-for.html", link: "/#faq", linkTitle: "Échale un vistazo a las preguntas frecuentes"}
+ - {title: "¿Puedo ayudar?", template: "bolivia-2019/description-can-i-help.html", link: "/#help", linkTitle: "contáctanos"}
+ - {title: "Código de Conducta", template: "bolivia-2019/code-of-conduct.html"}
+partners:
+-  group: "Organizado por"
+   elements:
+     - {name: "Angular Bolivia", description: "Community of Angular developers in Bolivia", link: "https://www.meetup.com/Angular-Bolivia/", imageUrl: "angular-bolivia.png"}
+-  group: "Con el apoyo de"
+   elements:
+     - {name: "Universidad UCATEC", description: "Universidad UCATEC", link: "http://ucatec.edu.bo/", imageUrl: "universidad-ucatec.png"}
+     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimatecourses.com/", imageUrl: "ultimate-courses.svg"}
+     - {name: "JetBrains", description: "JetBrains -  intelligent development tools", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png", width: "130px"}
+     - {name: "Jalasoft", description: "Jalasoft", link: "http://www.jalasoft.com/", imageUrl: "Jalasoft.png"}
+mentors:
+- id: 1
+  name: "¿Tú?"
+  surname: ""
+  bio: '<p>¡Anímate a participar como mentor! No necesitas ser un experto. Solo llena el <a href="https://forms.gle/nYUSd8jPPYqVjNNE7" target="_blank">formulario de aplicación</a>.</p>'
+  thumbnailUrl: you.png
+  rockstar: true
