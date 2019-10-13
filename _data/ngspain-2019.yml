@@ -7,6 +7,7 @@ mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSctMazcGfDldgbb2le-lIxBrW
 descriptionTitle: "ngGirls @ ngSpain 2019"
 descriptionBlock:
  - {title: "Who is it for?", template: "ngspain-2019/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Schedule", template: "ngspain-2019/description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
  - {title: "Can I help?", template: "ngspain-2019/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
                   <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
                   From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
@@ -54,7 +55,7 @@ mentors:
     rockstar: true
     social:
       - {name: "twitter", link: "https://twitter.com/robertSPD"}
-  
+
   - id: 3
     name: "Martina"
     surname: "Kraus"
@@ -67,8 +68,51 @@ mentors:
     social:
       - {name: "twitter", link: "https://twitter.com/martinakraus"}
 
-
   - id: 4
+    name: "Cornelia"
+    surname: "Rauch"
+    title: "&nbsp;"
+    company: "SOFTWAREarchitekt.at"
+    bio: ""
+    thumbnailUrl: cornelia-rauch.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/rauchco"}
+
+  - id: 5
+    name: "Jesus"
+    surname: "Cuesta"
+    title: "Tech Lead CEJS"
+    company: "atSistemas"
+    bio: ""
+    thumbnailUrl: jcuesta.png
+    rockstar: true
+    social:
+      - {name: "github", link: "https://github.com/jesuscuesta"}
+
+  - id: 6
+    name: "Alba"
+    surname: "Lopez"
+    title: "Senior Frontend;"
+    company: "Keeeb"
+    bio: ""
+    thumbnailUrl: alba-lopez.jpg
+    rockstar: true
+    social:
+      - {name: "github", link: "https://github.com/AlbaLopez"}
+
+  - id: 7
+    name: "Stefanie"
+    surname: "Knoth"
+    company: "&nbsp;"
+    bio: "<p>I'm a web developer who is enthusiastic about the possibilities of the internet to bring people together and make the world a better place. I am participating in ngGirls because I want to use my skills to help empowering women and give something back to the community.</p>
+  "
+    thumbnailUrl: stefanie.png
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/sknoth"}
+
+  - id: 8
     name: "And You?"
     surname: ""
     company: "&nbsp;"
