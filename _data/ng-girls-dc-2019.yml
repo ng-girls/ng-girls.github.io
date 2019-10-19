@@ -85,6 +85,21 @@ mentors:
   - {name: "linkedin", link: "https://www.linkedin.com/in/brendan-sawyer-252a569b/"}
 
 - id: 5
+  name: "Kris"
+  surname: "Rivera"
+  company: "DivvyCloud"
+  title: "Frontend Lead"
+  thumbnailUrl: krisrivera.jpg
+  rockstar: true
+  role: "Organizer & Mentor"
+  link: https://twitter.com/kkrivera
+  bio: Kris Rivera is Frontend Lead at DivvyCloud in Arlington, VA. He has been working as a Software Developer for over 12 years and loves anything technology. He likes reading science fiction and fantasy novels, playing video games, exercising, and, of course, coding.
+  social:
+  - {name: "github", link: "https://github.com/kkrivera"}
+  - {name: "twitter", link: "https://twitter.com/kkrivera"}
+  - {name: "linkedin", link: "https://www.linkedin.com/in/kris-r-809384a4/"}
+
+- id: 6
   name: "And You?"
   surname: ""
   company: "&nbsp;"
