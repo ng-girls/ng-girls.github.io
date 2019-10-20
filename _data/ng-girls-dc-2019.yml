@@ -100,11 +100,44 @@ mentors:
   - {name: "linkedin", link: "https://www.linkedin.com/in/kris-r-809384a4/"}
 
 - id: 6
-  name: "And You?"
-  surname: ""
-  company: "&nbsp;"
-  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmz5N87i0MP_fL_3VFQg5edCO3cZrgAdsxc0Z476l_BTG2RA/viewform" target="_blank"> this form</a>.</p>'
+  name: "Jay"
+  surname: "Wilson Jr."
+  company: "NDG Communications"
+  title: "Digital Development Manager & Full-Stack Developer"
+  thumbnailUrl: JayWilsonJunior.jpg
+  rockstar: true
+  role: "Mentor"
+  link: https://twitter.com/jaywilsonjr
+  bio: Jay Wilson Jr. is the digital development manager and full-stack developer at NDG Communications, a full-service advertising and digital marketing agency that serves the real estate development and new home construction verticals. Prior to joining NDG, Jay was a firefighter, EMT and CPR instructor in central Virginia for over a decade. Whether he's at work or not, Jay likes getting people excited about the things he's excited about and, right now, he's excited about everything and anything in tech.
+  social:
+  - {name: "github", link: "https://github.com/jaywilsonjr"}
+  - {name: "twitter", link: "https://twitter.com/jaywilsonjr"}
+
+- id: 7
+  name: "Brendon"
+  surname: "Caulkins"
+  company: "Excella"
+  title: "Senior Javascript Developer"
+  thumbnailUrl: brendon-caulkins.jpg
+  rockstar: true
+  role: "Mentor"
+  link: https://twitter.com/BrendonCaulkins
+  bio: Brendon Caulkins is a full-stack developer based in the Washington, DC area.  He has a decade of product testing experience evaluating custom hardware and software systems, including coding fully featured, customizable automated testing applications.  Since late 2017, he has been working with Angular, React, JavaScript and Java as a Senior Consultant with Excella.  He attends and speaks at local conferences and meetups about agile concepts, XP practices and anything related to testing.  Brendon enjoys hiking, science-fiction, and still plays with LEGOs.  He can be engaged in technical discussions or movie-quote trivia contests on Twitter at @BrendonCaulkins.
+  social:
+  - {name: "github", link: "https://github.com/brendoncaulkins"}
+  - {name: "twitter", link: "https://twitter.com/BrendonCaulkins"}
+
+- id: 8
+  name: "Isatu"
+  surname: "Conteh"
+  company: "Inspire"
+  title: "Frontend Developer"
   thumbnailUrl: you.png
   rockstar: true
+  role: "Mentor"
+  link: http://isaconteh.com/
+  bio: Isa is a Front End Developer at a small company in Arlington called Inspire. They specialize in building online communities for people managing complex and sometimes chronic diseases. She is currently spear-heading UI development for multiple new projects and assisting in building the UI for a suite of new products including mobile apps and PWAs.
   social:
-    - {name: "twitter", link: "https://twitter.com/AngularGirls"}
+  - {name: "github", link: "https://github.com/Freetown5"}
+  - {name: "twitter", link: "https://twitter.com/iconteh21"}
+  - {name: "linkedin", link: "https://www.linkedin.com/in/isatu-conteh-490b0316/"}
