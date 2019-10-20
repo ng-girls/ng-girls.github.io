@@ -100,21 +100,6 @@ mentors:
   - {name: "linkedin", link: "https://www.linkedin.com/in/kris-r-809384a4/"}
 
 - id: 6
-  name: "Kris"
-  surname: "Rivera"
-  company: "DivvyCloud"
-  title: "Frontend Lead"
-  thumbnailUrl: krisrivera.jpg
-  rockstar: true
-  role: "Organizer & Mentor"
-  link: https://twitter.com/kkrivera
-  bio: Kris Rivera is Frontend Lead at DivvyCloud in Arlington, VA. He has been working as a Software Developer for over 12 years and loves anything technology. He likes reading science fiction and fantasy novels, playing video games, exercising, and, of course, coding.
-  social:
-  - {name: "github", link: "https://github.com/kkrivera"}
-  - {name: "twitter", link: "https://twitter.com/kkrivera"}
-  - {name: "linkedin", link: "https://www.linkedin.com/in/kris-r-809384a4/"}
-
-- id: 7
   name: "Jay"
   surname: "Wilson Jr."
   company: "NDG Communications"
@@ -128,7 +113,7 @@ mentors:
   - {name: "github", link: "https://github.com/jaywilsonjr"}
   - {name: "twitter", link: "https://twitter.com/jaywilsonjr"}
 
-- id: 8
+- id: 7
   name: "Brendon"
   surname: "Caulkins"
   company: "Excella"
@@ -142,7 +127,7 @@ mentors:
   - {name: "github", link: "https://github.com/brendoncaulkins"}
   - {name: "twitter", link: "https://twitter.com/BrendonCaulkins"}
 
-- id: 9
+- id: 8
   name: "Isatu"
   surname: "Conteh"
   company: "Inspire"
