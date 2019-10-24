@@ -141,3 +141,32 @@ mentors:
   - {name: "github", link: "https://github.com/Freetown5"}
   - {name: "twitter", link: "https://twitter.com/iconteh21"}
   - {name: "linkedin", link: "https://www.linkedin.com/in/isatu-conteh-490b0316/"}
+
+- id: 9
+  name: "Rajen"
+  surname: "Tandel"
+  company: "Altron Inc."
+  title: "Software Engineer"
+  thumbnailUrl: rajen-tandel.jpg
+  rockstar: true
+  role: "Mentor"
+  link: https://github.com/rtandel
+  bio: Software Engineer at Altron Inc.
+  social:
+  - {name: "github", link: "https://github.com/rtandel"}
+  - {name: "twitter", link: "https://twitter.com/rtandel124"}
+  - {name: "linkedin", link: "https://www.linkedin.com/in/rajen-tandel-957953104/"}
+
+- id: 8
+  name: "Spencer"
+  surname: "LeBlanc"
+  company: "Apogee Integration"
+  title: "Associate"
+  thumbnailUrl: spencer-leblanc.jpg
+  rockstar: true
+  role: "Mentor"
+  link: https://github.com/spencleb
+  bio: Associate at Apogee Integration
+  social:
+  - {name: "github", link: "https://github.com/spencleb"}
+  - {name: "linkedin", link: "https://www.linkedin.com/in/spencer-leblanc-81140512a/"}
