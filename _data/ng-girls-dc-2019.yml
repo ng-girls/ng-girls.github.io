@@ -1,5 +1,4 @@
 eventDate: "October 26th, 2019, Washington, DC"
-applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSfsCJJEdGDskIQmrCqSe0bE-6GRL1cmo4CDmRXzTFfjvoDiag/viewform"
 mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSdmz5N87i0MP_fL_3VFQg5edCO3cZrgAdsxc0Z476l_BTG2RA/viewform"
 descriptionTitle: "ngGirls @ Washington, DC"
 descriptionBlock:
@@ -13,8 +12,7 @@ posts:
 - title: "Announcing ngGirls @ Washington, DC!"
 - content: "
   <p class='post-body'>
-    <b>Excited to announce an ngGirls workshop in Washington, DC!</b>
-    <br>The <b>free</b> workshop for all skill levels (beginners welcome!!) will be held on Saturday, October 26th, 2019 at the Arlington Tech Exchange - Excella Consulting. Application and Call for Mentors are open!
+    <h4 class='warning'>The deadline has passed and we are no longer accepting applications.</h4>
   </p>
 "
 
