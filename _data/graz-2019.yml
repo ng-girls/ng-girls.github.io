@@ -18,6 +18,8 @@ partners:
 
   - group: "With support of"
     elements:
+      - {name: "Angular Austria", description: "The non-profit association to push Angular in Austria and beyond.",
+           link: "https://angular-austria.at/", imageUrl: "Angular-Austria.png"}
       - {name: "Angular Graz Meetup", description: "Angular Graz Meetup", link: "https://www.meetup.com/de-DE/Angular-Meetup-Graz/", imageUrl: "graz.jpeg", width: "100px"}
       - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimatecourses.com/", imageUrl: "ultimate-courses.svg"}
       - {name: "JetBrains", description: "JetBrains -  intelligent development tools", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png", width: "130px"}
@@ -90,6 +92,39 @@ mentors:
       - {name: "twitter", link: "https://twitter.com/rauchco"}
 
   - id: 6
+    name: "Isabella"
+    surname: "Senekowitsch"
+    title: "&nbsp;"
+    company: "BearingPoint RegTech"
+    bio: ""
+    thumbnailUrl: Isabella.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/xxx"}
+
+  - id: 7
+    name: "Murat"
+    surname: "Sari"
+    title: "&nbsp;"
+    company: "CodeRabbit GmbH"
+    bio: ""
+    thumbnailUrl: murat.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/wolfmanfx"}
+
+  - id: 8
+    name: "Amina"
+    surname: "Hasimbegovic"
+    title: "&nbsp;"
+    company: "Siemens Healthcare GmbH"
+    bio: ""
+    thumbnailUrl: amina.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/aaa"}
+
+  - id: 9
     name: "And You?"
     surname: ""
     company: "&nbsp;"
