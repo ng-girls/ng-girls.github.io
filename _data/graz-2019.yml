@@ -125,6 +125,17 @@ mentors:
       - {name: "twitter", link: "https://twitter.com/aaa"}
 
   - id: 9
+    name: "Hladky"
+    surname: "Michael"
+    title: "&nbsp;"
+    company: "ngVienna"
+    bio: ""
+    thumbnailUrl: MichaelHladky.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/Michael_Hladky"}
+
+  - id: 10
     name: "And You?"
     surname: ""
     company: "&nbsp;"
