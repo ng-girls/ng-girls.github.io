@@ -125,10 +125,10 @@ mentors:
       - {name: "twitter", link: "https://twitter.com/aaa"}
 
   - id: 9
-    name: "Hladky"
-    surname: "Michael"
+    name: "Michael"
+    surname: "Hladky"
     title: "&nbsp;"
-    company: "ngVienna"
+    company: "Angular Austria Association"
     bio: ""
     thumbnailUrl: MichaelHladky.jpg
     rockstar: true
