@@ -1,18 +1,20 @@
 heroImage: "bolivia.jpg"
 heroImageSmall: "bolivia_small.jpg"
-eventDate: "Sábado 26 de Octubre, 2019"
-heroDate: "Sábado 26 de Octubre, 2019"
-date: "<day_of_week> 26 de Octubre, 2019"
+eventDate: "Sábado 30 de Noviembre, 2019"
+heroDate: "Sábado 30 de Noviembre, 2019"
+date: "<day_of_week> 30 de Noviembre, 2019"
 address: "Universidad UCATEC, Cochabamba, Bolivia"
 permalink: "bolivia-2019"
 city: "Cochabamba, Bolivia"
 applicationForm: "https://forms.gle/xvffjfzHwg1YsbPT8"
 mentorsForm: "https://forms.gle/nYUSd8jPPYqVjNNE7"
 descriptionTitle: "ngGirls @ bolivia"
+descriptionCODTitle: "Código de Conducta"
 descriptionBlock:
  - {title: "¿Para quién es?", template: "bolivia-2019/description-who-is-it-for.html", link: "/#faq", linkTitle: "Échale un vistazo a las preguntas frecuentes"}
  - {title: "¿Puedo ayudar?", template: "bolivia-2019/description-can-i-help.html", link: "/#help", linkTitle: "contáctanos"}
- - {title: "Código de Conducta", template: "bolivia-2019/code-of-conduct.html"}
+descriptionCODBlock:
+ - {title: "Lee con atención nuestro código de conducta", template: "bolivia-2019/code-of-conduct.html"}
 partners:
 -  group: "Organizado por"
    elements:
@@ -25,8 +27,138 @@ partners:
      - {name: "Jalasoft", description: "Jalasoft", link: "http://www.jalasoft.com/", imageUrl: "Jalasoft.png"}
 mentors:
 - id: 1
-  name: "¿Tú?"
+  name: "María Rene Torrez Vargas"
   surname: ""
-  bio: '<p>¡Anímate a participar como mentor! No necesitas ser un experto. Solo llena el <a href="https://forms.gle/nYUSd8jPPYqVjNNE7" target="_blank">formulario de aplicación</a>.</p>'
-  thumbnailUrl: you.png
+  bio: '<p>Entusiasta de la tecnologia, educadora de corazón sobre todo en temas de tecnologia, Desarrolladora front End Freelance, Mentora en Technovation Girls & Families, Instructora de CISCO/DEV. Paticipa de las comunidades GDG GEG WTM CISCO Comunity y le apasiona la producción audiovisual y tv.</p>'
+  thumbnailUrl: maria.jpg
+  rockstar: true
+- id: 2
+  name: "Fernando Quinteros Gutierrez"
+  surname: ""
+  bio: '<p>Fernando es estudiante de secundaria, apasionado por la tecnología, con conocimientos full-stack en JavaScript y entusiasta de compartir sus conocimientos web o mobile a través de charlas, artículos o tutoriales. Actualmente trabaja como profesor privado enseñando tecnologías web y es miembro activo del GDG Cochabamba, Angular Bolivia, React Bolivia y ADEVI.</p>'
+  thumbnailUrl: fernando.jpg
+  rockstar: true
+- id: 3
+  name: "Rene Cardozo"
+  surname: ""
+  bio: '<p>Es fullstack developer con más de 4 años de experiencia. Trabaja principalmente con Angular 2+ y Angularjs. Le gusta enseñar y compartir conocimiento. Cree en las personas y en su potencial, es por eso que alienta a las personas con las que se rodea a seguir sus metas compartiendo con ellos su experiencia.</p>'
+  thumbnailUrl: rene.jpg
+  rockstar: true
+- id: 4
+  name: "Hebert Gustavo Pacchi Villarroel"
+  surname: ""
+  bio: '<p>Front-end Developer con pasión por el UX/UI Design, ha sido miembro activo en comunidades como Angular Bolivia, GDG Cochabamba y Sketch Bolivia, ha colaborado en la organización de varios eventos de tecnología. Ha dado charlas sobre diseño en Sketch Bolivia y actualmente trabaja en producción audiovisual y UI/UX Design.</p>'
+  thumbnailUrl: gustavo.jpg
+  rockstar: true
+- id: 5
+  name: "Clara Isabel Soria López"
+  surname: ""
+  bio: '<p>Clara es una estudiante de Ingeniería de sistemas, tiene 22 años, es proactiva y ha participado del NgGirls 2018, pero este año le encantaría poder aportar y apoyar, cree firmemente que el mundo de la programación es un mundo que nunca deja de crecer y del cual nunca se deja de aprender, ella ya desarrollo dos proyectos en Angular, uno de ellos participo en el 1er AppChallenge de la BBV y actualmente desarrolla un proyecto en Ionic, está aprendiendo .Net Core y pertenece a una nueva comunidad de Vue-Girls, en la cual aprende e intenta motivar a que más personas puedan aprender sobre este framework.</p>'
+  thumbnailUrl: clara.jpg
+  rockstar: true
+- id: 6
+  name: "Marcela Llanos"
+  surname: ""
+  bio: '<p>Marcela es una ingeniera en sistemas egresada de la universidad mayor de san simon, es apasionada al desarrollo web e incentivar a mujeres en el mundo del desarrollo.</p>'
+  thumbnailUrl: marcela.png
+  rockstar: true
+- id: 7
+  name: "Allan Leon Mendieta"
+  surname: ""
+  bio: '<p>Allan es un Ingeniero de Software, que actualmente trabaja en Jalasoft. Estuvo desempeñándose los dos últimos años como desarrollador front-end principalmente. Organizador de la comunidad GDG Cochabamba. Entusiasta de eventos de tecnología en general, participante con reconocimientos en diferentes hackathones y competencias de programación. Sus principales áreas de interés son: desarrollo de videojuegos, desarrollo web y la integración de la tecnología con el arte.</p>'
+  thumbnailUrl: allan.jpg
+  rockstar: true
+- id: 8
+  name: "Adriana Iris Escobar Escobar"
+  surname: ""
+  bio: '<p>Le gusta aprender, forma parte de la comunidad de pyLadies.</p>'
+  thumbnailUrl: adriana.jpeg
+  rockstar: true
+- id: 9
+  name: "Rocio Encinas"
+  surname: ""
+  bio: '<p>Apasionada por la tecnologia y más si es frontend, le gusta aprender nuevas cosas, además de dar training. En su tiempo libre practica algunos deportes como fútbol, natación y badminton :)</p>'
+  thumbnailUrl: rocio.jpg
+  rockstar: true
+- id: 10
+  name: "Oscar Sergio Gonzalez Camacho"
+  surname: ""
+  bio: '<p>Oscar es un desarrollador de software todo terreno, sabe un poco de todo y mucho de nada. Actualmente trabaja como Project Manager e Ingeniero de Software en AITBOL S.R.L. utilizando Angular en varios proyectos. Le apasiona jugar con múltiples tecnologías y estuvo implicando en el desarrollo de pipelines de minería y procesamiento de datos, implementación de software para telecomunicaciones, desarrollo móvil y cloud computing. Miembro activo de GDG Cochabamba y Organizador de la comunidad Facebook Developers Circle Cochabamba. Le encanta viajar y comer ;)</p>'
+  thumbnailUrl: oscar.jpg
+  rockstar: true
+- id: 11
+  name: "Cesar Gustavo Serrudo Hurachi"
+  surname: ""
+  bio: '<p>Es una persona apasionada por la tecnologia, le gusta mucho aprender y participar de las comunidades y también le gustaria enseñar y compartir con estas.</p>'
+  thumbnailUrl: cesar.jpg
+  rockstar: true
+- id: 12
+  name: "Brian Dennis Vega Hidalgo"
+  surname: ""
+  bio: '<p>Es un experto en desarrollo móvil y web con 4 años de experiencia, le encantan las comunidades, y quisiera poder compartir todo su conocimiento.</p>'
+  thumbnailUrl: brian.jpg
+  rockstar: true
+- id: 13
+  name: "Jhanina Meliza Romero Lazcano"
+  surname: ""
+  bio: '<p>Es estudiante de ingenieria en Sistemas de último año. Ha trabajado con backend y frontend. Está interesada en aprender y compartir conocimientos.</p>'
+  thumbnailUrl: jhanina.jpg
+  rockstar: true
+- id: 14
+  name: "Jacqueline Susan Mejía Cáceres"
+  surname: ""
+  bio: '<p>Jacqueline más conocida como Susy es una apasionada del diseño y la inteligencia artificial, le gusta cantar y la música cursi. Actualmente desarrolla sus poderes de comunicación con otras personas y las de compartir conocimiento de manera presencial. Participa en el GDG Cochabamba y WTM Cochabamba.</p>'
+  thumbnailUrl: susy.jpg
+  rockstar: true
+- id: 15
+  name: "Daniela Meneses"
+  surname: ""
+  bio: '<p>Daniela trabaja como developer en Jalasoft por casi 4 años, ella ha trabajado con diferentes tecnologías / lenguajes como: Java, Javascript, Smalltalk, Mongo y Scala. Le gusta mucho aprender cosas nuevas y el trabajo en equipo. También trabaja en Fundación Jala como trainer para los programas de Desarrollo, Investigation y Robotica desde hace 3 años. Es parte de GP4Tech y participa como trainer en los eventos de Weekend Coding, dando talleres de HTML / CSS y ayudando a crear el sitio oficial de la comunidad.</p>'
+  thumbnailUrl: daniela.jpg
+  rockstar: true
+- id: 16
+  name: "Mauricio Arce"
+  surname: ""
+  bio: '<p>Mauricio es un apasionado del desarrollo web y de participar en comunidades. Actualmente trabaja como desarrollador de software en Jalasoft. Es parte del equipo organizador del Startup Weekend Cochabamba y Tech Lead del mismo. Miembro del Core Team de la comunidad Angular Bolivia, speaker en la comunidad y parte del Web Team del equipo organizador del NG Bolivia. Miembro activo de la comunidad GP4Tech, donde aparte de ser parte del equipo de desarrollo, ayuda a chicas y chicos de colegio con temas relacionados a desarrollo a través de charlas y talleres.</p>'
+  thumbnailUrl: mauri.jpeg
+  rockstar: true
+- id: 17
+  name: "Ronald Chipana"
+  surname: ""
+  bio: '<p>Le gusta mucho el desarrollo con angular y participa en la comunidad gdg cochabamba.</p>'
+  thumbnailUrl: ronald.jpg
+  rockstar: true
+- id: 18
+  name: "Ivo Rojas"
+  surname: ""
+  bio: '<p>Desarrollador de software.</p>'
+  thumbnailUrl: ivo.jpeg
+  rockstar: true
+- id: 19
+  name: "Daniel Asin"
+  surname: ""
+  bio: '<p>Desarrollador con ganas de aprender y compartir conocimiento.</p>'
+  thumbnailUrl: daniel.jpg
+  rockstar: true
+- id: 20
+  name: "Mauricio Antonio Vargas Luizaga"
+  surname: ""
+  bio: '<p>Antonio es un desarrollador de software, actualmente trabajando en FE y mejorando sus skills en BE para llegar a ser Fullstack :). Actualmente pertenece a la comunidad de Angular Bolivia.</p>'
+  thumbnailUrl: antonio.jpg
+  rockstar: true
+organizers:
+- id: 21
+  name: "Griselda García"
+  surname: ""
+  thumbnailUrl: griss.jpeg
+  rockstar: true
+- id: 22
+  name: "Lizzy Mendivil"
+  surname: ""
+  thumbnailUrl: lizzy.jpeg
+  rockstar: true
+- id: 23
+  name: "Gabriela Torrico"
+  surname: ""
+  thumbnailUrl: gaby.jpg
   rockstar: true
