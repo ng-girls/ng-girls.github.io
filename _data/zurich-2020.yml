@@ -39,7 +39,7 @@ mentors:
   - id: 2
     name: "Fabian"
     surname: "Gosebrink"
-    company: "&nbsp;"
+    company: "Offering Solutions Software GmbH"
     bio: '<p>Fabian is Microsoft MVP, GDE and Angular & ASP.NET Core web developer. As a software engineer, consultant, speaker and trainer, he supports customers building web applications with more than 10 years of experience. Fabian is very active in the community such as leading the SwissAngular community.</p>'
     thumbnailUrl: fabian.jpg
     rockstar: true
