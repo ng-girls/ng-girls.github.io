@@ -1,0 +1,59 @@
+heroImage: "zurich.jpg"
+date: "Friday, February 21st, 2020"
+location: "Google Europaallee F – Europaallee 36, 8004 Zurich · Swiss"
+deadline: "February 1st, 2020"
+eventDate: "February 21st, 2020, Zurich, Swiss"
+applicationForm: "https://forms.gle/NJMfdsjXXqykLJNY8"
+mentorsForm: "https://forms.gle/himnBcFAyH97Y5Gt6"
+descriptionTitle: "ngGirls @ Zurich"
+descriptionBlock:
+  - {title: "Who is it for?", template: "zurich_2020/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+  - {title: "Schedule", template: "zurich_2020/description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+  - {title: "Can I help?", template: "zurich_2020/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+
+
+partners:
+
+  - group: "With support of"
+    elements:
+      - {name: "Trivadis AG", description: "Trivadis AG", link: "https://www.trivadis.com", imageUrl: "trivadis.jpeg", width: "100px"}
+      - {name: "Offering Solutions Software", description: "YOUR PARTNER FOR ANGULAR && ASP.NET CORE", link: "https://offering.solutions/", imageUrl: "offering-solutions.jpg"}
+      - {name: "JetBrains", description: "JetBrains -  intelligent development tools", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png", width: "130px"}
+
+mentors:
+
+  - id: 1
+    name: "Martina"
+    surname: "Kraus"
+    title: "&nbsp;"
+    company: "Organizer"
+    bio: "<p>Martina Kraus always had a strong interest in Web-Engineering. At inovex GmbH she focuses on implementing highly scalable software-solution with Node.Js and Angular.
+          Besides her work as a lecturer at the Hochschule Mannheim, she also co-organizes the loca Angular Heidelberg Meetup, is the Founder of the JavaScript User group and an organizer for AngularGirls Events.<p>"
+    thumbnailUrl: martina.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/MartinaKraus11"}
+
+  - id: 2
+    name: "Fabian"
+    surname: "Gosebrink"
+    company: "&nbsp;"
+    bio: '<p>Fabian is Microsoft MVP, GDE and Angular & ASP.NET Core web developer. As a software engineer, consultant, speaker and trainer, he supports customers building web applications with more than 10 years of experience. Fabian is very active in the community such as leading the SwissAngular community.</p>'
+    thumbnailUrl: fabian.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/FabianGosebrink"}
+
+  - id: 3
+    name: "And You?"
+    surname: ""
+    company: "&nbsp;"
+    bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
+    thumbnailUrl: you.png
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/xxx"}
+
+
