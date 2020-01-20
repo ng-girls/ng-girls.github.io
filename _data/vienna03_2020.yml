@@ -1,0 +1,62 @@
+heroImage: "vienna.jpg"
+date: "Sunday, March 15th, 2020"
+location: "STOCKWERK Coworking GmbH Pater-Schwartz-Gasse 11A, 1150 in Vienna, Austria"
+deadline: "<strike>February 23th, 2020</strike> (extended to October 7th)"
+eventDate: "March 15th, 2020, Vienna, Austria"
+applicationForm: "https://forms.gle/En6R5RBbSKbBFBCDA"
+mentorsForm: "https://forms.gle/hjVHG1WZV9cuJ7mn8"
+descriptionTitle: "ngGirls @ Vienna"
+descriptionBlock:
+  - {title: "Who is it for?", template: "vienna03_2020/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+  - {title: "Schedule", template: "vienna03_2020/description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+  - {title: "Can I help?", template: "vienna03_2020/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+
+
+partners:
+
+  - group: "With support of"
+    elements:
+      - {name: "Angular Austria", description: "The non-profit association to push Angular in Austria and beyond.",
+         link: "https://angular-austria.at/", imageUrl: "Angular-Austria.png"}
+      - {name: "Angular Vienna Meetup", description: "Angular Vienna Meetup", link: "https://www.meetup.com/Angular-Vienna", imageUrl: "angular_vienna.jpeg", width: "100px"}
+      # - {name: "ebcont", description: "ebcont -IT solutions with handshake quality", link: "https://www.ebcont.com/", imageUrl: "ebcont-group.png"}
+      - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimatecourses.com/", imageUrl: "ultimate-courses.svg"}
+      - {name: "JetBrains", description: "JetBrains -  intelligent development tools", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png", width: "130px"}
+
+mentors:
+  - id: 1
+    name: "Martina"
+    surname: "Kraus"
+    title: "&nbsp;"
+    company: "Organizer"
+    bio: "<p>Martina Kraus always had a strong interest in Web-Engineering. At inovex GmbH she focuses on implementing highly scalable software-solution with Node.Js and Angular.
+          Besides her work as a lecturer at the Hochschule Mannheim, she also co-organizes the loca Angular Heidelberg Meetup, is the Founder of the JavaScript User group and an organizer for AngularGirls Events.<p>"
+    thumbnailUrl: martina.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/martinakraus"}
+      -
+  - id: 2
+    name: "Hladky"
+    surname: "Michael"
+    title: "&nbsp;"
+    company: "ngVienna"
+    bio: ""
+    thumbnailUrl: MichaelHladky.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/Michael_Hladky"}
+
+  - id: 3
+    name: "And You?"
+    surname: ""
+    company: "&nbsp;"
+    bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
+    thumbnailUrl: you.png
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/xxx"}
+
+
