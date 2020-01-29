@@ -1,0 +1,91 @@
+heroImage: "seattle.jpg"
+heroImageSmall: "seattle_small.jpg"
+eventDate: "March 14th, 2020"
+heroDate: "March 14th, 2020"
+date: "Saturday, March 14th, 2020, between 8:45AM - 5:00PM,"
+address: "at Google South Lake Union"
+deadline: "February 19th"
+permalink: "seattle-2020"
+city: "Seattle, USA"
+applicationForm: "https://forms.gle/SMtmaeKZjnp7HWKN9"
+mentorsForm: "https://forms.gle/jLe1hH1zfMyMBywv7"
+descriptionTitle: "ngGirls @ Seattle"
+descriptionBlock:
+  - {
+      title: "Who is it for?",
+      template: "seattle-2020/description-who-is-it-for.html",
+      link: "/#faq",
+      linkTitle: "Check out the FAQ",
+    }
+  - {
+      title: "Schedule",
+      template: "seattle-2020/description-schedule.html",
+      link: "/#faq",
+      linkTitle: "Check out the FAQ",
+    }
+  - {
+      title: "Can I help?",
+      template: "seattle-2020/description-can-i-help.html",
+      link: "/#help",
+      linkTitle: "contact us",
+      text: "Of course! There are several ways you can help: <br/>
+        <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+        From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. ",
+    }
+partners:
+  - group: "With support of"
+    elements:
+      - {
+          name: "Ultimate Angular",
+          description: "Ultimate Angular: Expert-led online Angular training courses",
+          link: "https://ultimatecourses.com/",
+          imageUrl: "ultimate-courses.svg",
+        }
+      - {
+          name: "JetBrains",
+          description: "JetBrains -  intelligent development tools",
+          link: "https://www.jetbrains.com/",
+          imageUrl: "JetBrains-logo.png",
+          width: "130px",
+        }
+
+mentors:
+  - id: 1
+    name: "Nicole"
+    surname: "Oliver"
+    company: "Nrwl"
+    title: "Angular Engineer"
+    bio: ""
+    thumbnailUrl: nicole-oliver.jpg
+    social:
+      - { name: "twitter", link: "https://www.twitter.com/nixallover" }
+
+  - id: 3
+    name: "Craig"
+    surname: "Nishina"
+    company: "Google"
+    title: "Software Engineer"
+    bio: ""
+    thumbnailUrl: Craig.jpg
+    social:
+      - { name: "twitter", link: "https://www.twitter.com/cnishina" }
+
+  - id: 4
+    name: "Michael"
+    surname: "Giambalvo"
+    company: "Google"
+    title: "Software Engineer"
+    bio: ""
+    thumbnailUrl: mike-giambalvo.jpg
+    social:
+      - { name: "twitter", link: "https://twitter.com/heathkit" }
+
+  - id: 5
+    name: "Kaitlyn"
+    surname: "Ekdahl"
+    company: "Nrwl"
+    title: "Angular Engineer"
+    bio: ""
+    thumbnailUrl: kaitlyn-ekdahl.png
+    social:
+      - { name: "twitter", link: "https://twitter.com/kaitlynekdahl" }
