@@ -64,10 +64,10 @@
 - id: 4
   name: "Martina"
   surname: "Kraus"
-  company: "inovex GmbH"
-  title: "Web developer"
+  company: "Self-Employed"
+  title: "Consultant, Trainer and Speaker"
   bio: "<p>Martina Kraus always had a strong interest in Web-Engineering.
-    At inovex GmbH she focuses on implementing highly scalable software-solution with Node.Js and Angular.
+    She focuses on implementing highly scalable software-solution with Node.Js and Angular.
     Besides her work as a lecturer at the Hochschule Mannheim, she is also a member of Hackerststolz e.V. (https://hackerstolz.de),
     the Founder of the JavaScript User group, and the local Angular meetup (@ngHeidelberg) and an organizer for AngularGirls Events.<p>"
   thumbnailUrl: martina.jpg
