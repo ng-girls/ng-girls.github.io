@@ -39,7 +39,7 @@ mentors:
   - id: 2
     name: "Fabian"
     surname: "Gosebrink"
-    company: "Offering Solutions Software GmbH"
+    company: "Organizer"
     bio: '<p>Fabian is Microsoft MVP, GDE and Angular & ASP.NET Core web developer. As a software engineer, consultant, speaker and trainer, he supports customers building web applications with more than 10 years of experience. Fabian is very active in the community such as leading the SwissAngular community.</p>'
     thumbnailUrl: fabian.jpg
     rockstar: true
@@ -81,7 +81,7 @@ mentors:
     surname: "Bartolesi"
     company: "Experts Inside"
     bio: '<p>I can help the participants to starting a blog, fight the impostor syndrome and grow up the online presence.</p>'
-    thumbnailUrl: you.png
+    thumbnailUrl: Ema.png
     rockstar: true
     social:
       - {name: "twitter", link: "https://twitter.com/kasuken"}
