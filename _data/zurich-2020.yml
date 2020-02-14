@@ -46,7 +46,77 @@ mentors:
     social:
       - {name: "twitter", link: "https://twitter.com/FabianGosebrink"}
 
-  - id: 3
+  - id: 4
+    name: "Thomas"
+    surname: "Gassmann"
+    company: "Trivadis AG"
+    bio: '<p>I am working as a principal consultant, trainer and speaker for the swiss IT service provider Trivadis AG.  My focus is on web development using .NET, Typescript and Angular. Currently, I am focused on modern web archtiectures like single page applications using Angular or mobile development with Ionic and Xamarin.  I am speaking about Angular, .NET and Azure on various international conferences like Developer Week (DWX), Web Developer Conference (WDC) or BASTA!. From time to time I am writing some articles in different journals. I would love to help others to learn Angular. </p>'
+    thumbnailUrl: thomas.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/gassmannT"}
+
+  - id: 5
+    name: "Vanessa"
+    surname: "Grunz"
+    company: "Flagbit GmbH & Co. KG;"
+    bio: '<p>I have been to ngSpain (my first Angular conference) and in one talk the ngGirls project was presented which I found pretty interesting. Although I am not an expert at this point, I would like to help other girls get in touch with Angular because I think it is a great thing and awesome project I would like to contribute to. Also, I think I could not only help other girls but also benefit from myself by strengthening/improving my skills to even become better .</p>'
+    thumbnailUrl: you.png
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/xxx"}
+
+  - id: 6
+    name: "Dominik"
+    surname: "Stefancik"
+    company: "3AP AG"
+    bio: '<p>I’m a software engineer by profession and have vast experience with developing apps on both, frontend and backend. I like learning new stuff and helping others learn it too. I have also a small teaching experience.</p>'
+    thumbnailUrl: dominik.jpeg
+    rockstar: true
+    social:
+      - {name: "GitHub", link: "https://github.com/DominikStefancik"}
+
+  - id: 7
+    name: "Emanuele"
+    surname: "Bartolesi"
+    company: "Experts Inside"
+    bio: '<p>I can help the participants to starting a blog, fight the impostor syndrome and grow up the online presence.</p>'
+    thumbnailUrl: you.png
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/kasuken"}
+
+  - id: 8
+    name: "Stefani"
+    surname: "Gerber"
+    company: "Bluesky IT-Solutions"
+    bio: '<p>I enjoy teaching others. It helps me better understand what I know and others might learn to love what I love. Also, I think ngGirls is a great event and I am happy to help now that there is one close by.</p>'
+    thumbnailUrl: stefani.jpeg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/xxx"}
+
+  - id: 9
+    name: "Stefanie"
+    surname: "Vogel"
+    company: "Noser Engineering AG"
+    bio: '<p>First, I never wanted a WebProject. Then I got one with AngularJS and learned Angular. I migrated the application to Angular and implement new features. I like the way how Angular works and I would like to give that spark of enthusiasm to others!</p>'
+    thumbnailUrl: you.png
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/Steff_La_Dev"}
+
+  - id: 10
+    name: "Thomas"
+    surname: "Moser"
+    company: "Noser Engineering AG"
+    bio: '<p>Because I think it is an event worth supporting and I can help with my programming skills.</p>'
+    thumbnailUrl: thomasm.png
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/xxx"}
+
+  - id: 11
     name: "And You?"
     surname: ""
     company: "&nbsp;"
