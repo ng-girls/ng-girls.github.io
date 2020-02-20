@@ -192,7 +192,7 @@ upcomingEvents:
   - {permalink: "/seattle-2020/", name: "ngGirls @ Seattle", date: "March 14th<br /> 2020", location: "Seattle", image: "seattle-small.jpg"}
   - {permalink: "/vienna03_2020/", text: "ngGirls @ Vienna", date: "March 15th<br /> 2020", location: "Vienna", name: "ngGirls @ Vienna", image: "vienna_small.jpg"}
   - {permalink: "/ngconf-2020/", text: "ngGirls @ ng-conf", date: "March 31st<br /> 2020", location: "Salt Lake City", name: "ngGirls @ ng-conf", image: "ngconf-2020_small.jpg"}
-  - {permalink: "/mtv-2020/",text: "ngGirls @ Mountain View", date: "April 13th<br /> 2020", location: "Mountain View, California", name: "ngGirls @ Mountain View"}
+  - {permalink: "/mtv-2020/",text: "ngGirls @ Mountain View", date: "April 13th<br /> 2020", location: "Mountain View, California", name: "ngGirls @ Mountain View", image: "Google_MTV_small.jpg"}
 
 heroButtons:
   # - {permalink: "/JS-Poland/", text: "ngGirls @ JS-Poland"}
