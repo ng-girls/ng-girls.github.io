@@ -4,7 +4,7 @@ eventDate: "March 14th, 2020"
 heroDate: "March 14th, 2020"
 date: "Saturday, March 14th, 2020, between 8:45AM - 5:00PM,"
 address: "at Google South Lake Union"
-deadline: "February 19th"
+deadline: "February 28th"
 permalink: "seattle-2020"
 city: "Seattle, USA"
 applicationForm: "https://forms.gle/SMtmaeKZjnp7HWKN9"
@@ -35,6 +35,27 @@ descriptionBlock:
 partners:
   - group: "With support of"
     elements:
+      - {
+          name: "Google Cloud",
+          description: "Google Cloud:  Tools for Modern Applications",
+          link: "https://cloud.google.com/",
+          imageUrl: "google-cloud.png",
+          width: "270px",
+        }
+      - {
+          name: "Angular",
+          description: "Angular Core Team ",
+          link: "https://angular.io/about?group=Angular",
+          imageUrl: "angular.svg",
+          width: "130px",
+        }
+      - {
+          name: "Nrwl",
+          description: "Nrwl: Develop like Google, Facebook, and Microsoft",
+          link: "https://nrwl.io/",
+          imageUrl: "nrwl.svg",
+          width: "200px",
+        }
       - {
           name: "Ultimate Angular",
           description: "Ultimate Angular: Expert-led online Angular training courses",
@@ -89,3 +110,11 @@ mentors:
     thumbnailUrl: kaitlyn-ekdahl.png
     social:
       - { name: "twitter", link: "https://twitter.com/kaitlynekdahl" }
+
+  - id: 5
+    name: "Surbhi"
+    surname: "Sah"
+    company: "Google"
+    title: "Software Engineer"
+    bio: ""
+    thumbnailUrl: surbhi-sah.png
