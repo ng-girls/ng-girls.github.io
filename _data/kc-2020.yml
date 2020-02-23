@@ -1,0 +1,174 @@
+eventDate: "July 24 - 25, 2020, Kansas City"
+location: " To be announced"
+deadline: "May 31th, 2020"
+applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSdqPmmoMc7TVcCSjLOuK_MtkV7gOwdc4AUe-VXZd9b-XGkwqw/viewform"
+mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSfAbRTRZoZn7M4IVTaSdM5ZegWUXv5b8-MOzghtTkDsB6Suqg/viewform"
+descriptionTitle: "ngGirls @ Kansas City"
+descriptionBlock:
+ - {title: "Who is it for?", template: "kc-2020/kc-2020-description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Keep up with us", template: "kc-2020/kc-2020-description-social-media.html"}
+ - {title: "Schedule", template: "kc-2020/kc-2020-description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Can I help?", template: "kc-2020/kc-2020-description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
+                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+                  From providing meals, through supplying cool ngGirls goodies - lots of opportunities to help. "}
+
+faqs:
+  - {question: "Do I need to know anything about websites or programming?", answer: "<p>If you have some knowledge in HTML, CSS, and JavaScript, you're ahead of the curve! If you are a beginner, we'll help you get up to speed!</p>"}
+  - {question: "I don't live in Kansas City, can I attend?", answer: "<p>Of course! We're so excited you're interested! We expect groups of women from outside of Kansas City to drive in to join us. There are nearby hotels that can accommodate your budget and group size.</p>"}
+  - {question: "Should I bring my own laptop?", answer: "<p>Yes. We do not have hardware, so it is necessary that you bring your own computer. Furthermore, it is important that you are able to take home everything you write and create during workshops. If you have problems accessing a laptop, please <a href='mailto:nggirls-team@kcwomenintech.org?subject=Laptop Request'>email us</a>.</p>"}
+  - {question: "Do I need to install something on my laptop?", answer: "<p>Yes, you'll need Angular CLI installed before the workshop, but we wouldn't expect you to install anything on your own. Join us for the install & pizza party Friday night so that you're ready to hit the ground running for the workshop.</p>"}
+  - {question: "Is food provided?", answer: "<p>Yes. Thanks to our sponsors, snacks and lunch will be served during the workshop.</p>"}
+  - {question: "I applied! When will I hear back?", answer: "<p>Yay! You'll hear back from us after May 31, 2020 after we have a chance to review all the applications.</p>"}
+  - {question: "I'm not a woman. Can I mentor or volunteer?", answer: "<p>Yes! Everyone is welcome to mentor or volunteer. We'd love to work with you!</p>"}
+  # - {question: "Is there public transit to the venue?", answer: "<p>No, Johnson County Transit does not service the venue on Saturday, but we want to help! If you don't have transportation, please <a href='mailto:nggirls-team@kcwomenintech.org?subject=Transportation Request'>email us</a>.</p>"}
+
+partners:
+#- group: "Platinum Sponsors"
+#  type: 'platinum'
+#  elements:
+- group: "Gold Sponsors"
+  type: 'gold'
+  elements:
+    - {name: "JE Dunn", description: "At JE Dunn, we exist to enrich lives through inspired people and places.", link: "https://www.jedunn.com/", imageUrl: "jedunn.jpg", width: "200px" }
+#- group: "Silver Sponsors"
+#  type: 'silver'
+#  elements:
+#- group: "Venue provided by"
+#  type: 'venue'
+#  elements:
+-  group: "Special thanks to"
+   type: 'ng-girls'
+   elements:
+     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimatecourses.com/", imageUrl: "ultimate-courses.svg"}
+     - {name: "JetBrains", description: "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools.", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png"}
+-  group: "Organized by"
+   type: 'host'
+   elements:
+     - {name: "Kansas City Women in Technology (KCWiT)", description: "We're trying to grow the number of women in technology careers in Kansas City.", link: "https://kcwomenintech.org/", imageUrl: "kcwit_small.png"}
+
+venue:
+
+posts:
+  - {title: "ngGirls comes to the Silicon Prairie!",
+     content: "We're excited to bring ngGirls to the Silicon Prairie and looking forward to meeting participants soon!"}
+
+organizingTeamTitle: "ngGirls @ Kansas City Team"
+team:
+  - id: 1
+    name: 'Adora'
+    surname: 'Yang'
+    title: 'Marketing Director'
+    thumbnailUrl: adora.jpg
+    bio: '<p>Adora is a recent graduate from the University of Kansas with a background in Marketing and Anthropology.
+    She loves learning and trying new things and building her passion and career around people, technology, and marketing.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/adorayang"}
+      - {name: "linkedin", link: "https://www.linkedin.com/in/adorapyang/"}
+
+  - id: 2
+    name: 'Alisa'
+    surname: 'Duncan'
+    title: 'Program Director'
+    thumbnailUrl: alisa.png
+    bio: '<p>Alisa is a software architect, a former chemist, and a Navy brat who grew up in Japan.
+    She enjoys volunteering, learning new things, and having a drink on her patio.
+    She is a co-organizer of <a href="https://www.meetup.com/angularkc/" target="_blank">AngularKC</a> and
+    Technical Materials Director for <a href="https://codingandcocktails.kcwomenintech.org" target="_blank">Coding & Cocktails</a>,
+    a program that teaches women web development basics.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/AlisaDuncan"}
+      - {name: "linkedin", link: "https://www.linkedin.com/in/jalisaduncan"}
+      - {name: "github", link: "https://github.com/alisaduncan"}
+
+  - id: 3
+    name: 'Ammaarah'
+    surname: 'Khan'
+    thumbnailUrl: ammaarah.jpeg
+    title: 'Community Outreach Director'
+    bio: '<p>Passionate about technology and politics, while bring my experience as a 1st Generation American.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/ammaarahkhan"}
+
+  - id: 4
+    name: 'Amy'
+    surname: 'Norris'
+    thumbnailUrl: amy.jpg
+    title: 'Co-Director'
+    bio: '<p>Amy is a graphic designer turned software developer who got her start in Kansas City Women in Technology''s <a href="https://codingandcocktails.kcwomenintech.org" target="_blank">Coding & Cocktails</a> program.
+    She loves learning new things, cuddling her cat, and playing board games.
+    She is also Co-Director for <a href="https://codingandcocktails.kcwomenintech.org" target="_blank">Coding & Cocktails</a>, a program that teaches women web development basics.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/amynorris"}
+      - {name: "linkedin", link: "https://www.linkedin.com/in/norrisamy/"}
+  
+  - id: 5
+    name: 'Beth'
+    surname: 'Noser'
+    thumbnailUrl: beth.jpg
+    title: 'Volunteer Director'
+    bio: '<p>Beth is a self-taught web developer and loves all things geek, especially in the Star Wars and Marvel universes.
+    When she’s not coding, Beth is traveling, binge watching Netflix, playing table top games with her husband and two kids, hitting up the gym and cuddling her German Shepherds.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/angulargirlskc"}
+  
+  - id: 6
+    name: 'Danielle'
+    surname: 'Blum'
+    thumbnailUrl: danielle.png
+    title: 'Attendee Director'
+    bio: '<p>Danielle is an advocate for continuous learning and self-improvement, and is enjoying stepping into the world of technology and development and learning a lot along the way!
+    She enjoys a nice glass of wine, a solid girls night, and getting a good workout in whether that’s on a yoga mat or in the weight room. Danielle loves KC, but STL will always be home. </p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/angulargirlskc"}
+
+  - id: 7
+    name: 'McKenzie'
+    surname: 'Hine'
+    thumbnailUrl: mckenzie.jpg
+    title: 'Sponsorship Director'
+    bio: '<p>McKenzie is a software engineer with a passion for puzzles, learning, and helping others get involved in technology.
+    When not coding she is playing board games, reading, traveling, or knitting while trying to keep her yarn away from her cat.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/mckenz_h"}
+
+  - id: 8
+    name: 'Monica'
+    surname: 'Singh'
+    thumbnailUrl: monica.jpg
+    title: 'Mentor Director'
+    bio: '<p>Monica is a software engineer who loves to learn and share her knowledge with others.
+    Aside from her passion for technology, she loves playing tennis, doing yoga, spending time with her family and friends, and exploring her favorite city, KC!</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/angulargirlskc"}
+
+  - id: 9
+    name: 'Jennifer'
+    surname: 'Wadella'
+    thumbnailUrl: jennifer.png
+    title: 'Founder, President KCWiT'
+    bio: '<p>Jennifer is a self-taught full-stack javascript developer with a passion for technology and community building.
+    She is also a GDE specializing in Angular and Web Technologies.</p>'
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/likeOMGitsFEDAY"}
+      - {name: "site", link: "https://jenniferwadella.com/"}
+
+mentors:
+  - id: 1
+    name: "And You?"
+    surname: ""
+    bio: '<p>Become a mentor and support the participants at our workshop. Just fill out the application form.</p>'
+    thumbnailUrl: you.png
+    rockstar: true
+
+volunteers:
+ - id: 2
+   name: "And You?"
+   surname: ""
+   bio: '<p>Become a volunteer and support the participants at our workshop. Just fill out the application form.</p>'
+   thumbnailUrl: "you.png"
+   rockstar: true
+   social:
+
+
+
+
