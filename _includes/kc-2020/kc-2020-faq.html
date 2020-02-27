@@ -1,0 +1,48 @@
+<!-- Begin KC FAQ Section -->
+<section id="kc-faq" class="latest-news">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <article class="row">
+                <h4>Questions?</h4>
+                <div class="col-md-4 col-xs-10 text-left post animated hiding" data-animation="fadeInDown" data-delay="500">
+                    {% for faq in site.data.kc-2020.faqs %}
+                        {% assign col1 = forloop.index | modulo:3 %}
+                        {% if col1 == 1 %}
+                        <div class="post-body">
+                            <h6>{{faq.question}}</h6>
+                            {{faq.answer}}
+                        </div>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+
+                <div class="col-md-4 col-xs-10 text-left post animated hiding" data-animation="fadeInDown" data-delay="500">
+                {% for faq in site.data.kc-2020.faqs %}
+                {% assign col2 = forloop.index | modulo: 3 %}
+                {% if col2 == 2 %}
+
+                    <div class="post-body">
+                        <h6>{{faq.question}}</h6>
+                        {{faq.answer}}
+                    </div>
+                {% endif %}
+                {% endfor %}
+                </div>
+
+                <div class="col-md-4 col-xs-10 text-left post animated hiding" data-animation="fadeInDown" data-delay="500">
+                {% for faq in site.data.kc-2020.faqs %}
+                {% assign col3 = forloop.index | modulo: 3 %}
+                {% if col3 == 0 %}
+
+                    <div class="post-body">
+                        <h6>{{faq.question}}</h6>
+                        {{faq.answer}}
+                    </div>
+                {% endif %}
+                {% endfor %}
+                </div>
+            </article>
+        </div>
+    </div>
+</section>
+<!-- End KC FAQSection -->
