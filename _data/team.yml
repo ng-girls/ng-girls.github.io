@@ -74,3 +74,19 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/MartinaKraus11"}
+
+- id: 5
+  name: "Katarzyna"
+  surname: "Płocka"
+  company: "Pragmatic Coders"
+  title: "Software Developer"
+  bio: "<p>Katarzyna (aka Pelcia) is Software Developer, workshops organiser, meetup and conference speaker.
+   She’s also a real people person, bringing instant smile to faces of colleagues around.
+   She first attended ngGirls in Copenhagen where she realized she is meant to be a mentor.
+   She decided to organize extended workshops so woman have more time to learn and talk with open and passionate people.
+   It turned out to be a great idea. Now Pelcia keeps organizing workshops, being active member of local programming community and supporting others in growth.<p>"
+  thumbnailUrl: pelcia.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/pelagia1232"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pelcia/"}
