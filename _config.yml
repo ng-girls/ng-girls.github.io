@@ -117,6 +117,7 @@ bottomNavigationLinks:
   - {permalink: "/tlv-2020/", text: "ngGirls @ Tel Aviv"}
   - {permalink: "/seattle-2020/", name: "ngGirls @ Seattle"}
   - {permalink: "/vienna03_2020/", text: "ngGirls @ Vienna"}
+  - {permalink: "/tlv-2020/", text: "ngGirls Pro @ TLV"}
   - {permalink: "/ngconf-2020/", text: "ngGirls @ ng-conf"}
   - {permalink: "/mtv-2020/", text: "ngGirls @ Mountain View"}
   - {permalink: "/ngVikings-2020/", text: "ngGirls @ ngVikings, Oslo"}
@@ -193,6 +194,7 @@ upcomingEvents:
   - {permalink: "/tlv-2020/", text: "ngGirls @ Tel Aviv", date: "March 8th<br /> 2020", location: "Tel Aviv", name: "ngGirls @ Tel Aviv", image: "AOL_TLV_view_small.jpg"}
   - {permalink: "/seattle-2020/", name: "ngGirls @ Seattle", date: "March 14th<br /> 2020", location: "Seattle", image: "seattle-small.jpg"}
   - {permalink: "/vienna03_2020/", text: "ngGirls @ Vienna", date: "March 15th<br /> 2020", location: "Vienna", name: "ngGirls @ Vienna", image: "vienna_small.jpg"}
+  - {permalink: "/pro-tlv-2020/", text: "ngGirls Pro @ TLV", date: "March 22nd<br /> 2020", location: "Tel Aviv", name: "ngGirls Pro @ TLV", image: "Tel_Aviv_Promenade_small.jpg"}
   - {permalink: "/ngconf-2020/", text: "ngGirls @ ng-conf", date: "March 31st<br /> 2020", location: "Salt Lake City", name: "ngGirls @ ng-conf", image: "ngconf-2020_small.jpg"}
   - {permalink: "/mtv-2020/",text: "ngGirls @ Mountain View", date: "April 13th<br /> 2020", location: "Mountain View, California", name: "ngGirls @ Mountain View", image: "Google_MTV_small.jpg"}
   - {permalink: "/ngVikings-2020/", text: "ngGirls @ ngVikings 2020", date: "May 27th<br /> 2020", location: "ngVikings, Oslo", name: "ngGirls @ ngVikings 2020"}
@@ -262,6 +264,7 @@ heroButtons:
   - {permalink: "/tlv-2020/", text: "ngGirls @ Tel Aviv"}
   - {permalink: "/seattle-2020/", name: "ngGirls @ Seattle"}
   - {permalink: "/vienna03_2020/", text: "ngGirls @ Vienna"}
+  - {permalink: "/tlv-2020/", text: "ngGirls Pro @ TLV"}
   - {permalink: "/ngconf-2020/", text: "ngGirls @ ng-conf"}
   - {permalink: "/mtv-2020/", text: "ngGirls @ Mountain View"}
   - {permalink: "/ngVikings-2020/", text: "ngGirls @ ngVikings 2020"}
