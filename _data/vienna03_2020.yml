@@ -39,8 +39,8 @@ mentors:
       - {name: "twitter", link: "https://twitter.com/martinakraus"}
       -
   - id: 2
-    name: "Hladky"
-    surname: "Michael"
+    name: "Michael"
+    surname: "Hladky"
     title: "&nbsp;"
     company: "ngVienna"
     bio: ""
@@ -50,6 +50,47 @@ mentors:
       - {name: "twitter", link: "https://twitter.com/Michael_Hladky"}
 
   - id: 3
+    name: "Amina"
+    surname: "Hasimbegovic"
+    title: "&nbsp;"
+    company: "Siemens Healthcare GmbH"
+    bio: ""
+    thumbnailUrl: amina.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/aaa"}
+
+  - id: 4
+    name: "Ilinca"
+    surname: "Pascu"
+    company: "Emarsys"
+    bio: ''
+    thumbnailUrl: IliCV.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/iliPascu"}
+
+  - id: 5
+    name: "Lluís"
+    surname: "Carrasco"
+    company: "FH Campus Wien"
+    bio: ''
+    thumbnailUrl: Lluis.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/lluisarco2"}
+
+  - id: 6
+    name: "Tina"
+    surname: ""
+    company: "Student"
+    bio: ''
+    thumbnailUrl: tina.png
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/xxx"}
+
+  - id: 7
     name: "And You?"
     surname: ""
     company: "&nbsp;"
