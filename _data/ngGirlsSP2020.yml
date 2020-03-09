@@ -26,8 +26,7 @@ partners:
 
 mentors:
 
-  -
-    id: 1
+  - id: 1
     name: "Cynthia"
     surname: "Zanoni"
     title: "&nbsp;"
@@ -43,8 +42,7 @@ mentors:
     surname: "Lopes"
     title: "&nbsp;"
     company: "Organizadora"
-    bio: "<p>Curiosa, desenvolvedora frontend, aprendendo, crescendo, aproveitando a jornada e compartilhando o máximo que posso.</p>
-"
+    bio: "<p>Curiosa, desenvolvedora frontend, aprendendo, crescendo, aproveitando a jornada e compartilhando o máximo que posso.</p>"
     thumbnailUrl: jessicalopes.jpg
     rockstar: true
     social:
