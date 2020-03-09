@@ -1,0 +1,51 @@
+heroImage: "saopaulo.jpg"
+date: "Sábado, 28 de Março de 2020"
+location: "Ame Digital, R. Fidêncio Ramos, 302 - Vila Olímpia, São Paulo - SP"
+eventDate: "28 de Março de 2020, São Paulo - SP, Brasil"
+applicationForm: "https://www.meetup.com/WoMakersCode/events/269249814/"
+mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSc7dod9ub58jcmrJR_HjRukSSHJrTYs33b8vjD5HDyS7r7jgA/viewform"
+
+descriptionTitle: "Sobre o ngGirlsSP"
+descriptionBlock:
+ - {title: "Qual é o público alvo?", template: "ngGirlsSP2020/description-who-is-it-for.html"}
+ - {title: "Como posso ajudar?", template: "ngGirlsSP2020/description-can-i-help.html"}
+ - {title: "Programação do evento", template: "ngGirlsSP2020/description-schedule.html"}
+
+locationTitle: "Como chegar"
+
+partnersTitle: "Parceiros"
+partnersC4sponsorsButton: "Seja um patrocinador do evento"
+partners:
+
+-  group: "Realização"
+   elements:
+    - {name: "WoMakersCode", description: "Comunidade global, criada no Brasil, com o objetivo de promover capacitação, empoderamento e protagonismo feminino na tecnologia.", link: "https://womakerscode.org/", imageUrl: "womakerscode_logo.png"}
+-  group: "Patrocínio"
+   elements:
+     - {name: "Ame Digital", description: "O app que você paga mais rápido e ganha cashback.", link: "https://www.amedigital.com/", imageUrl: "ame_logo.png"}
+
+mentors:
+
+  -
+    id: 1
+    name: "Cynthia"
+    surname: "Zanoni"
+    title: "&nbsp;"
+    company: "Organizadora"
+    bio: "<p>Engenheira de software com mais de 10 anos dedicada ao código e ao desenvolvimento de pessoas que querem fazer a diferença com a tecnologia. Atualmente, trabalha na Microsoft como Gerente de Programa de Relações com Desenvolvedores para apoiar e acelerar desenvolvedores a criar coisas épicas na América Latina. Ela adora código aberto, seleciona conteúdo para eventos e liderou a organização de alguns dos principais eventos do mercado, como o Mobile Summit Brasil, a Full Stack Experience, o Women Dev Summit e o WoMakersCode Summit.<p>"
+    thumbnailUrl: cynthiazanoni.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/cynthiazanoni"}
+
+  - id: 2
+    name: "Jessica"
+    surname: "Lopes"
+    title: "&nbsp;"
+    company: "Organizadora"
+    bio: "<p>Curiosa, desenvolvedora frontend, aprendendo, crescendo, aproveitando a jornada e compartilhando o máximo que posso.</p>
+"
+    thumbnailUrl: jessicalopes.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://twitter.com/eudivaloper"}

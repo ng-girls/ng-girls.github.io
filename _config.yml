@@ -122,6 +122,8 @@ bottomNavigationLinks:
   - {permalink: "/mtv-2020/", text: "ngGirls @ Mountain View"}
   - {permalink: "/ngVikings-2020/", text: "ngGirls @ ngVikings, Oslo"}
   # - {permalink: "/kc-2020/", text: "ngGirls @ Kansas City 2020"}
+  - {permalink: "/ngGirlsSP-2020/", text: "ngGirls @ ngGirlsSP"}
+
 rightNavigationButtons:
 # more than 2 doesn't look goodß
 # - {permalink: "/JS-Poland/", text: "ngGirls @ JS-Poland"}
@@ -199,6 +201,8 @@ upcomingEvents:
   - {permalink: "/mtv-2020/",text: "ngGirls @ Mountain View", date: "April 13th<br /> 2020", location: "Mountain View, California", name: "ngGirls @ Mountain View", image: "Google_MTV_small.jpg"}
   - {permalink: "/ngVikings-2020/", text: "ngGirls @ ngVikings 2020", date: "May 27th<br /> 2020", location: "ngVikings, Oslo", name: "ngGirls @ ngVikings 2020"}
 # - {permalink: "/kc-2020/", text: "ngGirls @ Kansas City 2020", date: "July 25th<br /> 2020", location: "Kansas City", name: "ngGirls @ Kansas City 2020", image: "kc_small.jpg"}
+  - {permalink: "/ngGirlsSP-2020/", text: "ngGirls @ ngGirlsSP 2020", date: "March 28th<br /> 2020", location: "São Paulo", name: "ngGirls @ ngGirlsSP 2020"}
+
 
 heroButtons:
   # - {permalink: "/JS-Poland/", text: "ngGirls @ JS-Poland"}
@@ -270,6 +274,8 @@ heroButtons:
   - {permalink: "/ngVikings-2020/", text: "ngGirls @ ngVikings 2020"}
 # - {permalink: "/kc-2020/", text: "ngGirls @ Kansas City 2020"}
 # - {permalink: "/ng-conf/", text: "ngGirls @ ng-conf UT"}
+  - {permalink: "/ngGirlsSP-2020/", text: "ngGirls @ ngGirlsSP 2020"}
+
 
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLScH7AQnspkZeiGogsllJX9a4EbADCfR3-c4JJK_VJMYvkp9Hw/viewform", text: "call for mentors"}
 # - {permalink: *c4sponsorsUrl, newTab: true, text: "call for sponsors"}
