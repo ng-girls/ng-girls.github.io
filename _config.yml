@@ -115,7 +115,7 @@ bottomNavigationLinks:
   # - {permalink: "/bolivia-2019/", text: "ngGirls @ Bolivia"}
   # - {permalink: "/zurich-2020/", text: "ngGirls @ Zurich"}
   - {permalink: "/tlv-2020/", text: "ngGirls @ Tel Aviv"}
-  - {permalink: "/seattle-2020/", name: "ngGirls @ Seattle"}
+  #- {permalink: "/seattle-2020/", name: "ngGirls @ Seattle"}
   - {permalink: "/vienna03_2020/", text: "ngGirls @ Vienna"}
   - {permalink: "/tlv-2020/", text: "ngGirls Pro @ TLV"}
   - {permalink: "/ngconf-2020/", text: "ngGirls @ ng-conf"}
@@ -194,7 +194,7 @@ upcomingEvents:
   #- {permalink: "/bolivia-2019/", text: "ngGirls @ Bolivia", date: "November 30th<br /> 2019", location: "Bolivia", name: "ngGirls @ Bolivia", image: "bolivia_small.jpg"}
   #- {permalink: "/zurich-2020/", text: "ngGirls @ Zurich",  date: "February 21st<br /> 2020", location: "Zurich", name: "ngGirls @ Zurich", image: "zurich_small.jpg"}
   - {permalink: "/tlv-2020/", text: "ngGirls @ Tel Aviv", date: "March 8th<br /> 2020", location: "Tel Aviv", name: "ngGirls @ Tel Aviv", image: "AOL_TLV_view_small.jpg"}
-  - {permalink: "/seattle-2020/", name: "ngGirls @ Seattle", date: "March 14th<br /> 2020", location: "Seattle", image: "seattle-small.jpg"}
+  # - {permalink: "/seattle-2020/", name: "ngGirls @ Seattle", date: "March 14th<br /> 2020", location: "Seattle", image: "seattle-small.jpg"}
   - {permalink: "/vienna03_2020/", text: "ngGirls @ Vienna", date: "March 15th<br /> 2020", location: "Vienna", name: "ngGirls @ Vienna", image: "vienna_small.jpg"}
   - {permalink: "/pro-tlv-2020/", text: "ngGirls Pro @ TLV", date: "March 22nd<br /> 2020", location: "Tel Aviv", name: "ngGirls Pro @ TLV", image: "Tel_Aviv_Promenade_small.jpg"}
   - {permalink: "/ngconf-2020/", text: "ngGirls @ ng-conf", date: "March 31st<br /> 2020", location: "Salt Lake City", name: "ngGirls @ ng-conf", image: "ngconf-2020_small.jpg"}
@@ -263,10 +263,10 @@ heroButtons:
   #- {permalink: "/graz-2019/", text: "ngGirls @ Graz"}
   #- {permalink: "/ngPoland-2019/", text: "ngGirls @ ngPoland"}
   #- {permalink: "/zurich-2020/", text: "ngGirls @ Zurich"}
-  - {permalink: "/tlv-2020/", text: "ngGirls @ Tel Aviv"}
-  - {permalink: "/seattle-2020/", name: "ngGirls @ Seattle"}
+  # - {permalink: "/tlv-2020/", text: "ngGirls @ Tel Aviv"}
+  # - {permalink: "/seattle-2020/", name: "ngGirls @ Seattle"}
   - {permalink: "/vienna03_2020/", text: "ngGirls @ Vienna"}
-  - {permalink: "/tlv-2020/", text: "ngGirls Pro @ TLV"}
+  # - {permalink: "/tlv-2020/", text: "ngGirls Pro @ TLV"}
   - {permalink: "/ngconf-2020/", text: "ngGirls @ ng-conf"}
   - {permalink: "/mtv-2020/", text: "ngGirls @ Mountain View"}
   - {permalink: "/ngVikings-2020/", text: "ngGirls @ ngVikings 2020"}
