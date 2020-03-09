@@ -114,7 +114,7 @@ bottomNavigationLinks:
   #- {permalink: "/ngPoland-2019/", text: "ngGirls @ ngPoland"}
   # - {permalink: "/bolivia-2019/", text: "ngGirls @ Bolivia"}
   # - {permalink: "/zurich-2020/", text: "ngGirls @ Zurich"}
-  - {permalink: "/tlv-2020/", text: "ngGirls @ Tel Aviv"}
+  #- {permalink: "/tlv-2020/", text: "ngGirls @ Tel Aviv"}
   #- {permalink: "/seattle-2020/", name: "ngGirls @ Seattle"}
   - {permalink: "/vienna03_2020/", text: "ngGirls @ Vienna"}
   - {permalink: "/tlv-2020/", text: "ngGirls Pro @ TLV"}
