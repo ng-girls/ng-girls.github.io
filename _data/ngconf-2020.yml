@@ -4,7 +4,7 @@ eventDate: "Tuesday, March 31st 2020"
 heroDate: " March 31st, 2020"
 date: " Tuesday, March 31st 2020, 2020"
 address: "in the historic Grand America Hotel, Salt Lake City, UT"
-deadline: "Sunday, March 8th 2020"
+deadline: "Monday, March 23rd, 2020"
 permalink: "ngconf-2020"
 city: "Salt Lake City, UT"
 applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSdbbrzxDzQ2uxnVSKSl3X0G8XcxH-tu271uBUC8meBZ-Ywk6w/viewform"
@@ -12,7 +12,7 @@ mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSctPZ2zOdiVA9XRcwXj6xHeuV
 descriptionTitle: "ngGirls @ ng-conf"
 descriptionBlock:
  - {title: "Who is it for?", template: "ngconf-2020/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
- - {title: "Schedule", template: "ngconf-2020/description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Virtual - Online Event", template: "ngconf-2020/description-online-event.html", link: "/#faq", linkTitle: "Check out the FAQ"}
  - {title: "Can I help?", template: "ngconf-2020/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
                   <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
                   From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
