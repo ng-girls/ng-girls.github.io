@@ -1,11 +1,11 @@
 heroImage: "vienna.jpg"
-date: "Sunday, March 15th, 2020"
+date: "Saturday, April 4th, 2020"
 location: "STOCKWERK Coworking GmbH Pater-Schwartz-Gasse 11A, 1150 in Vienna, Austria"
 deadline: "March 10th, 2020"
-eventDate: "March 15th, 2020, Vienna, Austria"
+eventDate: "April 4th, 2020, Vienna, Austria"
 applicationForm: "https://forms.gle/En6R5RBbSKbBFBCDA"
 mentorsForm: "https://forms.gle/hjVHG1WZV9cuJ7mn8"
-descriptionTitle: "ngGirls @ Vienna"
+descriptionTitle: "ngGirls @ Vienna ONLINE"
 descriptionBlock:
   - {title: "Who is it for?", template: "vienna03_2020/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
   - {title: "Schedule", template: "vienna03_2020/description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
