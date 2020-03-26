@@ -122,7 +122,7 @@ bottomNavigationLinks:
   # - {permalink: "/mtv-2020/", text: "ngGirls @ Mountain View"}
   - {permalink: "/ngVikings-2020/", text: "ngGirls @ ngVikings, Oslo"}
   - {permalink: "/budapest-2020/", text: "ngGirls @ Budapest"}
- # - {permalink: "/kc-2020/", text: "ngGirls @ Kansas City 2020"}
+  - {permalink: "/kc-2020/", text: "ngGirls @ Kansas City 2020"}
 
 rightNavigationButtons:
 # more than 2 doesn't look goodß
@@ -200,8 +200,9 @@ upcomingEvents:
   - {permalink: "/ngconf-2020/", text: "ngGirls @ ng-conf", date: "March 31st<br /> 2020", location: "Online", name: "ngGirls @ ng-conf", image: "ngconf-2020_small.jpg"}
   # - {permalink: "/mtv-2020/",text: "ngGirls @ Mountain View", date: "April 13th<br /> 2020", location: "Mountain View, California", name: "ngGirls @ Mountain View", image: "Google_MTV_small.jpg"}
   - {permalink: "/ngVikings-2020/", text: "ngGirls @ ngVikings 2020", date: "May 27th<br /> 2020", location: "ngVikings, Oslo", name: "ngGirls @ ngVikings 2020", image: "oslo_small.jpg"}
-# - {permalink: "/kc-2020/", text: "ngGirls @ Kansas City 2020", date: "July 25th<br /> 2020", location: "Kansas City", name: "ngGirls @ Kansas City 2020", image: "kc_small.jpg"}
   - {permalink: "/budapest-2020/", text: "ngGirls @ Budapest 2020", date: "June 8th<br /> 2020", location: "Budapest", name: "ngGirls @ Budapest 2020", image: "budapest_small.jpg"}
+  - {permalink: "/kc-2020/", text: "ngGirls @ Kansas City 2020", date: "July 25th<br /> 2020", location: "Kansas City", name: "ngGirls @ Kansas City 2020", image: "kc_small.jpg"}
+
 heroButtons:
   # - {permalink: "/JS-Poland/", text: "ngGirls @ JS-Poland"}
   # - {permalink: "/TLV-June-2017/", text: "ngGirls TLV"}
@@ -271,7 +272,7 @@ heroButtons:
   # - {permalink: "/mtv-2020/", text: "ngGirls @ Mountain View"}
   - {permalink: "/ngVikings-2020/", text: "ngGirls @ ngVikings 2020"}
   - {permalink: "/budapest-2020/", text: "ngGirls @ Budapest 2020"}
-# - {permalink: "/kc-2020/", text: "ngGirls @ Kansas City 2020"}
+  - {permalink: "/kc-2020/", text: "ngGirls @ Kansas City 2020"}
 # - {permalink: "/ng-conf/", text: "ngGirls @ ng-conf UT"}
 
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLScH7AQnspkZeiGogsllJX9a4EbADCfR3-c4JJK_VJMYvkp9Hw/viewform", text: "call for mentors"}
