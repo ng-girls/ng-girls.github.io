@@ -1,0 +1,66 @@
+eventDate: "May 16th, 2020 - Online Australia"
+date: "Saturday, May 16th, 2020, between 09:00-17:00 AEST,"
+location: "Online"
+deadline: "May 11th, 2020"
+applicationForm: "https://forms.gle/Nu3RRQV5Fg7k5S149"
+mentorsForm: "https://forms.gle/2dqji3cE9zCUuWzh9"
+descriptionTitle: "ngGirls @ Australia Online 2020"
+descriptionBlock:
+  - {
+      title: "Who is it for?",
+      template: "australia-2020/description-who-is-it-for.html",
+      link: "/#faq",
+      linkTitle: "Check out the FAQ",
+    }
+  - {
+      title: "Schedule",
+      template: "australia-2020/description-schedule.html",
+      link: "/#faq",
+      linkTitle: "Check out the FAQ",
+    }
+  - {
+      title: "Can I help?",
+      template: "australia-2020/description-can-i-help.html",
+      link: "/#help",
+      linkTitle: "contact us",
+      text: "Of course! There are several ways you can help: <br/>
+        <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
+        From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. ",
+    }
+partners:
+    - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimatecourses.com/", imageUrl: "ultimate-courses.svg"}
+    - {name: "JetBrains", description: "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools.", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png"}
+
+mentors:
+  - id: 1
+    name: "Siddharth"
+    surname: "Ajmera"
+    title: "&nbsp;"
+    company: "Organizer"
+    bio: "<p>Siddharth is a full stack JavaScript Developer, currently focused on developing applications on Angular and Firebase in its various flavors. He works for TATA Consultancy Services as an IT Analyst</p>"
+    thumbnailUrl: sidd.png
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/SiddAjmera" }
+
+  - id: 2
+    name: "Martina"
+    surname: "Kraus"
+    title: "&nbsp;"
+    company: "Organizer"
+    bio: "<p>Martina Kraus always had a strong interest in Web-Engineering. As a freelance she focuses on implementing highly scalable software-solution with Node.Js and Angular.
+           Besides her work as a lecturer at the Hochschule Mannheim, she is also a member of Hackerststolz e.V. (https://hackerstolz.de), the Founder of the JavaScript User group and an organizer for AngularGirls Events.<p>"
+    thumbnailUrl: martina.jpg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/MartinaKraus11" }
+
+  - id: 3
+    name: "And You?"
+    surname: ""
+    company: "&nbsp;"
+    bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
+    thumbnailUrl: you.png
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/xxx" }
