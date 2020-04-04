@@ -51,6 +51,12 @@ venue:
 posts:
   - {title: "ngGirls comes to the Silicon Prairie!",
      content: "We're excited to bring ngGirls to the Silicon Prairie and looking forward to meeting participants soon!"}
+  - {title: "COVID-19 Advisory",
+     content: "We appreciate your understanding as we continue to monitor the developments and recommended actions by health organizations including the
+     <a href='https://www.who.int/' target='_blank'>WHO</a>,
+     <a href='https://www.cdc.gov/' target='_blank'>CDC</a>,
+     and <a href='https://www.kcmo.gov/city-hall/departments/health' target='_blank'>KCMO Health Department</a> surrounding COVID-19.
+     Due to the fluidity of the situation, we may need to adapt our workshop plans which includes, but is not limited to postponing, shifting to an online event, or canceling."}
 
 organizingTeamTitle: "ngGirls @ Kansas City Team"
 team:
