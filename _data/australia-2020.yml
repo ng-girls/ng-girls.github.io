@@ -14,14 +14,14 @@ descriptionBlock:
       linkTitle: "Check out the FAQ",
     }
   - {
-    title: "What do I have to expect?",
-    template: "australia-2020/description-expectations.html",
-    link: "/#faq",
-    linkTitle: "Check out the FAQ",
-  }
+      title: "What do I have to expect?",
+      template: "australia-2020/description-expectations.html",
+      link: "/#faq",
+      linkTitle: "Check out the FAQ",
+    }
   - {
       title: "Schedule",
-      template: "australia-2020/description-schedule.html",
+      template: "australia-2020/description-expectations.html",
       link: "/#faq",
       linkTitle: "Check out the FAQ",
     }
