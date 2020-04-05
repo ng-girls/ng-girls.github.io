@@ -21,18 +21,9 @@ descriptionBlock:
     }
   - {
       title: "Schedule",
-      template: "australia-2020/description-expectations.html",
+      template: "australia-2020/description-schedule.html",
       link: "/#faq",
       linkTitle: "Check out the FAQ",
-    }
-  - {
-      title: "Can I help?",
-      template: "australia-2020/description-can-i-help.html",
-      link: "/#help",
-      linkTitle: "contact us",
-      text: "Of course! There are several ways you can help: <br/>
-        <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
-        From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. ",
     }
 partners:
     - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimatecourses.com/", imageUrl: "ultimate-courses.svg"}
