@@ -1,0 +1,90 @@
+heroImage: "india.jpg"
+eventDate: "May 30th, 2020 - Online India"
+date: "Saturday, May 30th, 2020, between 09:00 AM - 6:00 PM IST,"
+location: "Online"
+deadline: "May 20th, 2020"
+applicationForm: "https://forms.gle/6fcWUkYUYgSUV8FR7"
+mentorsForm: "https://forms.gle/qMM7i2G6JCBqm4Mk8"
+descriptionTitle: "ngGirls @ India Online 2020"
+descriptionBlock:
+  - {
+      title: "Who is it for?",
+      template: "india-2020/description-who-is-it-for.html",
+      link: "/#faq",
+      linkTitle: "Check out the FAQ",
+    }
+  - {
+      title: "Schedule",
+      template: "india-2020/description-schedule.html",
+      link: "/#faq",
+      linkTitle: "Check out the FAQ",
+    }
+  - {
+      title: "What do I have to expect?",
+      template: "india-2020/description-expectations.html",
+      link: "/#faq",
+      linkTitle: "Check out the FAQ",
+    }
+partners:
+  - group: "With support of"
+    elements:
+      - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimatecourses.com/", imageUrl: "ultimate-courses.svg"}
+      - {name: "JetBrains", description: "JetBrains -  intelligent development tools", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png", width: "130px"}
+
+mentors:
+  - id: 1
+    name: "Siddharth"
+    surname: "Ajmera"
+    title: "&nbsp;"
+    company: "Organizer"
+    bio: "<p>Siddharth is a full stack JavaScript Developer, currently focused on developing applications on Angular and Firebase in its various flavors. He works for TATA Consultancy Services as an IT Analyst</p>"
+    thumbnailUrl: sidd.png
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/SiddAjmera" }
+
+  - id: 2
+    name: "Martina"
+    surname: "Kraus"
+    title: "&nbsp;"
+    company: "Organizer"
+    bio: "<p>Martina Kraus always had a strong interest in Web-Engineering. As a freelance she focuses on implementing highly scalable software-solution with Node.Js and Angular.
+           Besides her work as a lecturer at the Hochschule Mannheim, she is also a member of Hackerststolz e.V. (https://hackerstolz.de), the Founder of the JavaScript User group and an organizer for AngularGirls Events.<p>"
+    thumbnailUrl: martina.jpg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/MartinaKraus11" }
+
+  - id: 3
+    name: "Srashti"
+    surname: "Jain"
+    title: "&nbsp;"
+    company: "Organizer"
+    bio: "<p>Srashti Jain is a senior developer at Hvantage Technologies. She has hands-on experience of  Angular, Microsoft Azure and Power BI.<p>"
+    thumbnailUrl: srashti.jpg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/srashtisj" }
+
+
+  - id: 4
+    name: "Gaurav"
+    surname: "Chouhan"
+    title: "&nbsp;"
+    company: "Organizer"
+    bio: "<p>Gaurav exist to create out of the box experiences by embracing technology.
+             Independent Software Solution Architect.<p>"
+    thumbnailUrl: gaurav.jpg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/gauravc12" }
+
+  - id: 5
+    name: "And You?"
+    surname: ""
+    company: "&nbsp;"
+    bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
+    thumbnailUrl: you.png
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/xxx" }

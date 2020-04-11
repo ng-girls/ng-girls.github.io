@@ -118,6 +118,7 @@ bottomNavigationLinks:
   #- {permalink: "/seattle-2020/", name: "ngGirls @ Seattle"}
   #- {permalink: "/vienna03_2020/", text: "ngGirls @ Vienna ONLINE"}
   - {permalink: "/australia-2020/", text: "ngGirls @ Australia ONLINE 2020"}
+  - {permalink: "/india-2020/", text: "ngGirls @ India ONLINE 2020"}
   #- {permalink: "/tlv-2020/", text: "ngGirls Pro @ TLV"}
   #- {permalink: "/ngconf-2020/", text: "ngGirls @ ng-conf"}
   # - {permalink: "/mtv-2020/", text: "ngGirls @ Mountain View"}
@@ -202,6 +203,7 @@ upcomingEvents:
   # - {permalink: "/mtv-2020/",text: "ngGirls @ Mountain View", date: "April 13th<br /> 2020", location: "Mountain View, California", name: "ngGirls @ Mountain View", image: "Google_MTV_small.jpg"}
   # - {permalink: "/ngVikings-2020/", text: "ngGirls @ ngVikings 2020", date: "May 27th<br /> 2020", location: "ngVikings, Oslo", name: "ngGirls @ ngVikings 2020", image: "oslo_small.jpg"}
   - {permalink: "/australia-2020/", text: "ngGirls @ Australia ONLINE", date: "May 16th<br /> 2020", location: "Australia ONLINE", name: "ngGirls @ Australia ONLINE", image: "australia.jpeg"}
+  # - {permalink: "/india-2020/", text: "ngGirls @ India ONLINE", date: "May 30th<br /> 2020", location: "India ONLINE", name: "ngGirls @ India ONLINE", image: "india.jpg"}
   - {permalink: "/budapest-2020/", text: "ngGirls @ Budapest 2020", date: "June 8th<br /> 2020", location: "Budapest", name: "ngGirls @ Budapest 2020", image: "budapest_small.jpg"}
   - {permalink: "/kc-2020/", text: "ngGirls @ Kansas City 2020", date: "July 25th<br /> 2020", location: "Kansas City", name: "ngGirls @ Kansas City 2020", image: "kc_small.jpg"}
 
@@ -275,6 +277,7 @@ heroButtons:
   # - {permalink: "/ngVikings-2020/", text: "ngGirls @ ngVikings 2020"}
   - {permalink: "/budapest-2020/", text: "ngGirls @ Budapest 2020"}
   - {permalink: "/australia-2020/", text: "ngGirls @ Australia ONLINE 2020"}
+  - {permalink: "/india-2020/", text: "ngGirls @ India ONLINE 2020"}
   - {permalink: "/kc-2020/", text: "ngGirls @ Kansas City 2020"}
 # - {permalink: "/ng-conf/", text: "ngGirls @ ng-conf UT"}
 
