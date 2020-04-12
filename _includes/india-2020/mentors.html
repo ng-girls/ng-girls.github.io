@@ -3,9 +3,8 @@
          style="background-image: url({{ site.baseurl }}/img/sections-background/{{ site.organizingTeamImage }});">
     <div class="overlay solid-overlay"></div>
     <div class="content-wrapper">
-        <div class="col-lg-10 col-lg-offset-1 rockstar-speakers-list">
-            <h3 id="organizing-team-title">Meet the Mentors</h3>
-
+        <h3 id="organizing-team-title">Meet the Mentors</h3>
+        <div class="mentor-flex">
             {% assign animationDelay = 0 %}
             {% for member in site.data.india-2020.mentors %}
             {% if forloop.index < 12 %}
@@ -14,7 +13,6 @@
             {% assign colWidth = 6 %}
             {% endif %}
             {% assign memberImage = site.baseurl | append: '/img/india-2020-mentors/' | append: member.thumbnailUrl %}
-            <div style="display: flex; justify-content: space-between">
                 <div class="rockstar-speakers-item animated hiding"
                      data-animation="fadeInUp"
                      data-delay="{{ animationDelay }}">
@@ -28,7 +26,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
             {% assign animationDelay = animationDelay | plus:500 %}
             {% assign check = forloop.index | modulo:10 %}
             {% if check == 0 %}
