@@ -8,23 +8,23 @@ mentorsForm: "https://forms.gle/qMM7i2G6JCBqm4Mk8"
 descriptionTitle: "ngGirls @ India Online 2020"
 descriptionBlock:
   - {
-      title: "Who is it for?",
-      template: "india-2020/description-who-is-it-for.html",
-      link: "/#faq",
-      linkTitle: "Check out the FAQ",
-    }
+    title: "Who is it for?",
+    template: "india-2020/description-who-is-it-for.html",
+    link: "/#faq",
+    linkTitle: "Check out the FAQ",
+  }
   - {
-      title: "Schedule",
-      template: "india-2020/description-schedule.html",
-      link: "/#faq",
-      linkTitle: "Check out the FAQ",
-    }
+    title: "Schedule",
+    template: "india-2020/description-schedule.html",
+    link: "/#faq",
+    linkTitle: "Check out the FAQ",
+  }
   - {
-      title: "What can I expect from the workshop?",
-      template: "india-2020/description-expectations.html",
-      link: "/#faq",
-      linkTitle: "Check out the FAQ",
-    }
+    title: "What can I expect from the workshop?",
+    template: "india-2020/description-expectations.html",
+    link: "/#faq",
+    linkTitle: "Check out the FAQ",
+  }
 partners:
   - group: "With support of"
     elements:
@@ -71,8 +71,8 @@ mentors:
     surname: "Chouhan"
     title: "&nbsp;"
     company: "Organizer"
-    bio: "<p>Gaurav exist to create out of the box experiences by embracing technology.
-             Independent Software Solution Architect.<p>"
+    bio: '<p>Gaurav is an Independent Software Consultant from India. He is Co-Founder Indore Technical Community, a local community group which organizes technology sessions, seminars and events for professionals and students.
+             He is also a volunteer <a href="http://theyouthproject.in/">@TheYouthProject.in</a>, an online learning initiative to help students get access to professional mentoring and instructor led online coaching to master various technologies.<p>'
     thumbnailUrl: gaurav.jpg
     rockstar: true
     social:
