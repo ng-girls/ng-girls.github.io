@@ -16,7 +16,7 @@ layout: compress
         <div class="st-pusher">
             <div class="st-content">
 
-                {{ content }} 
+                {{ content }}
 
                 {% include footer.html %}
 
@@ -24,33 +24,22 @@ layout: compress
         </div>
     </div>
 
-    {% if page.modal != null %} 
+    {% if page.modal != null %}
     	{% include team-modals.html %}
-      {% include ngPoland2018/mentors-modals.html %}
-      {% include sofia/team-modals.html %}
-      {% include seattle-2018/team-modals.html %}
-      {% include NgTalks/mentors-modals.html %}
-      {% include TLV2018/mentors-modals.html %}
-      {% include mtv/mentors-modals.html %}
-      {% include berlin2018/berlin2018-mentors-modals.html %}
-      {% include angular-connect2018/angular-connect2018-mentors-modals.html %}
-      {% include freiburg/freiburg-mentors-modals.html %}
-      {% include angular-connect/angular-connect-mentors-modals.html %}
-      {% include colombia/mentors-modals.html %}
-      {% include poznan/team-modals.html %}
-      {% include kc-2019/kc-2019-team-modals.html %}
-      {% include kc-2019/kc-2019-mentors-modals.html %}
       {% include bolivia-2019/mentors-modals.html %}
+    {% include australia-2020/mentors-modals.html %}
+    {% include india-2020/mentors-modals.html %}
+    {% include kc-2020/kc-2020-team-modals.html %}
       {% include kc-2020/kc-2020-team-modals.html %}
       {% include kc-2020/kc-2020-mentors-modals.html %}
     {% endif %}
 
     {% if page.permalink == '/schedule/' %}
-        {% include sessions-modals.html %} 
-    {% endif %} 
+        {% include sessions-modals.html %}
+    {% endif %}
 
     {% include analytics.html %}
-    
+
     <script src="/js/jquery-2.1.1.min.js"></script>
     <script>
         window.jQuery || document.write('<script src="{{ "/js/jquery-2.1.1.min.js" | prepend: site.baseurl }}><\/script>')
@@ -66,14 +55,14 @@ layout: compress
     <script>
         if ($(window).width() > 767) {
             document.write('<script src="https://maps.googleapis.com/maps/api/js?key={{ site.siteVerification }}&v=3.exp&sensor=false"><\/script>')
-        } 
+        }
     </script>
     {% elsif page.permalink == '/logistics/' %}
         <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places,geometry"></script>
         <script type="text/javascript">
             var autoDirectionEnabled = {% if site.logisticsMapAutoDirections %} true {% else %} false {% endif %};
         </script>
-    {% endif %} 
+    {% endif %}
     <script>
         Waves.displayEffect();
         {% if page.permalink == '/' %}
@@ -144,8 +133,8 @@ layout: compress
                 mobileCenterMapCoordinates = '{{ site.hackathonMapMobileCenterCoordinates | replace:' ','' }}',
                 icon = '{{ site.baseurl | prepend: site.url }}/img/other/map-marker.png';
             }
-            
-        {% endif %} 
+
+        {% endif %}
     </script>
     <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}"></script>
     {% if page.permalink == '/schedule/' %}
