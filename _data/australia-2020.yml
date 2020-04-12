@@ -20,7 +20,7 @@ descriptionBlock:
       linkTitle: "Check out the FAQ",
     }
   - {
-      title: "What do I have to expect?",
+      title: "What can I expect from the workshop?",
       template: "australia-2020/description-expectations.html",
       link: "/#faq",
       linkTitle: "Check out the FAQ",
@@ -48,8 +48,7 @@ mentors:
     surname: "Kraus"
     title: "&nbsp;"
     company: "Organizer"
-    bio: "<p>Martina Kraus always had a strong interest in Web-Engineering. As a freelance she focuses on implementing highly scalable software-solution with Node.Js and Angular.
-           Besides her work as a lecturer at the Hochschule Mannheim, she is also a member of Hackerststolz e.V. (https://hackerstolz.de), the Founder of the JavaScript User group and an organizer for AngularGirls Events.<p>"
+    bio: "<p>Martina is a Google Developer Expert in Angular and web technologies. Besides giving workshops as an Angular trainer,she is a core member of the ngGirls Team, and co-organizes the NG-DE conference.<p>"
     thumbnailUrl: martina.jpg
     rockstar: true
     social:
