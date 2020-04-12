@@ -20,7 +20,7 @@ descriptionBlock:
       linkTitle: "Check out the FAQ",
     }
   - {
-      title: "What do I have to expect?",
+      title: "What can I expect from the workshop?",
       template: "india-2020/description-expectations.html",
       link: "/#faq",
       linkTitle: "Check out the FAQ",
