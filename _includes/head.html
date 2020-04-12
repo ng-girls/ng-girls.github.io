@@ -47,7 +47,12 @@
     <style type="text/css">
         .mentor-flex {
             display: flex;
-            justify-content: space-around;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+        }
+
+        .mentor-flex > div {
+            flex-grow: 1;
         }
     </style>
 
