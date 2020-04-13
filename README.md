@@ -1,5 +1,5 @@
 # ngGirls Website (1.0)
-Its generated with jekyll.
+Its generated with Jekyll.
 
 ## Generate a project
 There is a small script which does 90% of the copy & paste work. We usually use as link ```/city-year/```
