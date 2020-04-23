@@ -55,11 +55,36 @@ mentors:
       - { name: "twitter", link: "https://twitter.com/MartinaKraus11" }
 
   - id: 3
+    name: "Srashti"
+    surname: "Jain"
+    title: "&nbsp;"
+    company: "Organizer"
+    bio: "<p>Srashti Jain is a senior developer at Hvantage Technologies. She has hands-on experience of  Angular, Microsoft Azure and Power BI.<p>"
+    thumbnailUrl: srashti.jpg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/srashtisj" }
+
+
+  - id: 4
+    name: "Gaurav"
+    surname: "Chouhan"
+    title: "&nbsp;"
+    company: "Organizer"
+    bio: '<p>Gaurav is an Independent Software Consultant from India. He is Co-Founder Indore Technical Community, a local community group which organizes technology sessions, seminars and events for professionals and students.
+             He is also a volunteer <a href="http://theyouthproject.in/">@TheYouthProject.in</a>, an online learning initiative to help students get access to professional mentoring and instructor led online coaching to master various technologies.<p>'
+    thumbnailUrl: gaurav.jpg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/gauravc12" }
+
+  - id: 5
     name: "And You?"
     surname: ""
     company: "&nbsp;"
-    bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://forms.gle/2dqji3cE9zCUuWzh9" target="_blank"> this form</a>.</p>'
+    bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://forms.gle/qMM7i2G6JCBqm4Mk8" target="_blank"> this form</a>.</p>'
     thumbnailUrl: you.png
     rockstar: true
     social:
       - { name: "twitter", link: "https://twitter.com/xxx" }
+
