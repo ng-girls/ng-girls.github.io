@@ -49,7 +49,7 @@ mentors:
     title: "&nbsp;"
     company: "Organizer"
     bio: "<p>Martina is a Google Developer Expert in Angular and web technologies. Besides giving workshops as an Angular trainer,she is a core member of the ngGirls Team, and co-organizes the NG-DE conference.<p>"
-    thumbnailUrl: martina.jpg
+    thumbnailUrl: martina.png
     rockstar: true
     social:
       - { name: "twitter", link: "https://twitter.com/MartinaKraus11" }
