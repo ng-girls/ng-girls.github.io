@@ -91,3 +91,27 @@
   social:
     - {name: "twitter", link: "https://twitter.com/pelagia1232"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/pelcia/"}
+
+- id: 6
+  name: "Alisa"
+  surname: "Duncan"
+  company: "Engaged Technologies"
+  title: "Software Architect"
+  bio: "<p>Alisa is a software architect, a meetup organizer, and a volunteer who is enthusiastic about
+    increasing diversity in tech and creating safe spaces for women to learn.
+    She's a passionate supporter of programs that lower barriers
+    for under-represented communities to enter fields where there is opportunity for economic empowerment.
+    </p>
+    <p>
+    She is a co-organizer of <a href='https://www.meetup.com/angularkc/' target='_blank'>AngularKC</a> and the
+    Technical Materials Director for <a href='https://codingandcocktails.kcwomenintech.org' target='_blank'>Coding & Cocktails</a>,
+    a program by <a href='https://kcwomenintech.org' target='_blank'>Kansas City Women in Technology</a> that teaches women web development basics.
+    </p>
+    <p>
+    In her free time Alisa enjoys reading, learning new things, and having a drink on her patio.
+    </p>"
+  thumbnailUrl: alisa.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/AlisaDuncan"}
+    - {name: "github", link: "https://github.com/alisaduncan"}
