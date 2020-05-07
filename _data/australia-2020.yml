@@ -30,6 +30,7 @@ partners:
     elements:
       - {name: "WTM Australia", description: "WTM Australia", link: "https://www.meetup.com/topics/women-tech-makers/au", imageUrl: "wtm.png"}
       - {name: "MusesCodeJS", description: "js workshops for women, non-binary and trans folk around Australia", link: "https://musescodejs.org", imageUrl: "mcjs.png"}
+      - {name: "Progate", description: "Empowering everyone to open new doors through programming.", link: "https://progate.com/dashboard", imageUrl: "progate.png"}
       - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimatecourses.com/", imageUrl: "ultimate-courses.svg"}
       - {name: "JetBrains", description: "JetBrains -  intelligent development tools", link: "https://www.jetbrains.com/", imageUrl: "JetBrains-logo.png", width: "130px"}
 
