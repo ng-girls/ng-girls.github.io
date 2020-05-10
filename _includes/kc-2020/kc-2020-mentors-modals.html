@@ -45,7 +45,7 @@
 	</div>
 	{% endif %}
 	{% endfor %}
-	{% for member in site.data.kc-2019.volunteers %}
+	{% for member in site.data.kc-2020.volunteers %}
 	{% if page.modal == "all" or (page.modal == 'team' and (member.team != null or member.subTeam != null)) %}
 	<div class="modal fade text-left people-modal" id="mentorDetailKC2020-{{ member.id }}" tabindex="-1" role="dialog"
 		 aria-labelledby="memberDetailLabel-{{ member.id }}" aria-hidden="true">
