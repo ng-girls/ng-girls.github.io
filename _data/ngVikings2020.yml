@@ -1,11 +1,11 @@
 heroImage: "oslo.jpg"
-date: "Wednesday, May 27th, 2020"
-location: "Microsoft Norway office, Dronning Eufemias gate 71, Oslo"
-deadline: "May 1st, 2020"
-eventDate: "Wednesday, May 27th, 2020, Oslo, Norway"
+date: "📅 Saturday May 23rd, 2020"
+location: "Online"
+deadline: "May 19th, 2020"
+eventDate: "Saturday May 23rd, 2020 - Online ngVikings"
 applicationForm: "https://forms.gle/V15XKYKLfggNnSeeA"
 mentorsForm: "https://forms.gle/VZLbxLtt4K2NwD5q9"
-descriptionTitle: "ngGirls @ ngVikings"
+descriptionTitle: "ngGirls @ ngVikings Online 2020"
 descriptionBlock:
  - {title: "Who is it for?", template: "ngVikings2020/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
  - {title: "Schedule", template: "ngVikings2020/description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
@@ -94,8 +94,48 @@ mentors:
   social:
     - {name: "twitter", link: "https://twitter.com/MartinaKraus11"}
 
-
 - id: 5
+  name: "Katarzyna"
+  surname: "Płocka"
+  title: "&nbsp;"
+  company: "Organizer"
+  bio: "<p>Katarzyna (aka Pelcia) is Software Developer, workshops organiser, meetup and conference speaker.
+   She’s also a real people person, bringing instant smile to faces of colleagues around.
+   She first attended ngGirls in Copenhagen where she realized she is meant to be a mentor.
+   She decided to organize extended workshops so woman have more time to learn and talk with open and passionate people.
+   It turned out to be a great idea. Now Pelcia keeps organizing workshops, being active member of local programming community and supporting others in growth.<p>"
+  thumbnailUrl: pelcia.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/pelagia1232"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pelcia/"}
+
+- id: 6
+  name: "Alisa"
+  surname: "Duncan"
+  title: "&nbsp;"
+  company: "Organizer"
+  bio: "<p>Alisa is a software architect, a meetup organizer, and a volunteer who is enthusiastic about
+    increasing diversity in tech and creating safe spaces for women to learn.
+    She's a passionate supporter of programs that lower barriers
+    for under-represented communities to enter fields where there is opportunity for economic empowerment.
+    </p>
+    <p>
+    She is a co-organizer of <a href='https://www.meetup.com/angularkc/' target='_blank'>AngularKC</a> and the
+    Technical Materials Director for <a href='https://codingandcocktails.kcwomenintech.org' target='_blank'>Coding & Cocktails</a>,
+    a program by <a href='https://kcwomenintech.org' target='_blank'>Kansas City Women in Technology</a> that teaches women web development basics.
+    </p>
+    <p>
+    In her free time Alisa enjoys reading, learning new things, and having a drink on her patio.
+    </p>"
+  thumbnailUrl: alisa.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/AlisaDuncan"}
+    - {name: "github", link: "https://github.com/alisaduncan"}
+
+
+- id: 7
   name: "And You?"
   surname: ""
   title: "&nbsp;"
