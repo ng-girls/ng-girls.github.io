@@ -1,9 +1,9 @@
-eventDate: "July 24 - 25, 2020, Kansas City - Online"
+eventDate: "July 24 - 25, 2020, Kansas City - ONLINE"
 location: "Online"
 deadline: "June 27, 2020"
 applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSeGkvb8LTUScb_XnMadgrJryQl0itv-JLY9ummwu2k84WjfrQ/viewform"
 mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSd2h_l0Cu5aT5mkQhVr_oOWnHamXHzQbsKx86txhHfvZkrLBQ/viewform"
-descriptionTitle: "ngGirls @ Kansas City 2020 - Online"
+descriptionTitle: "ngGirls @ Kansas City 2020 - ONLINE"
 descriptionBlock:
  - {title: "Who is it for?", template: "kc-2020/kc-2020-description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
  - {title: "Keep up with us", template: "kc-2020/kc-2020-description-social-media.html"}
