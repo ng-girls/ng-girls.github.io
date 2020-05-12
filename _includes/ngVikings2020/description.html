@@ -11,7 +11,7 @@
             </p>
             <hr>
             <article class="row">
-                {% for post in site.data.ngVikings2020.descriptionBlock limit:2 %}
+                {% for post in site.data.ngVikings2020.descriptionBlock %}
                 {% assign postUrl = site.baseurl | append: post.link %}
                 <div class="post col-md-6 col-sm-6 text-left animated hiding" data-animation="fadeInDown"
                      data-delay="500">
