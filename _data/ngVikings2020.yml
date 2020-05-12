@@ -9,9 +9,7 @@ descriptionTitle: "ngGirls @ ngVikings Online 2020"
 descriptionBlock:
  - {title: "ngGirls Online Workshops", template: "ngVikings2020/description-online.html"}
  - {title: "Who is it for?", template: "ngVikings2020/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
- - {title: "Can I help?", template: "ngVikings2020/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
-                  <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
-                  From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
+ 
 partners:
 
 -
