@@ -2,7 +2,7 @@
 <div class="modals" class="modals">
 	{% for speaker in site.data.ngVikings2020.mentors %}
 	{% if page.modal == "all" or (page.modal == 'team' and (speaker.team != null or speaker.subTeam != null)) %}
-	<div class="modal fade text-left people-modal" id="mentorDetailNgConf2018-{{ speaker.id }}" tabindex="-1" role="dialog"
+	<div class="modal fade text-left people-modal" id="mentorDetailngVikings2020-{{ speaker.id }}" tabindex="-1" role="dialog"
 			 aria-labelledby="speakerDetailLabel-{{ speaker.id }}" aria-hidden="true">
 		<div class="modal-dialog">
 			<div class="modal-content">
@@ -22,7 +22,7 @@
 						<div class="row">
 							<div class="col-md-2 col-sm-2">
 								<div class="flow-img img-circle people-img"
-										 style="background-image: url({{ site.baseurl | append: '/img/ngconf2018-mentors/' | append: speaker.thumbnailUrl }})"></div>
+										 style="background-image: url({{ site.baseurl | append: '/img/ngvikings2020-mentors/' | append: speaker.thumbnailUrl }})"></div>
 							</div>
 							<div class="col-md-10 col-sm-10 details">
 								<p class="about">{{ speaker.bio }}</p>
