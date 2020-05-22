@@ -29,7 +29,7 @@ mentors:
   id: 1
   name: "Revital"
   surname: "Friedman"
-  title: "&nbsp;"
+  title: "ngGirls"
   company: "Organizer"
   description: "I've always wanted to combine my love for advance technologies with my willing to help other girls in the Tech world.
   I have volunteered as a mentor in the first ngGirls workshop, and there I found my way to share my knowledge and help other girls to join the wonderful family of Angular."
@@ -45,7 +45,7 @@ mentors:
 - id: 2
   name: "Robert"
   surname: "Willemelis"
-  title: "&nbsp;"
+  title: "ngGirls"
   company: "Organizer"
   bio: "<p>The last years I’ve learned how great diversity can be. I was in some conferences with big diversity support
    (like jsunconf and craft conf). I met a lot of clever female developer and speaker from which know-how I was
@@ -79,7 +79,7 @@ mentors:
 - id: 4
   name: "Martina"
   surname: "Kraus"
-  title: "&nbsp;"
+  title: "ngGirls"
   company: "Organizer"
   bio: "<p>Martina Kraus always had a strong interest in Web-Engineering. At inovex GmbH she focuses on implementing highly scalable software-solution with Node.Js and Angular.
           Besides her work as a lecturer at the Hochschule Mannheim, she also co-organizes the loca Angular Heidelberg Meetup, is the Founder of the JavaScript User group and an organizer for AngularGirls Events.<p>"
@@ -91,7 +91,7 @@ mentors:
 - id: 5
   name: "Katarzyna"
   surname: "Płocka"
-  title: "&nbsp;"
+  title: "ngGirls"
   company: "Organizer"
   bio: "<p>Katarzyna (aka Pelcia) is Software Developer, workshops organiser, meetup and conference speaker.
    She’s also a real people person, bringing instant smile to faces of colleagues around.
@@ -107,7 +107,7 @@ mentors:
 - id: 6
   name: "Alisa"
   surname: "Duncan"
-  title: "&nbsp;"
+  title: "ngGirls"
   company: "Organizer"
   bio: "<p>Alisa is a software architect, a meetup organizer, and a volunteer who is enthusiastic about
     increasing diversity in tech and creating safe spaces for women to learn.
@@ -130,12 +130,89 @@ mentors:
 
 
 - id: 7
-  name: "And You?"
-  surname: ""
-  title: "&nbsp;"
-  company: "&nbsp;"
-  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/BkFjKCLSmcBkJBO23" target="_blank"> this form</a>.</p>'
-  thumbnailUrl: you.png
+  name: "Anower"
+  surname: "Jahan"
+  title: "Remote and Freelance Frontend Developer"
+  company: "Millennium Information Solution Ltd."
+  bio: "<p>Hi, This is Shofol.
+  I am a Angular 2+ developer from Dhaka, Bangladesh. Working on this side for more than two years.
+  I am always seeking some opportunity to contribute to the community.
+  And, for that I try to blog sometime or contribute a little to open source projects though I don't get enough time or scope to do that.
+  And, I like to help the beginners who are new to Angular to grasp the Framework and also the basics.
+  That's why I think joining a great community like ngGirls will just give me some scope to help the community in a broader way</p>"
+  thumbnailUrl: anower.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/xxx"}
+    - {name: "github", link: "https://github.com/Shofol"}
+    - {name: "twitter", link: "https://twitter.com/jahananower"}
+
+- id: 8
+  name: "Ahmed"
+  surname: "Khan"
+  title: "Associate Javascript Developer"
+  company: "Arpatech"
+  bio: "<p>Ahmed khan is an Associate Javascript Developer from Arpatech.
+  He is a Javascript Enthusiast and a motivational speaker.
+  He believes in contributing to the society and has worked as a mentor in various events such as TechKaro, PWIC and Ngirls in karachi.
+  When he is not coding, you will find him giving talks and motivating people.</p>"
+  thumbnailUrl: ahmed.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/ahmedkhan1"}
+    - {name: "twitter", link: "https://twitter.com/50shadeofkhan"}
+
+- id: 9
+  name: "Shilpa"
+  surname: "Lalwani"
+  title: "Angular Developer"
+  company: "Tata Consultancy Services"
+  bio: "<p></p>"
+  thumbnailUrl: shilpa.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/shilpalalwani"}
+    - {name: "twitter", link: "https://twitter.com/Shilpalalwani3"}
+
+- id: 10
+  name: "Sandro"
+  surname: "Schmid"
+  title: "Software Engineer"
+  company: "Dynatrace / University of Applied Sciences Upper Austria, campus Hagenberg"
+  bio: "<p>When I first learned programming at school, I quickly got very enthusiastic about it.
+  I ended up studying Software Engineering followed by Human Centered Computing at the University of Applied Sciences Upper Austria and working as a web developer.
+  Web development included Angular 2+ right from the beginning and still does.
+  I enjoy working on libraries and data visualization.
+  For one Angular-PWA-project I developed a library-prototype for the IndexedDB, currently I am working on network visualizations.
+  Also, it is great and a lot of fun to get others enthusiastic about web stuff as well.</p>"
+  thumbnailUrl: sandro.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/sandroschmid"}
+    - {name: "twitter", link: "https://twitter.com/sasebsch"}
+
+- id: 11
+  name: "Sanchi"
+  surname: "Bansal"
+  title: "Full-time student"
+  company: "HMR Institute of Technology and Management"
+  bio: "<p>I am a sophomore pursuing Computer Science Engineering.
+  I love to contribute to open source projects and have been building websites using HTML since 6th grade.
+  I am an active part of a lot of tech communities.
+  I want to be a part of ngGirls so that I can introduce the joys of programming to as many girls/women as possible to coding and make them believe that coding is not made for men only.</p>"
+  thumbnailUrl: sanchi.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/sanchibansal340"}
+    - {name: "twitter", link: "https://twitter.com/SanchiBansal340"}
+
+- id: 12
+  name: "Fabriece"
+  surname: "Sumuni"
+  title: "Software Engineer"
+  company: "K30 Group AS"
+  bio: "<p>I'm a full stack developer with a passion for the web and Angular in particular. I would love to awaken the same passion in others.</p>"
+  thumbnailUrl: fabriece.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/sfabriece"}
+    - {name: "twitter", link: "https://twitter.com/sfabriece"}
