@@ -216,3 +216,30 @@ mentors:
   social:
     - {name: "github", link: "https://github.com/sfabriece"}
     - {name: "twitter", link: "https://twitter.com/sfabriece"}
+
+- id: 13
+  name: "Ankita"
+  surname: "Singhal"
+  title: "Software Developer"
+  company: "Delivery Hero"
+  bio: "<p>Hi, This is Ankita. I am Angular 2+ developer from India, currently working in Berlin.
+         Started learning Angular few years back and there was never looking back.
+         I feel that Girls who code are really cool and I am glad to be a part of a ngGirls where I can learn from fellow dev heroes and contribute my bit to our community by helping others learn. :)</p>"
+  thumbnailUrl: ankita.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/AnkitaSinghal"}
+    - {name: "twitter", link: "https://twitter.com/Ankita__Singhal"}
+
+- id: 14
+  name: "Dimitar"
+  surname: "Dimitrov"
+  title: "Software Engineer"
+  company: ""
+  bio: "<p>I am a software engineer trying not to forget where he's started from with all the joys and frustrations.
+  I enjoy mentoring and sharing my experience, hoping that others can achieve more building on top of my observations, successes and failures.</p>"
+  thumbnailUrl: dimitar.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/dimitarid"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/diwanow/"}
