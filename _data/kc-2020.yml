@@ -24,10 +24,10 @@ partners:
 #- group: "Platinum Sponsors"
 #  type: 'platinum'
 #  elements:
-- group: "Gold Sponsors"
-  type: 'gold'
-  elements:
-    - {name: "JE Dunn", description: "At JE Dunn, we exist to enrich lives through inspired people and places.", link: "https://www.jedunn.com/", imageUrl: "jedunn.jpg", width: "200px" }
+#- group: "Gold Sponsors"
+#  type: 'gold'
+#  elements:
+#    - {name: "JE Dunn", description: "At JE Dunn, we exist to enrich lives through inspired people and places.", link: "https://www.jedunn.com/", imageUrl: "jedunn.jpg", width: "200px" }
 #- group: "Silver Sponsors"
 #  type: 'silver'
 #  elements:
