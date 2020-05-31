@@ -117,8 +117,8 @@ bottomNavigationLinks:
   #- {permalink: "/tlv-2020/", text: "ngGirls @ Tel Aviv"}
   #- {permalink: "/seattle-2020/", name: "ngGirls @ Seattle"}
   #- {permalink: "/vienna03_2020/", text: "ngGirls @ Vienna ONLINE"}
-  - {permalink: "/australia-2020/", text: "ngGirls @ Australia ONLINE 2020"}
-  - {permalink: "/ngVikings-2020/", text: "ngGirls @ ngVikings ONLINE 2020"}
+  #- {permalink: "/australia-2020/", text: "ngGirls @ Australia ONLINE 2020"}
+  #- {permalink: "/ngVikings-2020/", text: "ngGirls @ ngVikings ONLINE 2020"}
   - {permalink: "/india-2020/", text: "ngGirls @ India ONLINE 2020"}
   #- {permalink: "/tlv-2020/", text: "ngGirls Pro @ TLV"}
   #- {permalink: "/ngconf-2020/", text: "ngGirls @ ng-conf"}
@@ -203,11 +203,11 @@ upcomingEvents:
   #- {permalink: "/ngconf-2020/", text: "ngGirls @ ng-conf", date: "March 31st<br /> 2020", location: "Online", name: "ngGirls @ ng-conf", image: "ngconf-2020_small.jpg"}
   # - {permalink: "/mtv-2020/",text: "ngGirls @ Mountain View", date: "April 13th<br /> 2020", location: "Mountain View, California", name: "ngGirls @ Mountain View", image: "Google_MTV_small.jpg"}
   # - {permalink: "/ngVikings-2020/", text: "ngGirls @ ngVikings 2020", date: "May 27th<br /> 2020", location: "ngVikings, Oslo", name: "ngGirls @ ngVikings 2020", image: "oslo_small.jpg"}
-  - {permalink: "/australia-2020/", text: "ngGirls @ Australia ONLINE", date: "May 16th<br /> 2020", location: "Australia ONLINE", name: "ngGirls @ Australia ONLINE", image: "australia.jpeg"}
-  - {permalink: "/ngVikings-2020/", text: "ngGirls @ ngVikings ONLINE", date: "May 23rd<br /> 2020", location: "ngVikings ONLINE", name: "ngGirls @ ngVikings ONLINE", image: "oslo_small.jpg"}
+  #- {permalink: "/australia-2020/", text: "ngGirls @ Australia ONLINE", date: "May 16th<br /> 2020", location: "Australia ONLINE", name: "ngGirls @ Australia ONLINE", image: "australia.jpeg"}
+  #- {permalink: "/ngVikings-2020/", text: "ngGirls @ ngVikings ONLINE", date: "May 23rd<br /> 2020", location: "ngVikings ONLINE", name: "ngGirls @ ngVikings ONLINE", image: "oslo_small.jpg"}
   - {permalink: "/budapest-2020/", text: "ngGirls @ Budapest 2020", date: "June 8th<br /> 2020", location: "Budapest", name: "ngGirls @ Budapest 2020", image: "budapest_small.jpg"}
-  - {permalink: "/kc-2020/", text: "ngGirls @ Kansas City ONLINE 2020", date: "July 25th<br /> 2020", location: "Kansas City ONLINE", name: "ngGirls @ Kansas City ONLINE 2020", image: "kc_small.jpg"}
   - {permalink: "/india-2020/", text: "ngGirls @ India ONLINE", date: "July 4th<br /> 2020", location: "India ONLINE", name: "ngGirls @ India ONLINE", image: "Hawa_Mehal.jpg"}
+  - {permalink: "/kc-2020/", text: "ngGirls @ Kansas City ONLINE 2020", date: "July 25th<br /> 2020", location: "Kansas City ONLINE", name: "ngGirls @ Kansas City ONLINE 2020", image: "kc_small.jpg"}
 
 heroButtons:
   # - {permalink: "/JS-Poland/", text: "ngGirls @ JS-Poland"}
@@ -277,8 +277,8 @@ heroButtons:
   # - {permalink: "/ngconf-2020/", text: "ngGirls @ ng-conf"}
   # - {permalink: "/mtv-2020/", text: "ngGirls @ Mountain View"}
   # - {permalink: "/ngVikings-2020/", text: "ngGirls @ ngVikings 2020"}
-  - {permalink: "/australia-2020/", text: "ngGirls @ Australia ONLINE 2020"}
-  - {permalink: "/ngVikings-2020/", text: "ngGirls @ ngVikings ONLINE 2020"}
+  #- {permalink: "/australia-2020/", text: "ngGirls @ Australia ONLINE 2020"}
+  #- {permalink: "/ngVikings-2020/", text: "ngGirls @ ngVikings ONLINE 2020"}
   - {permalink: "/india-2020/", text: "ngGirls @ India ONLINE 2020"}
   - {permalink: "/budapest-2020/", text: "ngGirls @ Budapest 2020"}
   - {permalink: "/kc-2020/", text: "ngGirls @ Kansas City 2020 ONLINE"}
