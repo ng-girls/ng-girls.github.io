@@ -205,7 +205,7 @@ upcomingEvents:
   # - {permalink: "/ngVikings-2020/", text: "ngGirls @ ngVikings 2020", date: "May 27th<br /> 2020", location: "ngVikings, Oslo", name: "ngGirls @ ngVikings 2020", image: "oslo_small.jpg"}
   #- {permalink: "/australia-2020/", text: "ngGirls @ Australia ONLINE", date: "May 16th<br /> 2020", location: "Australia ONLINE", name: "ngGirls @ Australia ONLINE", image: "australia.jpeg"}
   #- {permalink: "/ngVikings-2020/", text: "ngGirls @ ngVikings ONLINE", date: "May 23rd<br /> 2020", location: "ngVikings ONLINE", name: "ngGirls @ ngVikings ONLINE", image: "oslo_small.jpg"}
-  - {permalink: "/budapest-2020/", text: "ngGirls @ Budapest 2020", date: "June 8th<br /> 2020", location: "Budapest", name: "ngGirls @ Budapest 2020", image: "budapest_small.jpg"}
+  - {permalink: "/budapest-2020/", text: "ngGirls @ Budapest ONLINE", date: "June 27th<br /> 2020", location: "Budapest", name: "ngGirls @ Budapest ONLINE", image: "budapest_small.jpg"}
   - {permalink: "/india-2020/", text: "ngGirls @ India ONLINE", date: "July 4th<br /> 2020", location: "India ONLINE", name: "ngGirls @ India ONLINE", image: "Hawa_Mehal.jpg"}
   - {permalink: "/kc-2020/", text: "ngGirls @ Kansas City ONLINE 2020", date: "July 25th<br /> 2020", location: "Kansas City ONLINE", name: "ngGirls @ Kansas City ONLINE 2020", image: "kc_small.jpg"}
 
