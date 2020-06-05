@@ -1,7 +1,7 @@
-eventDate: "June 8th, 2020, Budapest "
+eventDate: "June 27th, 2020, Budapest "
 applicationForm: "https://docs.google.com/forms/d/e/1FAIpQLSf_YtG4p9gCwtRVRYcApAzEyoYMFd_xOZYbM3zZagSu0GC5eg/viewform"
 mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSe4xkZWehVcU9Eth9mZJ3tJFZkIbgPa5RAzd5XwyQpkvPslsQ/viewform"
-descriptionTitle: "ngGirls @ Budapest 2020"
+descriptionTitle: "ngGirls @ Budapest ONLINE"
 descriptionBlock:
  - {title: "Who is it for?", template: "budapest-2020/budapest-2020-description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
  - {title: "Schedule", template: "budapest-2020/budapest-2020-description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
