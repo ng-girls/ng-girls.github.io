@@ -21,9 +21,11 @@ faqs:
   - {question: "I'm not a woman. Can I mentor?", answer: "<p>Yes! Everyone is welcome to mentor. We'd love to work with you!</p>"}
 
 partners:
-#- group: "Platinum Sponsors"
-#  type: 'platinum'
-#  elements:
+- group: "Partner Sponsors"
+  type: 'platinum'
+  elements:
+    - {name: "SnapIT Solutions", description: "Unleash our collective human potential to deliver innovative, world-class technology solutions.", link: "https://snapit.solutions/", imageUrl: "snapitsolutions.png", width: "200px" }
+    - {name: "KU Edwards Campus", description: "Practical knowledge and skills to start or advance your career from the University of Kansas", link: "https://kupce.ku.edu/", imageUrl: "kupce.png", width: "200px" }
 #- group: "Gold Sponsors"
 #  type: 'gold'
 #  elements:
