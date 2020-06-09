@@ -82,12 +82,13 @@ mentors:
       - { name: "twitter", link: "https://twitter.com/gauravc12" }
 
   - id: 5
-    name: "And You?"
-    surname: ""
-    company: "&nbsp;"
-    bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://forms.gle/qMM7i2G6JCBqm4Mk8" target="_blank"> this form</a>.</p>'
-    thumbnailUrl: you.png
+    name: "Oren"
+    surname: "Farhi"
+    title: "Senior Front End Engineer"
+    company: "TangentLogic / Orizens.com"
+    bio: "<p>Hi - I'm Oren Farhi. I'm a Senior Software Engineer, focusing on Front End & Software Architecture.<br/>I earned Software Engineering & Development skills by being self-driven and making things happen, experimenting, experience, open source some of my work, writing about it and reading a lot.<br/>I share my knowledge and code via open source projects, articles and my book.</p>"
+    thumbnailUrl: https://www.gravatar.com/avatar/10036b8b167326fa6edfd2ad38c01ddc?s=512
     rockstar: true
     social:
-      - { name: "twitter", link: "https://twitter.com/xxx" }
+      - { name: "twitter", link: "https://twitter.com/orizens" }
 
