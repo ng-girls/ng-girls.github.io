@@ -92,3 +92,284 @@ mentors:
     social:
       - { name: "twitter", link: "https://twitter.com/orizens" }
 
+  - id: 6
+    name: "Akanksha"
+    surname: "Singh"
+    title: "Student"
+    company: "Indira Gandhi Delhi Technical University for Women"
+    thumbnailUrl: Akacodegenie.jpg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/Akacodegenie" }
+      - { name: "github", link: "https://github.com/Akanksha1212" }
+    bio: "<p>I am a programmer and a quizzer who loves facts and trivia about almost everything under the sun. Telling interesting facts and asking Did you know? is something I keep doing all the time. I am a student volunteer at Women Who Code Delhi and AnitaB.org open source team. I want to contribute to ngGirls as it's an amazing initiative to help girls in getting started with Angular and other technologies.</p>"
+ 
+  - id: 7
+    name: "Aliaksei"
+    surname: "Kuncevič"
+    title: "Independent Consultant"
+    company: "angularconsulting.com.au and kuncevic.dev"
+    thumbnailUrl: kuncevic.jpg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/kuncevic" }
+      - { name: "github", link: "https://github.com/kuncevic" }
+    bio: "<p>I like teaching Angular and help community.</p>"
+ 
+  - id: 8
+    name: "Amit"
+    surname: "Chigadani"
+    title: "Software Engineer"
+    company: "Wissen Technology"
+    thumbnailUrl: amit_chigadani.jpeg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/amit_chigadani" }
+      - { name: "github", link: "https://github.com/amitpchigadani" }
+    bio: "<p>I am Amit Chigadani, a web enthusiasts and Angular fanatic. Having learnt so much from the community, I want to make my little contribution by taking this opportunity to mentor and guide the new developers.</p>"
+ 
+  - id: 9
+    name: "Ankit"
+    surname: "Sharma"
+    title: "Senior Member Technical"
+    company: "ADP"
+    thumbnailUrl: ankitsharma_007.jpg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/ankitsharma_007" }
+      - { name: "github", link: "https://github.com/AnkitSharma-007" }
+    bio: "<p>Ankit Sharma is a Software Engineer currently working as Senior Member Technical with ADP in Hyderabad, India. He acquired a Bachelor’s degree in Computer Science from Siddaganga Institute of Technology, Tumkur (Karnataka) in 2014. He has over 6 years of extensive experience in Microsoft technologies including C#, ASP.NET, SQL Server and UI technologies such as JQuery, Angular and Blazor.
+    <br/>Ankit is a technical author and speaker and loves to contribute to the open-source community. He writes articles for multiple platforms, which include c-sharpcorner, Dzone, Medium, and freeCodeCamp. For his dedicated contribution to the developer’s community, he has been recognized as the Google Developer Expert for Angular, a c-sharpcorner MVP, and a Dzone MVB. He is also the author of the first-ever book on Blazor – Blazor Quick Start Guide.
+    <br/>I am participating in ngGirls to share my experience and expertise with the budding developers.</p>"
+ 
+  - id: 10
+    name: "Bhavesh"
+    surname: "Mali"
+    title: "Student"
+    company: "Lovely Professional University, Punjab"
+    thumbnailUrl: Imbhavesh28.jpg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/Imbhavesh28" }
+      - { name: "github", link: "https://github.com/imbhavesh28" }
+    bio: "<p>MLCC Study Jams Facilitator at Google | Full Stack Developer | Cloud Enthusiast | SIH - 2019 Grand Finalist</p>"
+ 
+  - id: 11
+    name: "Craig"
+    surname: "Spence"
+    title: "Software Engineer"
+    company: "Spotify"
+    thumbnailUrl: phenomnominal.jpg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/phenomnominal" }
+      - { name: "github", link: "https://github.com/phenomnomnominal" }
+    bio: "<p></p>"
+ 
+  - id: 12
+    name: "Erin"
+    surname: "Zimmer"
+    title: "Front end dev"
+    company: "Cogent"
+    thumbnailUrl: ErinJZimmer.jpg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/ErinJZimmer" }
+      - { name: "github", link: "https://github.com/ejzimmer" }
+    bio: "<p>Erin is the Community Engineering Lead at Cogent. She is a Google Developer Expert, and a Mozilla Tech Speaker, with over ten years' experience in a variety of languages - from JavaScript to the rather obscure mainframe language Model204, but she is most passionate about building websites with users in mind. She is an active member of the Melbourne developer community and has spoken at conferences around the world. If you see her at a conference, she'll probably have knitting needles in hand.</p>"
+ 
+  - id: 13
+    name: "Harpreet"
+    surname: "Kaur"
+    title: "Software engineer"
+    company: "DealerSocket"
+    thumbnailUrl: kaur01.jpeg
+    rockstar: true
+    bio: "<p>I am a full stack developer. Java, javascript, python and perl are some of the languages I know. Javascript being an absolute favourite. Teaching/Mentoring gives me satisfaction and I have done it for over 3 years. ngGirls is an amalgamation of these two passions of mine. With that said, I love reading books and tea! </p>"
+ 
+  - id: 14
+    name: "Hiren"
+    surname: "Dave"
+    title: "Chief Technology Officer"
+    company: "AbhayTech Solutions LLP."
+    thumbnailUrl: hjdave.JPG
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/hjdave"
+    bio: "<p>CTO, Product Manager, Entrepreneur, Tech Author, Blogger and Speaker with more than 12 years of industry experience.
+    <br/>Have experience of developing Android, iOS, Hybrid, Cross Platform application. Good experience on Sencha Touch, Sencha ExtJs , Phonegap, Cordova, Appcelerator Titanium, Corona for cross platform development. Worked with Magento, OpenCart.
+    <br/>Have experience of implementing eCommerce, mobile commerce, online/mobile ordering for restaurants, mobile marketing, location based solution, POS system. GPS based application, vehicle tracking application.</p>
+    <p><a href='https://hiren.dev' target='_blank'>https://hiren.dev</a></p>
+    <p><a href='https://hirendave.tech/my-tech-talks/' target='_blank'>https://hirendave.tech/my-tech-talks</a></p>"
+ 
+  - id: 15
+    name: "Johnathan"
+    surname: "Hair"
+    title: "Technical Lead"
+    company: "Centennial"
+    thumbnailUrl: JohnathanHair.jpeg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/JohnathanHair" }
+      - { name: "github", link: "https://github.com/jhairau" }
+    bio: "<p>I have a passion for creating and helping others develop digital experiences. I'm participating in ngGirls because I really enjoy mentoring people that have a passion for digital</p>"
+ 
+  - id: 16
+    name: "Jonathan"
+    surname: "Yee"
+    title: "Full stack developer"
+    company: "Everwealth."
+    thumbnailUrl: heyjonyee.jpeg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/heyjonyee" }
+      - { name: "github", link: "https://github.com/Jonyeezs" }
+    bio: "<p>If I wasn't a full-stack Angular-centric software developer. I would have been a teacher. Excited to help people find their aha moments in their programming career.</p>"
+ 
+  - id: 17
+    name: "Leonel"
+    surname: "Elimpe"
+    title: "Software Developer"
+    company: "Ngande Consulting"
+    thumbnailUrl: leonelngande.jpeg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/leonelngande" }
+      - { name: "github", link: "https://github.com/leonelngande" }
+    bio: "<p>A Front-end developer focused on Angular. I think it's a really nice thing to do helping others get started with Angular. With the help I received (and still receiving), I was able to get started and gain enough experience to build web and mobile applications with Angular. So I'll gladly support and continue to participate in activities aimed at helping others in their journey.</p>"
+ 
+  - id: 18
+    name: "Melissa"
+    surname: "Houghton"
+    title: "Senior Developer"
+    company: "Telstra Purple"
+    thumbnailUrl: meliss_houghton.jpg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/meliss_houghton" }
+    bio: "<p>Melissa Houghton is a Senior Developer at Telstra Purple.
+    <br/>Her work is focused on application development using Angular and .Net Core, but she has a wide variety of skills and is always open to learning new things.
+    <br/>She has a passion for technology, learning and giving back to the community. She frequents tech events and is an organiser for DDD Melbourne, past organiser of DDD Perth and other NFP organisations such as CoderDojo.
+    <br/>Originally from California, Melissa now lives in Melbourne, Australia, after five years in Perth. Melissa loves to travel, drink wine and learn.</p>"
+ 
+  - id: 19
+    name: "Melissa"
+    surname: "Mepham"
+    title: "Software Developer"
+    company: "Trade Me"
+    thumbnailUrl: sidd.jpg
+    rockstar: true
+    social:
+      - { name: "github", link: "https://github.com/melmepham" }
+    bio: "<p>Front end developer, artist and all around creative human passionate about promoting inclusion and diversity within the tech industry. My success is because of all the people that supported and support me on my journey and I want to pass that on to others.</p>"
+ 
+  - id: 20
+    name: "Mohit"
+    surname: "Khandelwal"
+    title: "Full stack Developer"
+    company: "Infosys"
+    thumbnailUrl: mohitkh7.jpg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/mohitkh7" }
+      - { name: "github", link: "https://github.com/mohitkh7" }
+    bio: "<p>Mohit is from Pune, India where he works as a full stack developer at Infosys. He is a self learned developer well versed in Javascript, Python and Angular.</p>"
+ 
+  - id: 21
+    name: "Nitish Kumar"
+    surname: "Singh"
+    title: "Student"
+    company: "Lovely Professional Univerity"
+    thumbnailUrl: nitishk72_.png
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/nitishk72_" }
+      - { name: "github", link: "https://github.com/nitishk72" }
+    bio: "<p>I am conent creator @ YouTube and love sharing knowledge with others. I speak at local meetups and attend conference around me. You can talk👋 with me about new Technologies</p>"
+ 
+  - id: 22
+    name: "Pardeep"
+    surname: "Jain"
+    title: "Frontend Developer"
+    company: "Times Internet, Noida"
+    thumbnailUrl: Pardeepjain_90.jpg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/Pardeepjain_90" }
+      - { name: "github", link: "https://github.com/MrPardeep" }
+    bio: "<p> I've 4+ years of experience in Angular, apart from Coding I am open source contributor on SO, Github, writer (Medium, Quora). Also top contributor on SO from India under Angular Badge.
+    <br/>I would like to spread my knowledge and network via ngGirls community.</p>"
+ 
+  - id: 23
+    name: "Sanket"
+    surname: "Maru"
+    title: "Senior Engineer"
+    company: "NVIDIA Corporation"
+    thumbnailUrl: sanketmaru.jpg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/sanketmaru" }
+      - { name: "github", link: "https://github.com/sanketmaru" }
+    bio: "<p>Open Source Contributer, Codes Javascript. Supports Liverpool FC.
+          <br/>I am a developer, who likes exploring different technologies and deep dive into it to gain more insights. I am starting this blog to bring practical use cases to the web and share a bit of learnings with the world.
+          <br/>I am participating so as much i can help and learn new things on the way.</p>"
+ 
+  - id: 24
+    name: "Santosh"
+    surname: "Yadav"
+    title: "Developer"
+    company: "Luminescent digital"
+    thumbnailUrl: SantoshYadavDev.jpg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/SantoshYadavDev" }
+      - { name: "github", link: "https://github.com/santoshyadav198613" }
+    bio: "<p></p>"
+ 
+  - id: 25
+    name: "Shachita"
+    surname: "Jain"
+    title: "I am a 4th year student pursuing Engineering in the field of Computer Science."
+    company: "I have completed my on-job training in Valuelabs, Hyderabad and currently staying in Indore for my 8th sem exam(Acropolis Institute Of Technology And Research)""
+    thumbnailUrl: ShachitaJain.jpg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/ShachitaJain" }
+      - { name: "github", link: "https://github.com/Shachita" }
+    bio: "<p>I am a Computer Science 4th year student, core team member and organiser of WomenTech Makers Indore. Being an Angular Enthusiast, I am looking forward to more of such opportunities where I can help others and keep learning in the process.</p>"
+ 
+  - id: 26
+    name: "Shubham"
+    surname: "Bhardwaj"
+    title: "Student (current intern at ABInBev)""
+    company: "Indian Institute of Technology, Bombay"
+    thumbnailUrl: ShubhamB99.jpg
+    rockstar: true
+    social:
+      - { name: "github", link: "https://github.com/ShubhamB99" }
+    bio: "<p>I’m Shubham Bhardwaj, an undergraduate student from IIT Bombay, India. Having works such as a full stack development project by UNICEF, a research internship at Monash University, Machine Learning projects for Tvarit, and even contribution for a Student Satellite under my belt, I would never turn down any chance of technical discussion over a cup of coffee XD.
+    <br/>I’m also an avid traveller and trekker at heart and love to capture moments behind my lens! Being highly enthusiastic about bringing more and more girls into tech, I’d try to share my skillset and help them grow while volunteering in the ngGirls workshop! May the force be with you :D</p>"
+ 
+  - id: 27
+    name: "Shubhika"
+    surname: "Bhardwaj"
+    title: "SWE Intern"
+    company: "SAP Labs"
+    thumbnailUrl: _shubhika.jpeg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/_shubhika" }
+      - { name: "github", link: "https://github.com/ShubhikaBhardwaj" }
+    bio: "<p>Shubhika Bhardwaj is a Computer Science undergraduate student from Indira Gandhi Delhi Technical University for Women. She is an incoming intern at SAP Labs. Being a machine learning enthusiast, she  has developed 'Demographic-based Interactive AI screens.Her project CamCann, was awarded as the top 10 best projects at HackInOut 6, India's largest hackathon. She has received a $1000 USD travel grant for the TensorFlow Dev Summit at Google,Mountain View.This techie also writes content for her own travel blog. ngGirls is somethings which is very close to her free spirited and geeky nature. She is here on board ngGirls Australia as a mentor to teach women how tech can make them feel alive.</p>"
+ 
+  - id: 28
+    name: "Yasin"
+    surname: "Shah"
+    title: "Software Development Engineer Intern"
+    company: "Google India"
+    thumbnailUrl: YasinShah9598.png
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/YasinShah9598" }
+      - { name: "github", link: "https://github.com/Yasin-Shah" }
+    bio: "<p>I have 2 years of experience in web application developement in Java And also Angular JS for development of Web Apps projects in my Experience.I know java web framework API and work with front end and back end Technologies such as HTML,CSS,JavaScript,Json,XML ,Java Server Pages and Bootstrap Cascading in my project.I also worked with Python application development for development of machine learning project  with the help of machine learning libraries such as tensorflow,Keras,,matplotlib,scipy,numpy,and OpenCv module in my project.i have done facial Expression Reognition Project in google Colab and i have experience of working in google Colab for training the machine learning model.</p>"
