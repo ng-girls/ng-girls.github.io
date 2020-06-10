@@ -330,7 +330,7 @@ mentors:
     name: "Shachita"
     surname: "Jain"
     title: "I am a 4th year student pursuing Engineering in the field of Computer Science."
-    company: "I have completed my on-job training in Valuelabs, Hyderabad and currently staying in Indore for my 8th sem exam(Acropolis Institute Of Technology And Research)""
+    company: "I have completed my on-job training in Valuelabs, Hyderabad and currently staying in Indore for my 8th sem exam(Acropolis Institute Of Technology And Research)"
     thumbnailUrl: ShachitaJain.jpg
     rockstar: true
     social:
@@ -341,7 +341,7 @@ mentors:
   - id: 26
     name: "Shubham"
     surname: "Bhardwaj"
-    title: "Student (current intern at ABInBev)""
+    title: "Student (current intern at ABInBev)"
     company: "Indian Institute of Technology, Bombay"
     thumbnailUrl: ShubhamB99.jpg
     rockstar: true
