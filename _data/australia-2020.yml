@@ -142,18 +142,6 @@ mentors:
     <br/>Ankit is a technical author and speaker and loves to contribute to the open-source community. He writes articles for multiple platforms, which include c-sharpcorner, Dzone, Medium, and freeCodeCamp. For his dedicated contribution to the developer’s community, he has been recognized as the Google Developer Expert for Angular, a c-sharpcorner MVP, and a Dzone MVB. He is also the author of the first-ever book on Blazor – Blazor Quick Start Guide.
     <br/>I am participating in ngGirls to share my experience and expertise with the budding developers.</p>"
  
-  - id: 10
-    name: "Bhavesh"
-    surname: "Mali"
-    title: "Student"
-    company: "Lovely Professional University, Punjab"
-    thumbnailUrl: Imbhavesh28.jpg
-    rockstar: true
-    social:
-      - { name: "twitter", link: "https://twitter.com/Imbhavesh28" }
-      - { name: "github", link: "https://github.com/imbhavesh28" }
-    bio: "<p>MLCC Study Jams Facilitator at Google | Full Stack Developer | Cloud Enthusiast | SIH - 2019 Grand Finalist</p>"
- 
   - id: 11
     name: "Craig"
     surname: "Spence"
@@ -257,7 +245,7 @@ mentors:
     surname: "Mepham"
     title: "Software Developer"
     company: "Trade Me"
-    thumbnailUrl: sidd.jpg
+    thumbnailUrl: melmepham.jpeg
     rockstar: true
     social:
       - { name: "github", link: "https://github.com/melmepham" }
@@ -329,7 +317,7 @@ mentors:
   - id: 25
     name: "Shachita"
     surname: "Jain"
-    title: "I am a 4th year student pursuing Engineering in the field of Computer Science."
+    title: "Computer Science Student"
     company: "I have completed my on-job training in Valuelabs, Hyderabad and currently staying in Indore for my 8th sem exam(Acropolis Institute Of Technology And Research)"
     thumbnailUrl: ShachitaJain.jpg
     rockstar: true
@@ -355,7 +343,7 @@ mentors:
     surname: "Bhardwaj"
     title: "SWE Intern"
     company: "SAP Labs"
-    thumbnailUrl: _shubhika.jpeg
+    thumbnailUrl: shubhika.jpeg
     rockstar: true
     social:
       - { name: "twitter", link: "https://twitter.com/_shubhika" }
