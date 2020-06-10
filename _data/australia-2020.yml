@@ -195,7 +195,7 @@ mentors:
     thumbnailUrl: hjdave.JPG
     rockstar: true
     social:
-      - { name: "twitter", link: "https://twitter.com/hjdave"
+      - { name: "twitter", link: "https://twitter.com/hjdave" }
     bio: "<p>CTO, Product Manager, Entrepreneur, Tech Author, Blogger and Speaker with more than 12 years of industry experience.
     <br/>Have experience of developing Android, iOS, Hybrid, Cross Platform application. Good experience on Sencha Touch, Sencha ExtJs , Phonegap, Cordova, Appcelerator Titanium, Corona for cross platform development. Worked with Magento, OpenCart.
     <br/>Have experience of implementing eCommerce, mobile commerce, online/mobile ordering for restaurants, mobile marketing, location based solution, POS system. GPS based application, vehicle tracking application.</p>
