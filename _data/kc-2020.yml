@@ -30,12 +30,10 @@ partners:
 #  type: 'gold'
 #  elements:
 #    - {name: "JE Dunn", description: "At JE Dunn, we exist to enrich lives through inspired people and places.", link: "https://www.jedunn.com/", imageUrl: "jedunn.jpg", width: "200px" }
-#- group: "Silver Sponsors"
-#  type: 'silver'
-#  elements:
-#- group: "Venue provided by"
-#  type: 'venue'
-#  elements:
+- group: "Contributor Sponsors"
+  type: 'silver'
+  elements:
+    - {name: "Oasis Digital", description: "Full-stack development experts in Angular and web components", link: "https://oasisdigital.com/", imageUrl: "oasis-digital.png", width: "200px" }
 -  group: "Special thanks to"
    type: 'ng-girls'
    elements:
