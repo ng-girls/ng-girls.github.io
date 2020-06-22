@@ -154,6 +154,20 @@ team:
 
 mentors:
   - id: 1
+    name: "Stephen"
+    surname: "Fluin"
+    title: "Developer Relations"
+    company: "Google"
+    bio: '<p>Stephen leads Developer Relations for the Angular Team at Google.
+    Stephen works to solve real world problems faced by developers and businesses, and to represent the needs of the community within the Angular team.</p>'
+    thumbnailUrl: stephen.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/StephenFluin"}
+      - {name: "github", link: "https://github.com/StephenFluin"}
+
+
+  - id: 2
     name: "How about you?"
     surname: ""
     bio: '<p>Become a mentor and support the participants at our workshop. Just fill out the application form.</p>'
