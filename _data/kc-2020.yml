@@ -25,11 +25,8 @@ partners:
   type: 'platinum'
   elements:
     - {name: "SnapIT Solutions", description: "Unleash our collective human potential to deliver innovative, world-class technology solutions.", link: "https://snapit.solutions/", imageUrl: "snapitsolutions.png", width: "200px" }
-    - {name: "KU Edwards Campus", description: "Practical knowledge and skills to start or advance your career from the University of Kansas", link: "https://kupce.ku.edu/", imageUrl: "kupce.png", width: "200px" }
-#- group: "Gold Sponsors"
-#  type: 'gold'
-#  elements:
-#    - {name: "JE Dunn", description: "At JE Dunn, we exist to enrich lives through inspired people and places.", link: "https://www.jedunn.com/", imageUrl: "jedunn.jpg", width: "200px" }
+    - {name: "KU Edwards Campus", description: "Practical knowledge and skills to start or advance your career from the University of Kansas", link: "https://kupce.ku.edu/", imageUrl: "kupce.jpg", width: "200px" }
+    - {name: "Kansas City Women in Technology", description: "We're trying to grow the number of women in technology careers in Kansas City.", link: "https://kcwomenintech.org", imageUrl: "kcwit_small.png", width: "200px" }
 - group: "Contributor Sponsors"
   type: 'silver'
   elements:
