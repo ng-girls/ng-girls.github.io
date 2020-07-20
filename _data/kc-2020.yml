@@ -229,7 +229,7 @@ mentors:
     title: "Application Developer"
     company: "Crema"
     bio: '<p>Gabi spent her youth immersed in MS-DOS, server rooms, and Geocities Mariah Carey fan page HTML. She transitioned to a development career in 2016 and she loves helping others break into the industry. Her other interests include ashtanga yoga, learning languages, and curating stellar playlists.</p>'
-    thumbnailUrl: gabi.png
+    thumbnailUrl: gabi.jpg
     rockstar: true
     social:
       - {name: "twitter", link: "https://www.twitter.com/gabdom"}
@@ -241,25 +241,13 @@ mentors:
     title: "UI Engineer"
     company: "Ringmaster Technologies"
     bio: '<p>Steven Barnhurst is the lead frontend engineer at Ringmaster Technologies. He began web development in the early days of Angular and has worked with the framework ever since. He is an avid bike rider, world traveler, and beer snob.</p>'
-    thumbnailUrl: gabi.png
+    thumbnailUrl: steven.png
     rockstar: true
     social:
       - {name: "twitter", link: "https://www.twitter.com/stevenbarnhurst"}
       - {name: "github", link: "https://github.com/shteeven"}
 
   - id: 9
-    name: "Steven"
-    surname: "Barnhurst"
-    title: "UI Engineer"
-    company: "Ringmaster Technologies"
-    bio: '<p>Steven Barnhurst is the lead frontend engineer at Ringmaster Technologies. He began web development in the early days of Angular and has worked with the framework ever since. He is an avid bike rider, world traveler, and beer snob.</p>'
-    thumbnailUrl: face.svg
-    rockstar: true
-    social:
-      - {name: "twitter", link: "https://www.twitter.com/stevenbarnhurst"}
-      - {name: "github", link: "https://github.com/shteeven"}
-
-  - id: 10
     name: "Ben"
     surname: "Rodriguez"
     title: "Software Developer"
@@ -271,7 +259,7 @@ mentors:
       - {name: "twitter", link: "https://www.twitter.com/benlovesnachos"}
       - {name: "github", link: "https://github.com/benlovesnachos"}
 
-  - id: 11
+  - id: 10
     name: "Shanice"
     surname: "Gipson"
     title: "Technical Associate"
@@ -282,18 +270,18 @@ mentors:
     social:
       - {name: "github", link: "https://github.com/shanicegipson"}
 
-  - id: 12
+  - id: 11
     name: "Josiah"
     surname: "Berkebile"
-    title: "Blue KC"
-    company: "Artisan Technology Group"
+    title: "Information Architect II"
+    company: "Blue KC"
     bio: '<p>Josiah is a big data and cloud engineer by trade and love teaching people about technology. In his spare time, he goes rock climbing, he cultivates culinary mushrooms, he maintains a vegetable garden, and he enjoys reading about psychology, stoicism, taoism, etc. (mining for wisdom).</p>'
     thumbnailUrl: josiah.jpg
     rockstar: true
     social:
       - {name: "github", link: "https://github.com/josiah14"}
 
-  - id: 13
+  - id: 12
     name: "Rhia"
     surname: "Dixon"
     title: "Software Engineer"
@@ -304,28 +292,28 @@ mentors:
     social:
       - {name: "github", link: "https://github.com/risaco"}
 
-  - id: 14
+  - id: 13
     name: "Erin"
     surname: "Wilson"
     title: "Software Engineer"
     company: "Engaged Technologies"
     bio: '<p>Erin is a software engineer who is equally excited and spooked by the fact that there is never an end to what you can learn. She is passionate about being involved in tech and music scenes in KC where she enjoys mentoring, going to concerts, and playing viola in a volunteer orchestra. With the rest of her free time Erin enjoys baking, quilting, and relaxing at home with her zoo.</p>'
-    thumbnailUrl: erin.png
+    thumbnailUrl: erin.jpg
     rockstar: true
 
-  - id: 15
+  - id: 14
     name: "Katie"
     surname: "Hrenchir"
     title: "Software Engineer"
     company: "Cerner Corporation"
     bio: '<p>Katie is a young software engineer eager to share the joy of coding with women in her community.</p>'
-    thumbnailUrl: katie.png
+    thumbnailUrl: katie.jpg
     rockstar: true
     social:
       - {name: "github", link: "https://github.com/katiehrenchir"}
 
 volunteers:
- - id: 2
+ - id: 15
    name: "How about you?"
    surname: ""
    bio: '<p>Become a volunteer and support the participants at our workshop. Just fill out the application form.</p>'
