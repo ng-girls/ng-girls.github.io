@@ -98,7 +98,7 @@ team:
     social:
       - {name: "twitter", link: "https://www.twitter.com/amynorris"}
       - {name: "linkedin", link: "https://www.linkedin.com/in/norrisamy/"}
-  
+
   - id: 5
     name: 'Beth'
     surname: 'Noser'
@@ -108,7 +108,7 @@ team:
     When she’s not coding, Beth is traveling, binge watching Netflix, playing table top games with her husband and two kids, hitting up the gym and cuddling her German Shepherds.</p>'
     social:
       - {name: "twitter", link: "https://www.twitter.com/angulargirlskc"}
-  
+
   - id: 6
     name: 'Danielle'
     surname: 'Blum'
@@ -164,13 +164,165 @@ mentors:
       - {name: "twitter", link: "https://www.twitter.com/StephenFluin"}
       - {name: "github", link: "https://github.com/StephenFluin"}
 
-
   - id: 2
-    name: "How about you?"
-    surname: ""
-    bio: '<p>Become a mentor and support the participants at our workshop. Just fill out the application form.</p>'
-    thumbnailUrl: you.png
+    name: "Krista"
+    surname: "LaFentres"
+    title: "Software Engineer"
+    company: "HashiCorp"
+    bio: '<p>Krista is a senior engineer at HashiCorp who loves jumping into hard problems, figuring things out, and sharing what she has learned with others. She mentors at ngGirls because she want to share the things she has learned and experienced to help encourage more women to get into tech. When she is not coding, you can find her trying new food, lifting heavy things, admiring cute animals, or playing Animal Crossing.</p>'
+    thumbnailUrl: krista-lafentres.jpg
     rockstar: true
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/lafentres"}
+      - {name: "github", link: "https://github.com/lafentres"}
+
+  - id: 3
+    name: "Muriel"
+    surname: "Green"
+    title: "Retail Associate"
+    company: "Michaels"
+    bio: '<p>Muriel uses creativity to solve problems and technology for creativity.</p>'
+    thumbnailUrl: face.svg
+    rockstar: true
+    social:
+      - {name: "github", link: "https://github.com/Amendment19"}
+
+  - id: 4
+    name: "Kathy"
+    surname: "Salek"
+    title: "Marketing"
+    company: "H&R Block"
+    bio: '<p>Kathy is a career digital marketer with a love of technolgy and a great appreciation for code.  She has learned a TON at KCWIT events and cannot wait to share some of it!</p>'
+    thumbnailUrl: kathy-salek.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/K_Salek"}
+      - {name: "github", link: "https://github.com/K_Salek"}
+
+  - id: 5
+    name: "Saphirah"
+    surname: "Pociluyko"
+    title: "Full Stack Web Developer/Geographer"
+    company: "US Army Corps of Engineers/ KU Web Dev Boot Camp"
+    bio: '<p>Saphirah is currently working as web developer and geographer, Veteran U.S. Marine who grew up in Virginia. She is a recent graduate of the KU Full Stack Web Developer boot camp. She finds it rewarding to empower and help others learn coding. When she is not working she enjoys traveling, yoga, running, gaming, dancing, and being curious.</p>'
+    thumbnailUrl: saphirah.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/zingymoss"}
+      - {name: "github", link: "https://github.com/sjpcp5"}
+
+  - id: 6
+    name: "Joel"
+    surname: "Tanzi"
+    title: "Software Engineer"
+    company: "Engaged Technologies"
+    bio: '<p>Joel been dabbling in programming for a good 10 years now and got into the software engineering field in earnest a few years back. He has worked with a variety of teams and alongside some great women engineers but noted we still have a lot of work to do in this field to encourage women to join in, including the need to make everyone feel welcome and valued. He is participating in ngGirls because he enjoys working with people who are excited by software development like he is and because he supports the mission of KCWiT.</p>'
+    thumbnailUrl: joel.png
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/joel_tanzi"}
+      - {name: "github", link: "https://github.com/jtanzi"}
+
+  - id: 7
+    name: "Gabi"
+    surname: "Dombrowski"
+    title: "Application Developer"
+    company: "Crema"
+    bio: '<p>Gabi spent her youth immersed in MS-DOS, server rooms, and Geocities Mariah Carey fan page HTML. She transitioned to a development career in 2016 and she loves helping others break into the industry. Her other interests include ashtanga yoga, learning languages, and curating stellar playlists.</p>'
+    thumbnailUrl: gabi.png
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/gabdom"}
+      - {name: "github", link: "https://github.com/gabidombrowski"}
+
+  - id: 8
+    name: "Steven"
+    surname: "Barnhurst"
+    title: "UI Engineer"
+    company: "Ringmaster Technologies"
+    bio: '<p>Steven Barnhurst is the lead frontend engineer at Ringmaster Technologies. He began web development in the early days of Angular and has worked with the framework ever since. He is an avid bike rider, world traveler, and beer snob.</p>'
+    thumbnailUrl: gabi.png
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/stevenbarnhurst"}
+      - {name: "github", link: "https://github.com/shteeven"}
+
+  - id: 9
+    name: "Steven"
+    surname: "Barnhurst"
+    title: "UI Engineer"
+    company: "Ringmaster Technologies"
+    bio: '<p>Steven Barnhurst is the lead frontend engineer at Ringmaster Technologies. He began web development in the early days of Angular and has worked with the framework ever since. He is an avid bike rider, world traveler, and beer snob.</p>'
+    thumbnailUrl: face.svg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/stevenbarnhurst"}
+      - {name: "github", link: "https://github.com/shteeven"}
+
+  - id: 10
+    name: "Ben"
+    surname: "Rodriguez"
+    title: "Software Developer"
+    company: "IT Nachos, LLC"
+    bio: '<p>Ben is a software solution developer with over 20 years of experience.  Looking to help instill confidence in anyone that wants to code.</p>'
+    thumbnailUrl: ben.jpg
+    rockstar: true
+    social:
+      - {name: "twitter", link: "https://www.twitter.com/benlovesnachos"}
+      - {name: "github", link: "https://github.com/benlovesnachos"}
+
+  - id: 11
+    name: "Shanice"
+    surname: "Gipson"
+    title: "Technical Associate"
+    company: "VMLY&R"
+    bio: "<p>Shanice is a Kansas City native that has a strong sense of community and solving problems, with the foresight to see how technology was shaping our daily lives she choses to transition into Software Engineering. As a developer at VMLY&R she enjoys conquering coding and problems. She is hungry to continue learning and solving problems that empower and improve people's daily lives through coding. She will be participating in ngGirls to learn but to also to help those that are learning Angular.</p>"
+    thumbnailUrl: shanice.png
+    rockstar: true
+    social:
+      - {name: "github", link: "https://github.com/shanicegipson"}
+
+  - id: 12
+    name: "Josiah"
+    surname: "Berkebile"
+    title: "Blue KC"
+    company: "Artisan Technology Group"
+    bio: '<p>Josiah is a big data and cloud engineer by trade and love teaching people about technology. In his spare time, he goes rock climbing, he cultivates culinary mushrooms, he maintains a vegetable garden, and he enjoys reading about psychology, stoicism, taoism, etc. (mining for wisdom).</p>'
+    thumbnailUrl: josiah.jpg
+    rockstar: true
+    social:
+      - {name: "github", link: "https://github.com/josiah14"}
+
+  - id: 13
+    name: "Rhia"
+    surname: "Dixon"
+    title: "Software Engineer"
+    company: "C2FO"
+    bio: '<p>Rhia a KC native, mother of two. She works as a software engineer with experience in a variety of languages. She is also an international speaker and an ambassador for KC Women in Tech. She has always been a STEM girl, but my journey into tech started with a coding a bootcamp! What she loves about KCWiT is that we expose women and girls to tech in a fun, judgement-free atmosphere. This is why ngGirls is near and dear to my heart! She also is looking forward to mentoring because she enjoys meeting new people and encouraging them to learn new things.</p>'
+    thumbnailUrl: rhia.png
+    rockstar: true
+    social:
+      - {name: "github", link: "https://github.com/risaco"}
+
+  - id: 14
+    name: "Erin"
+    surname: "Wilson"
+    title: "Software Engineer"
+    company: "Engaged Technologies"
+    bio: '<p>Erin is a software engineer who is equally excited and spooked by the fact that there is never an end to what you can learn. She is passionate about being involved in tech and music scenes in KC where she enjoys mentoring, going to concerts, and playing viola in a volunteer orchestra. With the rest of her free time Erin enjoys baking, quilting, and relaxing at home with her zoo.</p>'
+    thumbnailUrl: erin.png
+    rockstar: true
+
+  - id: 15
+    name: "Katie"
+    surname: "Hrenchir"
+    title: "Software Engineer"
+    company: "Cerner Corporation"
+    bio: '<p>Katie is a young software engineer eager to share the joy of coding with women in her community.</p>'
+    thumbnailUrl: katie.png
+    rockstar: true
+    social:
+      - {name: "github", link: "https://github.com/katiehrenchir"}
 
 volunteers:
  - id: 2
@@ -180,7 +332,3 @@ volunteers:
    thumbnailUrl: "you.png"
    rockstar: true
    social:
-
-
-
-
