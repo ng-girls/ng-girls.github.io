@@ -179,10 +179,10 @@ mentors:
   - id: 3
     name: "Muriel"
     surname: "Green"
-    title: "Retail Associate"
-    company: "Michaels"
+    title: "Software Engineer"
+    company: "Engaged Technologies"
     bio: '<p>Muriel uses creativity to solve problems and technology for creativity.</p>'
-    thumbnailUrl: face.svg
+    thumbnailUrl: muriel.jpg
     rockstar: true
     social:
       - {name: "github", link: "https://github.com/Amendment19"}
