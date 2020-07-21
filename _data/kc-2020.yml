@@ -290,6 +290,7 @@ mentors:
     thumbnailUrl: rhia.png
     rockstar: true
     social:
+      - {name: "twitter", link: "https://www.twitter.com/TheFakeRiRi"}
       - {name: "github", link: "https://github.com/risaco"}
 
   - id: 13
