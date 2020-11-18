@@ -133,9 +133,74 @@ mentors:
     - {name: "github", link: "https://github.com/alisaduncan"}
 
 - id: 7
-  name: "And You?"
-  surname: ""
-  bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://goo.gl/forms/SD5WXiBI80P82Kwp2" target="_blank"> this form</a>.</p>'
+  name: "Ankita"
+  surname: "Singhal"
+  title: "Developer"
+  company: "Delivery Hero SE"
+  social:
+    - {name: "twitter", link: "https://twitter.com/Ankita__Singhal"}
+  thumbnailUrl: ankita.jpg
+  bio: "<p>
+      Hi, This is Ankita. I am Frontend developer from India, currently working in
+    Berlin.<p/>
+    <p>
+    Started learning Angular few years back and there was never looking back. I
+    feel that Girls who code are really cool and I am glad to be a part of a
+    ngGirls where I can learn from fellow dev heroes and contribute my bit to
+    our community by helping others learn. :)
+    </p>
+  "
+
+- id: 8
+  name: "Aleksandra"
+  surname: "Bielak"
+  title: "Fullstack Developer"
+  company: "Spyrosoft"
   thumbnailUrl: you.png
-  rockstar: true
+
+- id: 9 
+  name: "Karolina"
+  surname: "Tomczak"
+  title: "Front-end dev (Angular)"
+  company: "SEAR Polska"
+  thumbnailUrl: you.png
+
+- id: 10
+  name: "Dominika"
+  surname: "Zając"
+  title: "Software Engineer"
+  company: "Qualtrics"
+  social:
+    - {name: "twitter", link: "https://twitter.com/Ankita__Singhal"}
+  thumbnailUrl: domizajac.jpg
+  bio: "<p>
+    An active, well-organized person who fell in love with web and mobile
+    programming. Frontend and mobile developer at Qualtrics in Cracow.
+    </p><p>
+    Volunteer, mentor, and organizer of many IT events like Greenlight 4 Girls,
+    Night of Scientists, or SFI IT Academic Festival. Passionate about singing
+    and theatre.</p>"
+
+- id: 11
+  name: "Agnieszka"
+  surname: "Fierek"
+  title: "Frontend Developer"
+  company: "Bravelab"
+  thumbnailUrl: you.png
+
+- id: 12
+  name: "Paulina"
+  surname: "Kowal"
+  title: "Software developer"
+  company: "Globallogic"
+  thumbnailUrl: you.png
+
+- id: 13
+  name: "Lakshita"
+  surname: "Malhotra"
+  title: "Student"
+  company: "Maharaja Surajmal Institute of Technology"
+  social:
+    - {name: "twitter", link: "https://twitter.com/LakshitaMalhot4"}
+  thumbnailUrl: lakshita.jpg
 
