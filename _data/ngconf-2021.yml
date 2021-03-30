@@ -12,7 +12,7 @@ mentorsForm: "https://docs.google.com/forms/d/e/1FAIpQLSdqalj7gna2ZlyByqn0LBAzMz
 descriptionTitle: "ngGirls @ ng-conf"
 descriptionBlock:
  - {title: "Who is it for?", template: "ngconf-2021/description-who-is-it-for.html", link: "/#faq", linkTitle: "Check out the FAQ"}
- - {title: "Virtual - Online Event", template: "ngconf-2021/description-online-event.html", link: "/#faq", linkTitle: "Check out the FAQ"}
+ - {title: "Schedule", template: "ngconf-2021/description-schedule.html", link: "/#faq", linkTitle: "Check out the FAQ"}
  - {title: "Can I help?", template: "ngconf-2021/description-can-i-help.html", link: "/#help", linkTitle: "contact us", text: "Of course! There are several ways you can help: <br/>
                   <ul><li><b>Sponsors</b> - with your help we can make our events truly awesome!
                   From granting tickets to Angular conferences, through supplying lunch, to swag - lots of opportunities to help. "}
