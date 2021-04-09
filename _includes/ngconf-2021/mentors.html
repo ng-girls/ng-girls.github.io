@@ -8,7 +8,11 @@
 
       {% assign animationDelay = 0 %}
       {% for member in site.data.ngconf-2021.mentors %}
+      {% if forloop.index < 6 %}
         {% assign colWidth = 4 %}
+      {% else %}
+        {% assign colWidth = 3 %}
+      {% endif %}      
       {% assign memberImage = site.baseurl | append: '/img/ngconf-2021-mentors/' | append: member.thumbnailUrl %}
       <div class="col-md-{{ colWidth }} col-xs-6 rockstar-speakers-item animated hiding"
            data-animation="fadeInUp"

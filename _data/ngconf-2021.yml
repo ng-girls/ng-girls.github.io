@@ -130,6 +130,95 @@ mentors:
       - {name: "github", link: "https://github.com/alisaduncan"}
 
   - id: 7
+      name: "Tracy"
+      surname: "King"
+      title: "Front End Engineer"
+      company: "Mariana Tek"
+      bio: "<p>
+      I am a Front End Engineer who wants to spread the joy of learning Angular, provide a supportive environment to learn and introduce new people to the community!
+      </p>"
+      thumbnailUrl: tracy_king.png
+      rockstar: true
+      social:
+        - { name: "twitter", link: "https://twitter.com/stack_tracy_" }
+
+  - id: 8
+    name: "William"
+    surname: "Juan"
+    title: "Frontend Developer"
+    company: "Self Employed"
+    bio: "<p>
+    I am a Frontend Developer working primarily in the web and hybrid mobile space using technologies such as Angular, Nativescript, and Ionic.
+    </p>"
+    thumbnailUrl: william_juan.jpeg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/williamjuan27" }
+
+  - id: 9
+    name: "Chad"
+    surname: "Smith"
+    title: "Software Development Engineer / Instructor"
+    company: "Prime Academy (primeacademy.io)"
+    bio: "<p>
+    Chad is a Software Development Engineer / Instructor with Prime Academy. Chad leads cohorts of adult learners through a 20-week program to become software development engineers. Previously, Chad worked for Blue Cross Blue Shield of KC, where he was a software engineer. Chad worked on multiple public facing Angular (8+) portals.
+    </p>
+    <p>
+    In his spare time, Chad volunteers with Coder Dojo and Code for KC. Chad is married with 4 children. Chad's favorite coding partner is his dog, Linus.    
+    </p>"
+    thumbnailUrl: chad_smith.jpg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/codingbychad" }
+
+  - id: 10
+    name: "Cassandra"
+    surname: "Pamplona"
+    title: "Senior Developer"
+    company: "SJCOE and TR"
+    bio: "<p>
+    Hello! I am Cassandra. You can call me 'Casey'! I've been in the industry for quite some time now and I'm really shy but I want to go out of my comfort zone to do something meaningful. I'm interested on how I can make a difference in the developer community especially helping bridge the gender gap. I once gave a lecture on a Girls Who Code event and I would like to continue doing that if given a chance. I get so inspired and fulfilled whenever I see more girls can code. You have no idea how excited I get every time I see female developers! 
+    </p>"
+    thumbnailUrl: cassandra_pamplona.jpeg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/cssndrpmpln" }
+
+  - id: 11
+    name: "Ayush"
+    surname: "Mishra"
+    title: "Web Developer Intern"
+    company: "SklarMinds"
+    bio: "<p>
+    My name is Ayush Mishra and I am a Web Developer Intern for Skylaminds. I am an accomplished coder and programmer, and I enjoy using my skills to contribute to the exciting technological advances that happen every day at Skylaminds.I like to support and help developers who are at the beginner stage to learn new technology, I was one of the mentor at ng Girls India 2020 workshop , it was a great experience sharing the stage with all the experienced developers , looking forward to contribute again.
+    </p>"
+    thumbnailUrl: ayush_mishra.jpg
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/ayush_mishra18" }
+
+  - id: 12
+    name: "Alexia"
+    surname: "Proulx"
+    title: "FrontEnd Lead"
+    company: "PetalMD"
+    bio: "<p>
+    I've been working in web development for over 10 years and have been following the evolution of Angular for half of it. Between tutoring schoolmates, encouraging ladies to be interested in the field, coaching interns and onboarding new employees, I’ve always loved mentoring, even as a student. One thing leading to another, I am now a FrontEnd lead and I’m happy to report that I can do all of that and more. P.S. I’m a big dinosaur fan.    </p>"
+    thumbnailUrl: alexia_proulx.jpg
+    rockstar: true
+    social:
+
+  - id: 13
+    name: "Sakina"
+    surname: "Shivji"
+    title: "Web Developer/Developer 2"
+    company: "Rightpoint LLC, Chicago, IL"
+    bio: "<p>I'm working as a front end developer, I've been working with AngularJS (1.x)</p>"
+    thumbnailUrl: sakina_shivji.jpeg
+    rockstar: true
+    social:
+
+  - id: 14
     name: "And You?"
     surname: ""
     bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqalj7gna2ZlyByqn0LBAzMzaZ7086FB7Kq7NsoaYfH4xY0g/viewform" target="_blank"> this form</a>.</p>'
