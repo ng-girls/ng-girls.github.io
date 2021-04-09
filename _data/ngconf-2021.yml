@@ -130,17 +130,17 @@ mentors:
       - {name: "github", link: "https://github.com/alisaduncan"}
 
   - id: 7
-      name: "Tracy"
-      surname: "King"
-      title: "Front End Engineer"
-      company: "Mariana Tek"
-      bio: "<p>
-      I am a Front End Engineer who wants to spread the joy of learning Angular, provide a supportive environment to learn and introduce new people to the community!
-      </p>"
-      thumbnailUrl: tracy_king.png
-      rockstar: true
-      social:
-        - { name: "twitter", link: "https://twitter.com/stack_tracy_" }
+    name: "Tracy"
+    surname: "King"
+    title: "Front End Engineer"
+    company: "Mariana Tek"
+    bio: "<p>
+    I am a Front End Engineer who wants to spread the joy of learning Angular, provide a supportive environment to learn and introduce new people to the community!
+    </p>"
+    thumbnailUrl: tracy_king.png
+    rockstar: true
+    social:
+      - { name: "twitter", link: "https://twitter.com/stack_tracy_" }
 
   - id: 8
     name: "William"
