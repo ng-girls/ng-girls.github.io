@@ -170,8 +170,19 @@ mentors:
     rockstar: true
     social:
       - { name: "twitter", link: "https://twitter.com/codingbychad" }
-
+  
   - id: 10
+    name: "Alexia"
+    surname: "Proulx"
+    title: "FrontEnd Lead"
+    company: "PetalMD"
+    bio: "<p>
+    I've been working in web development for over 10 years and have been following the evolution of Angular for half of it. Between tutoring schoolmates, encouraging ladies to be interested in the field, coaching interns and onboarding new employees, I’ve always loved mentoring, even as a student. One thing leading to another, I am now a FrontEnd lead and I’m happy to report that I can do all of that and more. P.S. I’m a big dinosaur fan.    </p>"
+    thumbnailUrl: alexia_proulx.jpg
+    rockstar: true
+    social:
+
+  - id: 11
     name: "Cassandra"
     surname: "Pamplona"
     title: "Senior Developer"
@@ -184,7 +195,7 @@ mentors:
     social:
       - { name: "twitter", link: "https://twitter.com/cssndrpmpln" }
 
-  - id: 11
+  - id: 12
     name: "Ayush"
     surname: "Mishra"
     title: "Web Developer Intern"
@@ -196,17 +207,6 @@ mentors:
     rockstar: true
     social:
       - { name: "twitter", link: "https://twitter.com/ayush_mishra18" }
-
-  - id: 12
-    name: "Alexia"
-    surname: "Proulx"
-    title: "FrontEnd Lead"
-    company: "PetalMD"
-    bio: "<p>
-    I've been working in web development for over 10 years and have been following the evolution of Angular for half of it. Between tutoring schoolmates, encouraging ladies to be interested in the field, coaching interns and onboarding new employees, I’ve always loved mentoring, even as a student. One thing leading to another, I am now a FrontEnd lead and I’m happy to report that I can do all of that and more. P.S. I’m a big dinosaur fan.    </p>"
-    thumbnailUrl: alexia_proulx.jpg
-    rockstar: true
-    social:
 
   - id: 13
     name: "Sakina"
