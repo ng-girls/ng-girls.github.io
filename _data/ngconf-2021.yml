@@ -223,9 +223,7 @@ mentors:
     surname: "Naganur"
     title: "Senior Angular Developer "
     company: "Atos Syntel"
-    bio: "<p>
-    I am a computer science engineer with 16 years of experience in developing software in various capacity. I have been working on Angular from past 1.5 years.
-    </p>"
+    bio: "<p>I am a mom of two who loves to code. I want tech to be a level playing field for women.</p>"
     thumbnailUrl: vidva_naganur.jpeg
     rockstar: true
     social:
@@ -235,9 +233,9 @@ mentors:
     name: "Kate"
     surname: "Sky"
     title: "Software engineer "
-    company: "AON"
+    company: "CSA Technologies"
     bio: "<p>
-    It’s all here: https://www.katesky.com/
+    I have been mentoring my nieces and few other women in the past 2 years and was having so much fun with seeing the results from then. I feel that more women should be in the Angular community helping each other get started.
     </p>"
     thumbnailUrl: kate_sky.jpeg
     rockstar: true
@@ -250,7 +248,8 @@ mentors:
     title: "Web Developer "
     company: "Globant"
     bio: "<p>
-    I am a web developer, I love to work with JS technologies</p>"
+    I really like to teach about Js technologies. I think that share information is the best way to help community.
+    </p>"
     thumbnailUrl: Gabrial_Quisbe.jpeg
     rockstar: true
     social:
@@ -262,7 +261,8 @@ mentors:
     title: "Front-end developer "
     company: "Arvancloud"
     bio: "<p>
-    Greetings, I am Fateme Fazli , A frontEnd developer with 4 years of experience from Iran, i worked with many technologies including AngularJS,TypeScript, Angular 2+, Vuejs, Nuxtjs, Reactjs, React-native and..., and developed multiple applications with them .I’m Passionate about sharing my experience with other people in getting a grip in programming and have spoken in some meetups and tech conferences in Iran. Also I have experience in teaching frontend to beginners and held Angular training workshops for some companies. I’ve been engaged in the Angular Community for a long time and love to share my knowledge and passion to give back to the Angular Community. I'm a moderator and active contributor in the Angular Iran community both offline and online (Telegram, Discord, Twitter) and answered many questions and helped developers getting started with programming, frontend development and learning to solve their problems with googling, searching etc.  https://github.com/orgs/Angular-Iran/people I’ve been engaged specially in stackoverflow and helped many peoples over there https://stackoverflow.com/users/8990367/fateme-fazli?tab=profile I hope I can help many girls to kickstart their frontend knowledge and help them to enjoy coding and Angular.</p>"
+    I started my journey with creating my own smartwatch with a raspberry pi in college and these days I'm fiddling around with web panels with thousands of users. I always had a gig to bring my ideas to reality and I hope that I can help other girls to make their dreams a reality without any gender restrictions.
+    </p>"
     thumbnailUrl: fateme_fazli.jpeg
     rockstar: true
     social:
@@ -274,7 +274,8 @@ mentors:
     title: "Software Engineer"
     company: "Interfacewerk, Munich"
     bio: "<p>
-    Hi, I am Felix, 30 years, software engineer at Interface. Passionate about Angular and all related technologies, TypeScript, NgRX, RxJS, and many more.</p>"
+    Hi 👋 my name is Felix. Since 2019 I am a software engineer at Interfacewerk in Munich. When we had our first html class in middle school in 2004 I developed my passion for computers and especially the web. Angulars release in 2016 was a game changer and I want to share the beauty of Angular with the world. To increase the diversity in this field of technical arts I would be really happy to help sharing my knowledge and my passion with ngGirls.
+    </p>"
     thumbnailUrl: felix_lemke.png
     rockstar: true
     social:
@@ -286,7 +287,8 @@ mentors:
     title: "Undergrad Computer Science Student"
     company: "IIEST, Shibpur"
     bio: "<p>
-    My Personal Portfolio: https://my-portfolio-orcin-eight.vercel.app/</p>"
+    Through ngGirls, I can contribute to make the tech ecosystem more inclusive, empowering and equitable.
+    </p>"
     thumbnailUrl: vibali_joshi.jpeg
     rockstar: true
     social:
@@ -298,7 +300,8 @@ mentors:
     title: "I work as a programmer"
     company: "NTSprint"
     bio: "<p>
-    Nodejs, .Net, Javascript, Typescript</p>"
+    I am a lover of programming and video games, delighted to be able to share my knowledge with other girls and encourage them to join in the exciting adventure of the world of technology.
+    </p>"
     thumbnailUrl: Marilys_Jimenez.jpeg
     rockstar: true
     social:
@@ -310,7 +313,8 @@ mentors:
     title: "Stay-at-home-mom & Front-End Dev"
     company: "Self-employed"
     bio: "<p>
-    Over the past 20 years, I have been dedicated to education as a full-time teacher and substitute. I have a Bachelor’s degree in General Studies and Early Childhood/Elementary Education.  I am also a certified Library Media Specialist and received a Masters in Liberal Arts with an emphasis in education.  My career instilled a passion for learning, and in the summer of 2019, I ventured into the programming world.  I have devoted time to online  tutorials and lessons and have participated in several KC area workshops & meet-ups.  I have experience with CSS, HTML, Angular, Visual Studio Code, Microsoft Office, Google Suite, and Adobe Creative Cloud.  Currently, I am the Quality Assurance Tech/Front-End Dev for two personal websites:  **https://arvidoutdoors.com/: a search engine allowing people to find guided outdoor experiences created by my husband, Steve Halvorson, and **https://paulspecans.com/: a resource for my family to continue learning about my father’s pecan business.</p>"
+    I really enjoy the camaraderie of the people that moderate, mentor, and attend the workshops, and it motivates me to continue studying and creating fun apps in Angular.  I am truly honored to have been asked to be a part of such a great team and look forward to helping out in any way possible.
+    </p>"
     thumbnailUrl: Jennifer_Halvorson.jpeg
     rockstar: true
     social:
@@ -322,7 +326,8 @@ mentors:
     title: "Senior Front End Developer"
     company: "SAVVYY"
     bio: "<p>
-    I am a full time front end senior engineer, part time Angular advocate and startup technical lead.</p>"
+    I am an Angular advocate, a crazy plant lady in the making and an amateur skater. Sometimes also a very bad ukelele player. I've been building software for over 15 years as an amateur, and 7 years as a professional software engineer. I've been taking so much from the rich diverse Angular community I feel the need to pay back, doing as much as I can to \"be the person I needed 10 years ago\". I've had some mindful bright mentors and I aspire to become one myself some day.
+    </p>"
     thumbnailUrl: Natalie_Caceres.jpeg
     rockstar: true
     social:
@@ -334,7 +339,8 @@ mentors:
     title: "Software Developer"
     company: "The University of Manchester"
     bio: "<p>
-    Software developer working in fintech. .</p>"
+    Software Developer (BlackRock)
+    </p>"
     thumbnailUrl: Madalune_Raicu.jpeg
     rockstar: true
     social:
