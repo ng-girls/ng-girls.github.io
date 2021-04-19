@@ -337,7 +337,7 @@ mentors:
     name: "Madalina"
     surname: "Raicu"
     title: "Software Developer"
-    company: "The University of Manchester"
+    company: "BlackRock"
     bio: "<p>
     Software Developer (BlackRock)
     </p>"
@@ -347,6 +347,20 @@ mentors:
       - { name: "twitter", link: "https://twitter.com/MadeRaicu" }
 
   - id: 24
+    name: "Alaa"
+    surname: "Halumi"
+    title: "Front End developer"
+    company: "Bittax"
+    bio: "<p>
+    I come from a modest Arab family from Nazareth, my parents haven't finished Hight school so when I got bigger they only dreamed about me getting married. I made a BIF change in the family showing that women are able to get into industry.
+    Right now in my free time I go to high schools and speak about my experience into technologies for Arab women, I love to do it because I believe that women shouldn't be only at home cleaning, and they can also make a change in technologies.
+    To speak with them about ngGirls community will make also a switch of change.
+    </p>"
+    thumbnailUrl: you.png
+    rockstar: true
+    social:
+
+  - id: 25
     name: "And You?"
     surname: ""
     bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqalj7gna2ZlyByqn0LBAzMzaZ7086FB7Kq7NsoaYfH4xY0g/viewform" target="_blank"> this form</a>.</p>'
