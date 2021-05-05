@@ -19,7 +19,7 @@ descriptionBlock:
 partners:
 -  group: "Hosted by"
    elements:
-     - {name: "WTM Qatar", description: "WomentechMaker Qatar", link: "", imageUrl: ""}
+     - {name: "GDG Qatar", description: "Women Techmaker Qatar", link: "", imageUrl: "gdgDoha.jpeg"}
 -  group: "With support of"
    elements:
      - {name: "Ultimate Angular", description: "Ultimate Angular: Expert-led online Angular training courses", link: "https://ultimatecourses.com/", imageUrl: "ultimate-courses.svg"}
@@ -130,7 +130,7 @@ mentors:
   - id: 7
     name: "Wafa Waheeda"
     surname: "Syed"
-    title: "Front End Engineer"
+    title: "WTM Ambassador"
     company: "QCRI"
     bio: "<p>
     Software Engineer who believes that intuition over powers logic 🙃 </p>"
@@ -142,7 +142,8 @@ mentors:
   - id: 8
     name: "And You?"
     surname: ""
-    bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqalj7gna2ZlyByqn0LBAzMzaZ7086FB7Kq7NsoaYfH4xY0g/viewform" target="_blank"> this form</a>.</p>'
+    bio: '<p>Become a mentor and support the participants at our workshop. Just fill out <a href="
+  " target="_blank"> this form</a>.</p>'
     thumbnailUrl: you.png
     rockstar: true
 
