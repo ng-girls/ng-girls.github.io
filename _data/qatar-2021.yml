@@ -1,10 +1,10 @@
 heroImage: "qatar-2020.jpeg"
 heroImageSmall: "qatar_small.png"
-eventDate: "Saturday, June 5, 2021"
-heroDate: " June 5, 2021"
-date: "Saturday, June 5, 2021"
+eventDate: "Saturday, June 26, 2021"
+heroDate: " June 26, 2021"
+date: "Saturday, June 26, 2021"
 address: "Online"
-deadline: "Monday, May 31, 2021"
+deadline: "Tuesday, June 22, 2021"
 permalink: "qatar-2021"
 city: "Online"
 applicationForm: ""
@@ -131,7 +131,7 @@ mentors:
     name: "Wafa Waheeda"
     surname: "Syed"
     title: "WTM Ambassador"
-    company: "QCRI"
+    company: "WTM Ambassador"
     bio: "<p>
     Software Engineer who believes that intuition over powers logic 🙃 </p>"
     thumbnailUrl: wafa.jpeg
