@@ -105,7 +105,7 @@ bottomNavigationLinks:
   # - {permalink: "/dublin-2019/", text: "ngGirls @ Dublin"}
   #- {permalink: "/angular-online2019/", text: "ngGirls @ Online"}
   # - {permalink: "/ngRome-2019/", text: "ngGirls @ ngRome"}
-  # - {permalink: "/ngRome-2021/", text: "ngGirls @ ngRome (online)"}
+   - {permalink: "/ngRome-2021/", text: "ngGirls @ ngRome (online)"}
   # - {permalink: "/vienna10_2019/", text: "ngGirls @ Vienna 2019"}
   # - {permalink: "/ngspain-2019/", text: "ngGirls @ ngSpain"}
   # - {permalink: "/devreach-2019/", text: "ngGirls @ DevReach"}
@@ -190,7 +190,7 @@ upcomingEvents:
   # - {permalink: "/dublin-2019/", text: "ngGirls @ Dublin",  date: "September 22th<br /> 2019", location: "Dublin", name: "ngGirls @ Dublin", image: "dublin_small.jpg"}
   # - {permalink: "/angular-online2019/", text: "ngGirls @ Online 2019", date: "September 28th<br /> 2019", location: "ngGirls Online", name: "ngGirls @ Online 2019", image: "angular_online.jpg"}
   # - {permalink: "/ngRome-2019/", text: "ngGirls @ ngRome", date: "October 6th<br /> 2019", location: "Rome", name: "ngGirls @ ngRome", image: "rome_small.jpg"}
-  # - {permalink: "/ngRome-2021/", text: "ngGirls @ ngRome (online)", date: "July 8th<br /> 2021", location: "Rome", name: "ngGirls @ ngRome (online)", image: "rome_small.jpg"}
+   - {permalink: "/ngRome-2021/", text: "ngGirls @ ngRome (online)", date: "July 8th<br /> 2021", location: "Rome", name: "ngGirls @ ngRome (online)", image: "rome_small.jpg"}
   # - {permalink: "/vienna10_2019/", text: "ngGirls @ Vienna 2019", date: "October 12th<br /> 2019", location: "Vienna", name: "ngGirls @ Vienna 2019", image: "vienna_small.jpg"}
   # - {permalink: "/ngspain-2019/", text: "ngGirls @ ngSpain", date: "October 18th<br /> 2019", location: "Madrid", name: "ngGirls @ ngSpain", image: "madrid_small.jpg"}
   # - {permalink: "/devReach-2019/", text: "ngGirls @ DevReach", date: "October 20th<br /> 2019", location: "Sofia", name: "ngGirls @ DevReach", image: "sofia_small.jpg"}
@@ -269,7 +269,7 @@ heroButtons:
   #  - {permalink: "/dublin-2019/", text: "ngGirls @ Dublin"}
   # - {permalink: "/angular-online2019/", text: "ngGirls @ Online 2019"}
   # - {permalink: "/ngRome-2019/", text: "ngGirls @ ngRome"}
-  # - {permalink: "/ngRome-2021/", text: "ngGirls @ ngRome (online)"}
+   - {permalink: "/ngRome-2021/", text: "ngGirls @ ngRome (online)"}
   # - {permalink: "/vienna10_2019/", text: "ngGirls @ Vienna 2019"}
   # - {permalink: "/ngspain-2019/", text: "ngGirls @ ngSpain"}
   # - {permalink: "/devreach-2019/", text: "ngGirls @ DevReach"}
